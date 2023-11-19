@@ -32,6 +32,9 @@
           <div>
             by <@crafter.span $field"author_s">${contentModel.author_s!""}</@crafter.span>
           </div>
+			<@crafter.div $field="date_dt">
+				${contentModel.date_dt?date?iso(siteConfig.getString("timeZone"))}
+			</@crafter.div>
 				</header>
 				<#if contentModel.image_s??>
 					<#assign image = contentModel.image_s/>

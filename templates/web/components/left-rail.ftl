@@ -1,5 +1,7 @@
 <#import "/templates/system/common/crafter.ftl" as crafter />
 
+<#assign shortLocale = (contentModel.storeUrl?replace("/site/components/",""))?substring(0, 2) />
+
 <@crafter.div id="sidebar">
   <div class="inner">
 
@@ -13,9 +15,9 @@
     <!-- Menu -->
     <nav id="menu">
       <header class="major">
-        <h2>Menu</h2>
+        <h2>Menu (${shortLocale})</h2>
       </header>
-      <@crafter.navigation url="/site/website" showNavElement=false />
+      <@crafter.navigation url="/site/website/${shortLocale}" showNavElement=false />
     </nav>
 
     <!-- Widgets -->
