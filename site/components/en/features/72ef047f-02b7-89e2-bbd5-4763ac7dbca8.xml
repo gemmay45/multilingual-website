@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/feature</content-type>
+	<display-template>/templates/web/components/feature.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>809127d1</objectGroupId>
+	<objectId>809127d1-b59f-432b-b463-f4d08262c7bd</objectId>
+	<file-name>72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</file-name>
+	<internal-name>Closed captioning</internal-name>
+	<title_t>Closed captioning</title_t>
+	<disabled>false</disabled>
+	<icon_s>fa-closed-captioning far</icon_s>
+	<body_html>&lt;p&gt;Closed captioning sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</body_html>
+	<createdDate>2023-11-09T14:30:00.255Z</createdDate>
+	<createdDate_dt>2023-11-09T14:30:00.255Z</createdDate_dt>
+	<lastModifiedDate>2023-11-09T14:30:00.255Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-09T14:30:00.255Z</lastModifiedDate_dt>
+	<localeCode_s>en</localeCode_s>
+	<sourceLocaleCode_s>en</sourceLocaleCode_s>
+	<localeSourceId_s>63254227-1bf4-4f47-b077-5b2b9a26301a</localeSourceId_s>
+	<folder-name>/site/components/en</folder-name>
+</component>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/category-landing</content-type>
+	<display-template>/templates/web/pages/category-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a4aa2d75</objectGroupId>
+	<objectId>a4aa2d75-06b5-4ae7-b0cf-c9237d4c2f89</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>technology</folder-name>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<internal-name>Technology</internal-name>
+	<title_t>Technology</title_t>
+	<createdDate>2022-03-03T14:42:23.891Z</createdDate>
+	<createdDate_dt>2022-03-03T14:42:23.891Z</createdDate_dt>
+	<lastModifiedDate>2023-11-09T14:09:24.435Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-09T14:09:24.435Z</lastModifiedDate_dt>
+	<category_s>technology</category_s>
+	<max_articles_i>10</max_articles_i>
+	<articles_title_t>Technology</articles_title_t>
+	<localeCode_s>es</localeCode_s>
+	<sourceLocaleCode_s>es</sourceLocaleCode_s>
+	<disabled>false</disabled>
+	<localeSourceId_s>5669cb0d-5e3d-5b6f-c740-a6f659379f3c</localeSourceId_s>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true">	<item>	<key>/site/components/es/left-rails/left-rail-with-no-articles.xml</key>
+	<value>Left Rail with No Articles</value>
+	<include>/site/components/es/left-rails/left-rail-with-no-articles.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></left_rail_o>
+</page>

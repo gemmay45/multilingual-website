@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/category-landing</content-type>
+	<display-template>/templates/web/pages/category-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7810102c</objectGroupId>
+	<objectId>7810102c-f82a-45c6-a22a-7f0e765b6158</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>health</folder-name>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<internal-name>Health</internal-name>
+	<title_t>Health</title_t>
+	<createdDate>2022-03-04T20:44:37.353Z</createdDate>
+	<createdDate_dt>2022-03-04T20:44:37.353Z</createdDate_dt>
+	<lastModifiedDate>2023-11-09T14:09:02.480Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-09T14:09:02.480Z</lastModifiedDate_dt>
+	<category_s>health</category_s>
+	<max_articles_i>10</max_articles_i>
+	<articles_title_t>Health</articles_title_t>
+	<disabled>false</disabled>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true">	<item>	<key>/site/components/es/left-rails/left-rail-with-no-articles.xml</key>
+	<value>Left Rail with No Articles</value>
+	<include>/site/components/es/left-rails/left-rail-with-no-articles.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></left_rail_o>
+	<localeCode_s>es</localeCode_s>
+	<sourceLocaleCode_s>es</sourceLocaleCode_s>
+	<localeSourceId_s>6152479e-e3db-3a0c-43cb-f7f8e32c1cbc</localeSourceId_s>
+</page>

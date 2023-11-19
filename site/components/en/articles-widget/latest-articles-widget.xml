@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/articles-widget</content-type>
+	<display-template>/templates/web/components/articles-widget.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bf5ba8f8</objectGroupId>
+	<objectId>bf5ba8f8-941f-4994-8b8e-d91246a5e9fb</objectId>
+	<file-name>latest-articles-widget.xml</file-name>
+	<folder-name>/site/components/en</folder-name>
+	<internal-name>Latest Articles Widget</internal-name>
+	<title_t>Latest Articles</title_t>
+	<max_articles_i>3</max_articles_i>
+	<scripts_o item-list="true">	<item>	<key>/scripts/components/latest-articles.groovy</key>
+	<value>latest-articles.groovy</value>
+	<disableFlattening>false</disableFlattening>
+	</item></scripts_o>
+	<createdDate>2023-11-09T13:56:31.761Z</createdDate>
+	<createdDate_dt>2023-11-09T13:56:31.761Z</createdDate_dt>
+	<lastModifiedDate>2023-11-09T13:56:31.761Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-09T13:56:31.761Z</lastModifiedDate_dt>
+	<localeCode_s>en</localeCode_s>
+	<sourceLocaleCode_s>en</sourceLocaleCode_s>
+	<disabled>false</disabled>
+	<localeSourceId_s>2560fa97-f62f-488c-9062-18cfca367ada</localeSourceId_s>
+</component>

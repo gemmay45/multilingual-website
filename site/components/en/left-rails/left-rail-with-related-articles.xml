@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/left-rail</content-type>
+	<display-template>/templates/web/components/left-rail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e6e0a682</objectGroupId>
+	<objectId>e6e0a682-9cbe-4680-b96c-90181714b3e8</objectId>
+	<file-name>left-rail-with-related-articles.xml</file-name>
+	<folder-name/>
+	<internal-name>Left Rail with Related Articles</internal-name>
+	<createdDate>2023-11-09T13:51:43.462Z</createdDate>
+	<createdDate_dt>2023-11-09T13:51:43.462Z</createdDate_dt>
+	<lastModifiedDate>2023-11-10T00:36:42.694Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-10T00:36:42.694Z</lastModifiedDate_dt>
+	<widgets_o item-list="true">	<item>	<key>/site/components/en/articles-widget/related-articles-widget.xml</key>
+	<value>Related Articles Widget</value>
+	<include>/site/components/en/articles-widget/related-articles-widget.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/contacts/contact-widget.xml</key>
+	<value>Contact Widget</value>
+	<include>/site/components/contacts/contact-widget.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></widgets_o>
+	<localeCode_s/>
+	<sourceLocaleCode_s>en</sourceLocaleCode_s>
+	<disabled>false</disabled>
+	<localeSourceId_s>a8f69751-1ff3-4185-96e1-a50ae54d51f4</localeSourceId_s>
+</component>
