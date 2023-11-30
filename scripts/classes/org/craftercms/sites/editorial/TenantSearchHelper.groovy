@@ -38,13 +38,16 @@ class TenantSearchHelper {
   static final int DEFAULT_START = 0
   static final int DEFAULT_ROWS = 10
   static final String MULTIPLE_VALUES_SEARCH_ANALYZER = Analyzer.Kind.Whitespace.jsonValue()
+  
+  def locale = "en"
 
   OpenSearchClientWrapper searchClient
   UrlTransformationService urlTransformationService
 
-  TenantSearchHelper(OpenSearchClientWrapper searchClient, UrlTransformationService urlTransformationService) {
+  TenantSearchHelper(OpenSearchClientWrapper searchClient, UrlTransformationService urlTransformationService, locale) {
     this.searchClient = searchClient
     this.urlTransformationService = urlTransformationService
+    this.locale = locale
   }
 
   def search(userTerm, categories, start = DEFAULT_START, rows = DEFAULT_ROWS) {
@@ -58,6 +61,12 @@ class TenantSearchHelper {
           .stringValue(TENANT_CONTENT_TYPE)
         )
       )
+      .match(m -> m
+          .field("localeCode_s")
+          .query(v -> v
+            .stringValue(this.locale)
+          )
+        )
     )
     if (categories) {
       // Filter by categories
@@ -135,6 +144,14 @@ class TenantSearchHelper {
               .field("content-type")
               .query(v -> v
                 .stringValue(TENANT_CONTENT_TYPE)
+              )
+            )
+          )
+          b.filter(f -> f
+            .match(m -> m
+              .field("localeCode_s")
+              .query(v -> v
+                .stringValue(this.locale)
               )
             )
           )
