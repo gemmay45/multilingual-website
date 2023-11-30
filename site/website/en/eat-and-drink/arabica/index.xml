@@ -27,20 +27,12 @@
 	</item>	<item>	<hashtags_s>#ArabicaHK</hashtags_s>
 	<hashtag_s>#ArabicaHK</hashtag_s>
 	</item></hashtags_o>
-	<relatedMAGArticle_o item-list="true">	<item>	<key>/site/website/en/articles/2021/3/tpinsiderhashtagb/index.xml</key>
-	<value>tpinsiderhashtagb</value>
-	<include>/site/website/en/articles/2021/3/tpinsiderhashtagb/index.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item>	<key>/site/website/en/articles/2021/3/aikoothismonthnov2023/index.xml</key>
-	<value>aikoothismonthnov2023</value>
-	<include>/site/website/en/articles/2021/3/aikoothismonthnov2023/index.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item></relatedMAGArticle_o>
+	<relatedMAGArticle_o item-list="true"/>
 	<description_html>&lt;p&gt;Tucked away in the basement of Quarry Bay&amp;rsquo;s most Instagrammable spot lies a truly transformational coffee experience. Perched between the barbershops and Thai eateries is this tiny futuristic coffee shop. Its interior is modelled after the Monster Building with stacks of coffee bags resembling the iconic architecture of the local landmark.&lt;/p&gt;</description_html>
 	<createdDate>2023-11-30T15:17:19.823Z</createdDate>
 	<createdDate_dt>2023-11-30T15:17:19.823Z</createdDate_dt>
-	<lastModifiedDate>2023-11-30T15:42:20.494Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-11-30T15:42:20.494Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-11-30T15:44:22.244Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-30T15:44:22.244Z</lastModifiedDate_dt>
 	<openingHours_html>&lt;p&gt;Mon-Fri 8:30am-7pm&lt;br /&gt;Sat-Sun 9am-7pm&lt;/p&gt;</openingHours_html>
 	<header_o item-list="true"/>
 	<leftRail_o item-list="true">	<item>	<key>/site/components/en/left-rails/left-rail-with-no-articles.xml</key>
