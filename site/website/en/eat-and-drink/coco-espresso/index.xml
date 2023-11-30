@@ -7,7 +7,7 @@
 	<objectGroupId>003d8690</objectGroupId>
 	<objectId>003d8690-f807-4436-8c1e-8b18c38d4020</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>eat-and-drink</folder-name>
+	<folder-name>coco-espresso</folder-name>
 	<internal-name>CoCo Espresso</internal-name>
 	<navLabel>CoCo Espresso</navLabel>
 	<name_s>CoCo Espresso</name_s>
@@ -19,7 +19,7 @@
 	<appleMapsDirection_s>http://maps.apple.com/?ll=22.287508223490956,114.21087812040749&amp;q=CoCo%20Espresso</appleMapsDirection_s>
 	<citymapperDirections_s>https://citymapper.com/directions?endcoord=22.287508223490956%2C114.21087812040749&amp;endname=CoCo%20Espresso&amp;endaddress=G%2FF%2013-15%20Hoi%20Kwong%20St%2C%20Quarry%20Bay</citymapperDirections_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>1000.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<header_o item-list="true"/>
 	<leftRail_o item-list="true"/>
 	<relatedMAGArticle_o item-list="true"/>
@@ -40,8 +40,11 @@
 	</item></images_o>
 	<createdDate>2023-11-30T15:17:20.376Z</createdDate>
 	<createdDate_dt>2023-11-30T15:17:20.376Z</createdDate_dt>
-	<lastModifiedDate>2023-11-30T15:17:20.376Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-11-30T15:17:20.376Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-11-30T15:25:14.946Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-30T15:25:14.946Z</lastModifiedDate_dt>
 	<recommended_o item-list="true"/>
 	<tagline_s>Popular neighbourhood street-side café</tagline_s>
+	<localeCode_s>en</localeCode_s>
+	<sourceLocaleCode_s>en</sourceLocaleCode_s>
+	<localeSourceId_s>62c35ea1-908f-9a9e-243f-fec87ef42a6d</localeSourceId_s>
 </page>
