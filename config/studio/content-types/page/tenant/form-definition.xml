@@ -1360,7 +1360,7 @@
 						</property>
 						<property>
 							<name>browsePath</name>
-							<value>/site/website/parentPath[0]/articles/</value>
+							<value>/site/website/en/articles/</value>
 								<type>content-path-input</type>
 						</property>
 						<property>
@@ -1398,7 +1398,7 @@
 						</property>
 						<property>
 							<name>browsePath</name>
-							<value>/site/website/parentPath[0]/eat-and-drink</value>
+							<value>/site/website/en/eat-and-drink</value>
 								<type>content-path-input</type>
 						</property>
 						<property>
