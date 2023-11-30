@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d582</objectGroupId>
+	<objectId>d5824453-b743-4575-bb7a-5c49c0fbedbb</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>10-tips-to-get-in-shape</folder-name>
+	<internal-name>10 Tips to Get in Shape</internal-name>
+	<title_t>10 Tips to Get in Shape</title_t>
+	<subject_t>10 Tips to Get in Shape</subject_t>
+	<author_s>John Doe</author_s>
+	<segments_o>	<item>	<key>guy</key>
+	<value_smv>Guy</value_smv>
+	</item></segments_o>
+	<date_dt>2021-02-07T16:00:00.000Z</date_dt>
+	<createdDate>2017-03-2T20:52:30.000Z</createdDate>
+	<createdDate_dt>2017-03-2T20:52:30.000Z</createdDate_dt>
+	<lastModifiedDate>2023-11-28T06:04:27.899Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-28T06:04:27.899Z</lastModifiedDate_dt>
+	<featured_b>true</featured_b>
+	<summary_t>Ut pellentesque nibh porta lacinia porta. Nam eleifend aliquam tellus sit amet sagittis. Maecenas id eros velit. Donec feugiat iaculis augue eu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</summary_t>
+	<image_s>/static-assets/images/get-in-shape-pic.jpg</image_s>
+	<disabled>false</disabled>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true"/>
+	<pageSections_o item-list="true">	<item inline="true">	<key>12eabb2a-1eba-437f-bfba-aaac94362c71</key>
+	<value>New Mag Image Gallery</value>
+	<disableFlattening>false</disableFlattening>
+<component id="12eabb2a-1eba-437f-bfba-aaac94362c71">
+        <content-type>/component/magimagegallery</content-type>
+        <display-template>/templates/web/components/mag-image-gallery.ftl</display-template>
+        <internal-name><![CDATA[New Mag Image Gallery]]></internal-name>
+        <file-name>12eabb2a-1eba-437f-bfba-aaac94362c71.xml</file-name>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <createdDate_dt>2023-11-19T09:46:20.085Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-19T09:46:20.085Z</lastModifiedDate_dt>
+        <objectId>12eabb2a-1eba-437f-bfba-aaac94362c71</objectId>
+        <slideitems_o/>
+      </component>
+	</item></pageSections_o>
+	<date_dt_tz>Asia/Hong_Kong</date_dt_tz>
+	<categories_o>	<item>	<key>health</key>
+	<value_smv>Health</value_smv>
+	</item></categories_o>
+</page>

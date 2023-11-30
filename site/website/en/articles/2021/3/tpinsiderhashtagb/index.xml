@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b814</objectGroupId>
+	<objectId>b814118a-f058-fdd2-da6d-a89e8154382f</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tpinsiderhashtagb</folder-name>
+	<internal-name>tpinsiderhashtagb</internal-name>
+	<title_t>Taikoo Place Insiders: James Chu, founder of Hashtag B</title_t>
+	<subject_t>Taikoo Place Insiders: James Chu, founder of Hashtag B</subject_t>
+	<author_s>John Doe</author_s>
+	<disabled>false</disabled>
+	<featured_b>true</featured_b>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true"/>
+	<pageSections_o item-list="true">	<item inline="true">	<key>c44c7ad2-238f-41d7-a84c-0fb8d592c98b</key>
+	<value>New Mag Banner Image</value>
+	<disableFlattening>false</disableFlattening>
+<component id="c44c7ad2-238f-41d7-a84c-0fb8d592c98b">
+        <content-type>/component/magbannerimage</content-type>
+        <display-template>/templates/web/components/mag-banner-image.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Banner Image</internal-name>
+        <file-name>c44c7ad2-238f-41d7-a84c-0fb8d592c98b.xml</file-name>
+        <createdDate_dt>2023-11-14T12:48:21.162Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T05:01:23.123Z</lastModifiedDate_dt>
+        <objectId>c44c7ad2-238f-41d7-a84c-0fb8d592c98b</objectId>
+        <sectionId_s/>
+        <caption_s/>
+        <imageOnDesktop_s>/static-assets/images/the-mag/themag2023/november-2023/tpinsider/_q7a1407.jpg</imageOnDesktop_s>
+        <imageOnMobile_s/>
+        <imageBackgroundColor_s/>
+        <renderer_s/>
+        <folder-name/>
+        <createdDate>2023-11-14T12:48:21.162Z</createdDate>
+        <lastModifiedDate>2023-11-15T05:01:23.123Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>9061c4e1-3d8c-44aa-a34f-84a48eb7b225</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="9061c4e1-3d8c-44aa-a34f-84a48eb7b225">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>9061c4e1-3d8c-44aa-a34f-84a48eb7b225.xml</file-name>
+        <createdDate_dt>2023-11-16T08:10:54.914Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-16T08:10:54.914Z</lastModifiedDate_dt>
+        <objectId>9061c4e1-3d8c-44aa-a34f-84a48eb7b225</objectId>
+        <sectionId_s/>
+        <title_s>Title goes here</title_s>
+        <content_html>&lt;p&gt;Bake it &amp;lsquo;til you make it! You might have seen the innovative and delicious creations of local Hong Kong bakery Hashtag B trending on social media &amp;ndash; and now you can come try them for yourself at their newest branch, right here in Taikoo Place.&lt;/p&gt;
+&lt;p&gt;To celebrate their recent launch in Berkshire House, we grabbed a chat with Hashtag B&amp;rsquo;s founder James Chu to find out what inspired him to start a bakery and his tips for fellow entrepreneurs.&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-16T08:10:54.914Z</createdDate>
+        <lastModifiedDate>2023-11-16T08:10:54.914Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>3cae9530-82a5-405e-8d61-e1a42107a05a</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="3cae9530-82a5-405e-8d61-e1a42107a05a">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>3cae9530-82a5-405e-8d61-e1a42107a05a.xml</file-name>
+        <createdDate_dt>2023-11-15T00:25:53.006Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T04:54:01.540Z</lastModifiedDate_dt>
+        <objectId>3cae9530-82a5-405e-8d61-e1a42107a05a</objectId>
+        <sectionId_s/>
+        <title_s>Title goes here</title_s>
+        <content_html>&lt;p&gt;&lt;strong&gt;Could you please introduce Hashtag B to us? What sets you apart from other Hong Kong bakeries? &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hashtag B is a bakery concept that sets out to break boundaries. We specialise in using different techniques to deliver innovative baked goods &amp;ndash; setting high standards and trying the unimaginable to separate ourselves from others.&lt;/p&gt;
+&lt;p&gt;&lt;img style="height: 75%; width: 100%;" src="https://www.taikooplace.com/-/media/images/taikooplace/siteimages/themag2023/november-2023/tpinsider/_q7a1689.ashx?h=75%25&amp;amp;w=100%25" alt="" /&gt;&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-15T00:25:53.006Z</createdDate>
+        <lastModifiedDate>2023-11-15T04:54:01.540Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>9928cdde-68c3-4b11-94fb-bf8b0e4b99dd</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="9928cdde-68c3-4b11-94fb-bf8b0e4b99dd">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>9928cdde-68c3-4b11-94fb-bf8b0e4b99dd.xml</file-name>
+        <createdDate_dt>2023-11-15T00:26:59.923Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T04:54:18.636Z</lastModifiedDate_dt>
+        <objectId>9928cdde-68c3-4b11-94fb-bf8b0e4b99dd</objectId>
+        <sectionId_s/>
+        <title_s>Title goes here</title_s>
+        <content_html>&lt;p&gt;&lt;strong&gt;What inspired you to start Hashtag B?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve always loved bread and pastries. After growing up with our day-to-day local bakeries, I wanted to start a concept that offers new products with a strong connection to Hong Kong people&amp;rsquo;s tastebuds. Bread and pastries always make people happy.&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-15T00:26:59.923Z</createdDate>
+        <lastModifiedDate>2023-11-15T04:54:18.636Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>9dcd192e-471c-43fa-8ac1-4e772611eadc</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="9dcd192e-471c-43fa-8ac1-4e772611eadc">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>9dcd192e-471c-43fa-8ac1-4e772611eadc.xml</file-name>
+        <createdDate_dt>2023-11-14T05:20:24.660Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T04:54:39.892Z</lastModifiedDate_dt>
+        <objectId>9dcd192e-471c-43fa-8ac1-4e772611eadc</objectId>
+        <sectionId_s/>
+        <title_s>Title goes here</title_s>
+        <content_html>&lt;p&gt;&lt;strong&gt;Why did you decide on Taikoo Place for your new branch? &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Taikoo Place and Quarry Bay is a great area that captures a vast number of different potential customers, like office workers, neighbourhood residents and outside visitors. Furthermore, these customers usually have higher expectations for food and service! We like being close to and gaining their first-hand feedback.&lt;/p&gt;
+&lt;p&gt;&lt;img style="height: 76%; width: 100%;" src="https://www.taikooplace.com/-/media/images/taikooplace/siteimages/themag2023/november-2023/tpinsider/_q7a1703.ashx?h=76%25&amp;amp;w=100%25" alt="" /&gt;&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-14T05:20:24.660Z</createdDate>
+        <lastModifiedDate>2023-11-15T04:54:39.892Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>be41185e-e62b-4835-811d-f835fd329c20</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="be41185e-e62b-4835-811d-f835fd329c20">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>be41185e-e62b-4835-811d-f835fd329c20.xml</file-name>
+        <createdDate_dt>2023-11-14T05:22:23.818Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T04:54:50.895Z</lastModifiedDate_dt>
+        <objectId>be41185e-e62b-4835-811d-f835fd329c20</objectId>
+        <sectionId_s/>
+        <title_s>Title goes here</title_s>
+        <content_html>&lt;p&gt;&lt;strong&gt;How do you get ideas for new items and flavours?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We take what has been popular and try to fuse it with baking. For instance, Korean cuisine has been a recent favourite, so we created a Korean kimchi luncheon meat pastry. How often do you get to taste a spicy-based pastry?&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-14T05:22:23.818Z</createdDate>
+        <lastModifiedDate>2023-11-15T04:54:50.895Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>212be41c-9271-4942-bee3-77b9a2ea7070</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="212be41c-9271-4942-bee3-77b9a2ea7070">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>212be41c-9271-4942-bee3-77b9a2ea7070.xml</file-name>
+        <createdDate_dt>2023-11-16T08:12:24.698Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-16T08:12:24.698Z</lastModifiedDate_dt>
+        <objectId>212be41c-9271-4942-bee3-77b9a2ea7070</objectId>
+        <sectionId_s/>
+        <title_s>Title goes here</title_s>
+        <content_html>&lt;p&gt;&lt;strong&gt;Which items are your best-sellers? Any personal favourites?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our best-seller is our Napoleon egg tart. Coming straight out the oven, its warm filling, caramel layer and napoleon crust are sensational &amp;ndash; the perfect combo!&lt;/p&gt;
+&lt;p&gt;My favourite items are our pastry items because we spent a lot of time mastering our use of butter and layering pastry. Our products are slightly more buttery yet maintain an amazing crunch; I love having them fresh and crispy.&lt;/p&gt;
+&lt;p&gt;&lt;img style="height: 76%; width: 100%;" src="https://www.taikooplace.com/-/media/images/taikooplace/siteimages/themag2023/november-2023/tpinsider/eggtart-wide.ashx?h=76%25&amp;amp;w=100%25" alt="" /&gt;&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-16T08:12:24.698Z</createdDate>
+        <lastModifiedDate>2023-11-16T08:12:24.698Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>c0c6db88-fbab-4c19-85d0-035e351b2769</key>
+	<value>New Mag Portrait Image with Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="c0c6db88-fbab-4c19-85d0-035e351b2769">
+	<content-type>/component/magportraitimagewithtext</content-type>
+	<display-template>/templates/web/components/mag-portrait-image-with-text.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<internal-name>New Mag Portrait Image with Text</internal-name>
+	<file-name>c0c6db88-fbab-4c19-85d0-035e351b2769.xml</file-name>
+	<createdDate_dt>2023-11-16T08:17:05.946Z</createdDate_dt>
+	<lastModifiedDate_dt>2023-11-27T01:50:18.109Z</lastModifiedDate_dt>
+	<objectId>c0c6db88-fbab-4c19-85d0-035e351b2769</objectId>
+	<image_s>/static-assets/images/the-mag/themag2023/november-2023/tpinsider/_q7a1475-edit-s.jpg</image_s>
+	<sideContent_html>&lt;p&gt;&lt;strong&gt;Over the past few years, it seems there&amp;rsquo;s been an explosion of new independent bakeries in Hong Kong! Why do you think that is?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hong Kongers love their food and are always searching for new ideas. Covid impacted us in many ways and during this period in particular, I saw many youngsters spending time in cafes. I think enjoying pastries in caf&amp;eacute;s and bakeries became a lifestyle for many people &amp;ndash; and I love seeing so many options now for them to choose from!&lt;/p&gt;</sideContent_html>
+	<imagePosition_s>-right</imagePosition_s>
+	<folder-name/>
+	<createdDate>2023-11-16T08:17:05.946Z</createdDate>
+	<lastModifiedDate>2023-11-27T01:50:18.109Z</lastModifiedDate>
+	<sectionId_s/>
+</component>
+	</item>	<item inline="true">	<key>0903b3f1-70f7-49b6-8faa-80ffac48df03</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="0903b3f1-70f7-49b6-8faa-80ffac48df03">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>0903b3f1-70f7-49b6-8faa-80ffac48df03.xml</file-name>
+        <createdDate_dt>2023-11-15T00:29:21.860Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T04:56:24.292Z</lastModifiedDate_dt>
+        <objectId>0903b3f1-70f7-49b6-8faa-80ffac48df03</objectId>
+        <sectionId_s/>
+        <title_s>Title goes here</title_s>
+        <content_html>&lt;p&gt;&lt;strong&gt;Hashtag B has become something of a social media sensation recently; do you have any tips for entrepreneurs on making a product go viral? &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Be true to and consistent with your goals. There will be obstacles and distractions along the way, but always stick to what you want to deliver to your customers.&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-15T00:29:21.860Z</createdDate>
+        <lastModifiedDate>2023-11-15T04:56:24.292Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>a9d5dd40-3c47-41eb-8174-abbdb8199747</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="a9d5dd40-3c47-41eb-8174-abbdb8199747">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>a9d5dd40-3c47-41eb-8174-abbdb8199747.xml</file-name>
+        <createdDate_dt>2023-11-15T00:30:39.835Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T04:56:28.214Z</lastModifiedDate_dt>
+        <objectId>a9d5dd40-3c47-41eb-8174-abbdb8199747</objectId>
+        <sectionId_s/>
+        <title_s>Title goes here</title_s>
+        <content_html>&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s something you wish you&amp;rsquo;d known before starting Hashtag B?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The difficulty in finding talent in Hong Kong. We are seeing fewer people who wish to join this line of business and there is a definite gap between the working generations.&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-15T00:30:39.835Z</createdDate>
+        <lastModifiedDate>2023-11-15T04:56:28.214Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>7b417c41-ffe0-4e99-8b5c-f106156f0d36</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="7b417c41-ffe0-4e99-8b5c-f106156f0d36">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>7b417c41-ffe0-4e99-8b5c-f106156f0d36.xml</file-name>
+        <createdDate_dt>2023-11-15T00:31:32.027Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T04:56:32.545Z</lastModifiedDate_dt>
+        <objectId>7b417c41-ffe0-4e99-8b5c-f106156f0d36</objectId>
+        <sectionId_s/>
+        <title_s>Title goes here</title_s>
+        <content_html>&lt;p&gt;&lt;strong&gt;Where are your favourite places to eat and drink around Taikoo Place?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fuel Espresso has always been my hangout spot, while Cloud Nine is a new hotpot place that I&amp;rsquo;ve visited a couple of times!&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-15T00:31:32.027Z</createdDate>
+        <lastModifiedDate>2023-11-15T04:56:32.545Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>fa8e1df6-2a08-4ce1-8224-284f326d3cfd</key>
+	<value>New Mag Event</value>
+	<disableFlattening>false</disableFlattening>
+<component id="fa8e1df6-2a08-4ce1-8224-284f326d3cfd">
+        <content-type>/component/magevent</content-type>
+        <display-template>/templates/web/components/mag-event.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Event</internal-name>
+        <file-name>fa8e1df6-2a08-4ce1-8224-284f326d3cfd.xml</file-name>
+        <createdDate_dt>2023-11-16T08:21:57.988Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-16T08:35:57.808Z</lastModifiedDate_dt>
+        <objectId>fa8e1df6-2a08-4ce1-8224-284f326d3cfd</objectId>
+        <sectionId_s/>
+        <title_s no-default="true"/>
+        <summary_html no-default="true"/>
+        <imagePosition_s/>
+        <image_s/>
+        <event_o item-list="true">
+          <item>
+            <icon_s/>
+            <content_html>Hashtag B</content_html>
+          </item>
+          <item>
+            <icon_s>fas fa-map-marker-alt</icon_s>
+            <content_html>Area A, G/F, Berkshire House, Taikoo Place</content_html>
+          </item>
+          <item>
+            <icon_s>fas fa-globe</icon_s>
+            <content_html>&lt;span style="text-decoration: underline;"&gt;&lt;a href="http://www.hashtag-b.com/" target="_blank" rel="noopener noreferrer"&gt;hashtag-b.com &lt;/a&gt;&lt;/span&gt;</content_html>
+          </item>
+        </event_o>
+        <folder-name/>
+        <createdDate>2023-11-16T08:21:57.988Z</createdDate>
+        <lastModifiedDate>2023-11-16T08:35:57.808Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>3fbd851f-e701-4270-9299-e0436ddcfe1a</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="3fbd851f-e701-4270-9299-e0436ddcfe1a">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>3fbd851f-e701-4270-9299-e0436ddcfe1a.xml</file-name>
+        <createdDate_dt>2023-11-15T00:32:10.491Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T04:56:36.115Z</lastModifiedDate_dt>
+        <objectId>3fbd851f-e701-4270-9299-e0436ddcfe1a</objectId>
+        <sectionId_s/>
+        <title_s>Title goes here</title_s>
+        <content_html>&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s your life motto?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Denzel Washington once said, &amp;ldquo;Dreams without goals are just dreams&amp;rdquo;.&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-15T00:32:10.491Z</createdDate>
+        <lastModifiedDate>2023-11-15T04:56:36.115Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>6cde0340-3bf9-43e8-a70b-5340bb00d0e6</key>
+	<value>New Mag Quote</value>
+	<disableFlattening>false</disableFlattening>
+<component id="6cde0340-3bf9-43e8-a70b-5340bb00d0e6">
+        <content-type>/component/magquote</content-type>
+        <display-template>/templates/web/components/mag-quote.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Quote</internal-name>
+        <file-name>6cde0340-3bf9-43e8-a70b-5340bb00d0e6.xml</file-name>
+        <createdDate_dt>2023-11-15T05:30:12.217Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T07:10:13.109Z</lastModifiedDate_dt>
+        <objectId>6cde0340-3bf9-43e8-a70b-5340bb00d0e6</objectId>
+        <sectionId_s/>
+        <quote_t>“‘Sustainable’ is the bare minimum, it has to go beyond that – to realise that there’s so many components that go into getting food onto the plate; externalised costs, be that environmental or social, that need to be considered as part of that equation.”</quote_t>
+        <quoteBy_s>Chef Luke Burgess</quoteBy_s>
+        <quoteStyle_s>-motivational</quoteStyle_s>
+        <folder-name/>
+        <createdDate>2023-11-15T05:30:12.217Z</createdDate>
+        <lastModifiedDate>2023-11-15T07:10:13.109Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>df2f2262-236d-4a50-ae1d-fc70cd524b4b</key>
+	<value>New Mag Quote With Portrait Image</value>
+	<disableFlattening>false</disableFlattening>
+<component id="df2f2262-236d-4a50-ae1d-fc70cd524b4b">
+        <content-type>/component/magquotewithportraitimage</content-type>
+        <display-template>/templates/web/components/mag-quote-with-portrait-image.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Quote With Portrait Image</internal-name>
+        <file-name>df2f2262-236d-4a50-ae1d-fc70cd524b4b.xml</file-name>
+        <createdDate_dt>2023-11-15T14:19:27.989Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-19T04:45:05.192Z</lastModifiedDate_dt>
+        <objectId>df2f2262-236d-4a50-ae1d-fc70cd524b4b</objectId>
+        <sectionId_s/>
+        <quote_t>“These positive vibes make personal growth possible.”</quote_t>
+        <quoteBy_s>Chik Wing Keung, Chief Regional Director, FWD</quoteBy_s>
+        <quoteStyle_s>-motivational</quoteStyle_s>
+        <folder-name/>
+        <createdDate>2023-11-15T14:19:27.989Z</createdDate>
+        <lastModifiedDate>2023-11-16T02:14:53.368Z</lastModifiedDate>
+        <quotePosition_s>-left</quotePosition_s>
+        <sideImage_s><![CDATA[/static-assets/images/the-mag/themag2023/august-2023/fwd-tl-v2.jpg]]></sideImage_s>
+      </component>
+	</item></pageSections_o>
+	<segments_o>	<item>	<key>guy</key>
+	<value_smv>Guy</value_smv>
+	</item>	<item>	<key>gal</key>
+	<value_smv>Gal</value_smv>
+	</item></segments_o>
+	<summary_t>To celebrate their recent launch in Berkshire House, we grabbed a chat with Hashtag B’s founder James Chu to find out what inspired him to start a bakery and his tips for fellow entrepreneurs.</summary_t>
+	<image_s>/static-assets/images/the-mag/themag2023/november-2023/tpinsider/_q7a1407-t.jpeg</image_s>
+	<createdDate>2023-11-14T01:31:05.921Z</createdDate>
+	<createdDate_dt>2023-11-14T01:31:05.921Z</createdDate_dt>
+	<lastModifiedDate>2023-11-28T06:00:30.445Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-28T06:00:30.445Z</lastModifiedDate_dt>
+	<date_dt>2023-11-08T16:00:00.000Z</date_dt>
+	<date_dt_tz>Asia/Hong_Kong</date_dt_tz>
+	<categories_o>	<item>	<key>taikoo-this-month</key>
+	<value_smv>Taikoo This Month</value_smv>
+	</item></categories_o>
+</page>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>52e8</objectGroupId>
+	<objectId>52e8e75d-94f8-ae0b-3317-8d592b3d7dce</objectId>
+	<internal-name>taikoothismonthnov2023</internal-name>
+	<title_t>Taikoo This Month November 2023</title_t>
+	<subject_t>Taikoo This Month November 2023</subject_t>
+	<author_s>John Doe</author_s>
+	<file-name>index.xml</file-name>
+	<folder-name>aikoothismonthnov2023</folder-name>
+	<segments_o>	<item>	<key>guy</key>
+	<value_smv>Guy</value_smv>
+	</item>	<item>	<key>gal</key>
+	<value_smv>Gal</value_smv>
+	</item></segments_o>
+	<featured_b>true</featured_b>
+	<summary_t>Find the latest events, openings and top deals in Quarry Bay for November 2023.</summary_t>
+	<image_s>/static-assets/images/the-mag/themag2023/november-2023/taikoothismonthnov2023/hero-banner-nov-ttm.jpg</image_s>
+	<date_dt>2023-11-08T16:00:00.000Z</date_dt>
+	<createdDate>2017-03-15T0:3:41.000Z</createdDate>
+	<createdDate_dt>2017-03-15T0:3:41.000Z</createdDate_dt>
+	<lastModifiedDate>2023-11-28T06:01:36.872Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-28T06:01:36.872Z</lastModifiedDate_dt>
+	<disabled>false</disabled>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true"/>
+	<date_dt_tz>Asia/Hong_Kong</date_dt_tz>
+	<pageSections_o item-list="true">	<item inline="true">	<key>48a9ce96-89c5-4a43-b317-c8847fa84c39</key>
+	<value>New Mag Banner Image</value>
+	<disableFlattening>false</disableFlattening>
+<component id="48a9ce96-89c5-4a43-b317-c8847fa84c39">
+        <content-type>/component/magbannerimage</content-type>
+        <display-template>/templates/web/components/mag-banner-image.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Banner Image</internal-name>
+        <file-name>48a9ce96-89c5-4a43-b317-c8847fa84c39.xml</file-name>
+        <createdDate_dt>2023-11-16T04:07:31.691Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-16T04:07:31.691Z</lastModifiedDate_dt>
+        <objectId>48a9ce96-89c5-4a43-b317-c8847fa84c39</objectId>
+        <sectionId_s/>
+        <caption_s/>
+        <imageOnDesktop_s>/static-assets/images/the-mag/themag2023/november-2023/taikoothismonthnov2023/hero-banner-nov-ttm.jpg</imageOnDesktop_s>
+        <imageOnMobile_s/>
+        <imageBackgroundColor_s/>
+        <renderer_s/>
+        <folder-name/>
+        <createdDate>2023-11-16T04:07:31.691Z</createdDate>
+        <lastModifiedDate>2023-11-16T04:07:31.691Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>e15a5bfc-0052-40d8-a67a-383957008735</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="e15a5bfc-0052-40d8-a67a-383957008735">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>e15a5bfc-0052-40d8-a67a-383957008735.xml</file-name>
+        <createdDate_dt>2023-11-16T05:37:01.834Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-16T05:37:01.834Z</lastModifiedDate_dt>
+        <objectId>e15a5bfc-0052-40d8-a67a-383957008735</objectId>
+        <sectionId_s/>
+        <title_s no-default="true"/>
+        <content_html>&lt;p&gt;&lt;strong&gt;&lt;span style="color: black;"&gt;Find the latest events, openings and top deals in Quarry Bay for November 2023.&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-16T05:37:01.834Z</createdDate>
+        <lastModifiedDate>2023-11-16T05:37:01.834Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>e7e1a921-ce5d-421d-991c-07ef6e770790</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="e7e1a921-ce5d-421d-991c-07ef6e770790">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <internal-name><![CDATA[New Mag Text]]></internal-name>
+        <file-name>e7e1a921-ce5d-421d-991c-07ef6e770790.xml</file-name>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <createdDate_dt>2023-11-16T04:20:36.684Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-16T04:20:55.104Z</lastModifiedDate_dt>
+        <objectId>e7e1a921-ce5d-421d-991c-07ef6e770790</objectId>
+        <sectionId_s/>
+        <title_s><![CDATA[Title goes here]]></title_s>
+        <content_html><![CDATA[<p style="text-align: center;"><strong><span style="text-decoration: underline; font-size: 32px;">Openings &amp; Launches</span></strong></p>]]></content_html>
+      </component>
+	</item>	<item inline="true">	<key>a6f2583a-fa9d-4a55-bf9e-04a452fadcde</key>
+	<value>New Mag Event</value>
+	<disableFlattening>false</disableFlattening>
+<component id="a6f2583a-fa9d-4a55-bf9e-04a452fadcde">
+        <content-type>/component/magevent</content-type>
+        <display-template>/templates/web/components/mag-event.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Event</internal-name>
+        <file-name>a6f2583a-fa9d-4a55-bf9e-04a452fadcde.xml</file-name>
+        <createdDate_dt>2023-11-16T04:09:47.330Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-20T09:39:56.582Z</lastModifiedDate_dt>
+        <objectId>a6f2583a-fa9d-4a55-bf9e-04a452fadcde</objectId>
+        <sectionId_s/>
+        <title_s>Qi – House of Sichuan</title_s>
+        <summary_html>&lt;p&gt;This one&amp;rsquo;s for the spice fiends; Qi &amp;ndash; House of Sichuan will be landed in Berkshire House, following the success of the Michelin-starred Wan Chai original. Here you&amp;rsquo;ll find authentic Sichuan dishes that reflect the &amp;ldquo;seven flavours of Sichuan&amp;rdquo; &amp;ndash; spicy, aromatic, sweet, bitter, sour, peppery and salty &amp;ndash; so get ready for an explosive culinary adventure packed with powerful flavours, numbing mala spices and a fiery helping of heat.&amp;nbsp;Stay tuned for its opening!&lt;/p&gt;</summary_html>
+        <imagePosition_s/>
+        <image_s>/static-assets/images/the-mag/themag2023/november-2023/taikoothismonthnov2023/house-of-sichuan-nov-ttm.jpg</image_s>
+        <event_o item-list="true">
+          <item>
+            <icon_s>fas fa-map-marker-alt</icon_s>
+            <content_html>2/F, Berkshire House, Taikoo Place</content_html>
+          </item>
+          <item>
+            <icon_s>fas fa-phone</icon_s>
+            <content_html>3579 8339</content_html>
+          </item>
+
+          <item>
+            <icon_s>fas fa-globe</icon_s>
+            <content_html>&lt;span style="text-decoration: underline;"&gt;&lt;a href="http://www.qi-sichuan.hk/" target="_blank" rel="noopener noreferrer"&gt;qi-sichuan.hk&lt;/a&gt;&lt;/span&gt;</content_html>
+          </item>
+        </event_o>
+        <folder-name/>
+        <createdDate>2023-11-16T04:09:47.330Z</createdDate>
+        <lastModifiedDate>2023-11-16T04:26:37.034Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>f41f3e92-256e-4231-8f3d-b6bbdfbc5117</key>
+	<value>New Mag Event</value>
+	<disableFlattening>false</disableFlattening>
+<component id="f41f3e92-256e-4231-8f3d-b6bbdfbc5117">
+        <content-type>/component/magevent</content-type>
+        <display-template>/templates/web/components/mag-event.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Event</internal-name>
+        <file-name>f41f3e92-256e-4231-8f3d-b6bbdfbc5117.xml</file-name>
+        <createdDate_dt>2023-11-16T04:33:20.564Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-17T03:37:40.887Z</lastModifiedDate_dt>
+        <objectId>f41f3e92-256e-4231-8f3d-b6bbdfbc5117</objectId>
+        <sectionId_s no-default="true"/>
+        <title_s>Hashtag B</title_s>
+        <summary_html>&lt;p&gt;There&amp;rsquo;s a new bakery on the block at Taikoo Place &amp;ndash;Hashtag B! This homegrown brand aims to redefine the classic Hong Kong bakery experience with creative flavours. They meticulously handpick premium ingredients from different countries, providing the finest and freshest products to their customers. With a variety of freshly baked delights available daily, such as their signature Napol&amp;eacute;on Tart, Earl Grey Cream Cheese Bagel and the exclusive Salmon Croissant, there&amp;rsquo;s never been a better excuse for an afternoon treat.&lt;/p&gt;</summary_html>
+        <imagePosition_s/>
+        <image_s>/static-assets/images/the-mag/themag2023/november-2023/taikoothismonthnov2023/hashtag-b.jpg</image_s>
+        <event_o item-list="true">
+          <item>
+            <icon_s>fas fa-calendar-alt</icon_s>
+            <content_html>Monday-Friday, 9am-6pm</content_html>
+          </item>
+          <item>
+            <icon_s>fas fa-map-marker-alt</icon_s>
+            <content_html>Area A, G/F, Berkshire House, Taikoo Place</content_html>
+          </item>
+          <item>
+            <icon_s>fas fa-globe</icon_s>
+            <content_html>&lt;span style="text-decoration: underline;"&gt;&lt;a href="http://www.hashtag-b.com/" target="_blank" rel="noopener noreferrer"&gt;hashtag-b.com &lt;/a&gt;&lt;/span&gt;</content_html>
+          </item>
+        </event_o>
+        <folder-name/>
+        <createdDate>2023-11-16T04:33:20.564Z</createdDate>
+        <lastModifiedDate>2023-11-17T03:37:40.887Z</lastModifiedDate>
+      </component>
+	</item></pageSections_o>
+	<categories_o>	<item>	<key>talking-points</key>
+	<value_smv>Talking Points</value_smv>
+	</item></categories_o>
+</page>
