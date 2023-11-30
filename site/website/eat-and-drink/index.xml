@@ -9,13 +9,13 @@
 	<internal-name>Eat &amp; Drink</internal-name>
 	<navLabel>Eat &amp; Drink</navLabel>
 	<file-name>index.xml</file-name>
-	<folder-name>website</folder-name>
+	<folder-name>eat-and-drink</folder-name>
 	<placeInNav>true</placeInNav>
 	<orderDefault_f>1000.0</orderDefault_f>
 	<createdDate>2023-11-30T15:11:18.897Z</createdDate>
 	<createdDate_dt>2023-11-30T15:11:18.897Z</createdDate_dt>
-	<lastModifiedDate>2023-11-30T15:11:18.897Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-11-30T15:11:18.897Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-11-30T15:11:30.598Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-30T15:11:30.598Z</lastModifiedDate_dt>
 	<leftRail_o item-list="true"/>
 	<header_o item-list="true"/>
 	<tenantsTitle_s>Eat &amp; Drink</tenantsTitle_s>
@@ -25,7 +25,7 @@
 	</item>	<item>	<key>eat</key>
 	<value_smv>Eat</value_smv>
 	</item></categories_o>
-	<localeCode_s>en</localeCode_s>
-	<sourceLocaleCode_s>en</sourceLocaleCode_s>
+	<localeCode_s/>
+	<sourceLocaleCode_s/>
 	<localeSourceId_s>3509948b-3e2a-1e69-9440-c16b6905bf75</localeSourceId_s>
 </page>
