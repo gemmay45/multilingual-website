@@ -25,7 +25,7 @@
 	</item>	<item>	<key>eat</key>
 	<value_smv>Eat</value_smv>
 	</item></categories_o>
-	<localeCode_s/>
-	<sourceLocaleCode_s/>
-	<localeSourceId_s>3509948b-3e2a-1e69-9440-c16b6905bf75</localeSourceId_s>
+	<localeCode_s>en</localeCode_s>
+	<sourceLocaleCode_s>en</sourceLocaleCode_s>
+	<localeSourceId_s/>
 </page>
