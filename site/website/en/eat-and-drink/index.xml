@@ -14,8 +14,8 @@
 	<orderDefault_f>9000</orderDefault_f>
 	<createdDate>2023-11-22T05:56:27.594Z</createdDate>
 	<createdDate_dt>2023-11-22T05:56:27.594Z</createdDate_dt>
-	<lastModifiedDate>2023-11-30T12:18:47.838Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-11-30T12:18:47.838Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-11-30T15:08:17.803Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-30T15:08:17.803Z</lastModifiedDate_dt>
 	<leftRail_o item-list="true"/>
 	<header_o item-list="true"/>
 	<tenantsTitle_s>Eat &amp; Drink</tenantsTitle_s>
@@ -25,4 +25,7 @@
 	</item>	<item>	<key>eat</key>
 	<value_smv>Eat</value_smv>
 	</item></categories_o>
+	<localeCode_s>en</localeCode_s>
+	<sourceLocaleCode_s>en</sourceLocaleCode_s>
+	<localeSourceId_s>3509948b-3e2a-1e69-9440-c16b6905bf75</localeSourceId_s>
 </page>
