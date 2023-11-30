@@ -19,14 +19,14 @@
 	<category_s>style</category_s>
 	<max_articles_i>10</max_articles_i>
 	<articles_title_t>Style</articles_title_t>
-	<localeCode_s>en</localeCode_s>
+	<localeCode_s>es</localeCode_s>
 	<sourceLocaleCode_s>en</sourceLocaleCode_s>
 	<localeSourceId_s>41c08eea-8928-7ae0-c395-6eff10021343</localeSourceId_s>
 	<disabled>false</disabled>
 	<header_o item-list="true"/>
-	<left_rail_o item-list="true">	<item>	<key>/site/components/en/left-rails/left-rail-with-no-articles.xml</key>
+	<left_rail_o item-list="true">	<item>	<key>/site/components/es/left-rails/left-rail-with-no-articles.xml</key>
 	<value>Left Rail with No Articles</value>
-	<include>/site/components/en/left-rails/left-rail-with-no-articles.xml</include>
+	<include>/site/components/es/left-rails/left-rail-with-no-articles.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></left_rail_o>
 </page>
