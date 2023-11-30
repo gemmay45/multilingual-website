@@ -135,7 +135,7 @@
                             <@crafter.span $field="hashtags_o" $index=index>${item.hashtag_s}</@crafter.span>
                         </@crafter.renderRepeatGroup>
                     </#if>   
-
+<#--
                         <#if contentModel.recommended_o?? && contentModel.recommended_o.item??>
                             <h4>Recommended</h4>
                             
@@ -167,7 +167,7 @@
                                 </@crafter.article>
                             </#list>
                         </#if>
-
+-->
                     </@crafter.section>
                 </div>
           </div>
