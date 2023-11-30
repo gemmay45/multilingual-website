@@ -7,7 +7,7 @@
 	<objectGroupId>69eb59ad</objectGroupId>
 	<objectId>69eb59ad-6783-4fdd-9b85-9d60a0d7135a</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>eat-and-drink</folder-name>
+	<folder-name>chun-ye-hao-tea</folder-name>
 	<internal-name>Chun Ye Hao Tea</internal-name>
 	<navLabel>Chun Ye Hao Tea</navLabel>
 	<name_s>Chun Ye Hao Tea</name_s>
@@ -19,7 +19,7 @@
 	<appleMapsDirection_s>http://maps.apple.com/?ll=22.28977,114.20973&amp;q=Chun%20Ye%20Hao%20Tea</appleMapsDirection_s>
 	<citymapperDirections_s>https://citymapper.com/directions?endcoord=22.28977%2C114.20973&amp;endname=Chun%20Ye%20Hao%20Tea&amp;endaddress=Shop%20B%2C%20G%2FF%20927%20King%27s%20Rd%2C%20Quarry%20Bay</citymapperDirections_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>1000.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<header_o item-list="true"/>
 	<leftRail_o item-list="true"/>
 	<relatedMAGArticle_o item-list="true"/>
@@ -40,8 +40,11 @@
 	</item></images_o>
 	<createdDate>2023-11-30T15:17:20.099Z</createdDate>
 	<createdDate_dt>2023-11-30T15:17:20.099Z</createdDate_dt>
-	<lastModifiedDate>2023-11-30T15:17:20.099Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-11-30T15:17:20.099Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-11-30T15:24:08.679Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-30T15:24:08.679Z</lastModifiedDate_dt>
 	<tagline_s>Rustic &amp; artsy bubble tea shop</tagline_s>
 	<recommended_o item-list="true"/>
+	<localeCode_s>en</localeCode_s>
+	<sourceLocaleCode_s>en</sourceLocaleCode_s>
+	<localeSourceId_s>d870568a-6374-489c-51c8-aa52151ef759</localeSourceId_s>
 </page>
