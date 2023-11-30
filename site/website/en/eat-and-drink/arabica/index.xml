@@ -27,13 +27,13 @@
 	</item>	<item>	<hashtags_s>#ArabicaHK</hashtags_s>
 	<hashtag_s>#ArabicaHK</hashtag_s>
 	</item></hashtags_o>
-	<relatedMAGArticle_o item-list="true">	<item>	<key>/site/website/articles/2021/3/tpinsiderhashtagb/index.xml</key>
+	<relatedMAGArticle_o item-list="true">	<item>	<key>/site/website/en/articles/2021/3/tpinsiderhashtagb/index.xml</key>
 	<value>tpinsiderhashtagb</value>
-	<include>/site/website/articles/2021/3/tpinsiderhashtagb/index.xml</include>
+	<include>/site/website/en/articles/2021/3/tpinsiderhashtagb/index.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item>	<item>	<key>/site/website/articles/2021/3/aikoothismonthnov2023/index.xml</key>
+	</item>	<item>	<key>/site/website/en/articles/2021/3/aikoothismonthnov2023/index.xml</key>
 	<value>aikoothismonthnov2023</value>
-	<include>/site/website/articles/2021/3/aikoothismonthnov2023/index.xml</include>
+	<include>/site/website/en/articles/2021/3/aikoothismonthnov2023/index.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></relatedMAGArticle_o>
 	<description_html>&lt;p&gt;Tucked away in the basement of Quarry Bay&amp;rsquo;s most Instagrammable spot lies a truly transformational coffee experience. Perched between the barbershops and Thai eateries is this tiny futuristic coffee shop. Its interior is modelled after the Monster Building with stacks of coffee bags resembling the iconic architecture of the local landmark.&lt;/p&gt;</description_html>
@@ -43,9 +43,9 @@
 	<lastModifiedDate_dt>2023-11-30T15:23:44.645Z</lastModifiedDate_dt>
 	<openingHours_html>&lt;p&gt;Mon-Fri 8:30am-7pm&lt;br /&gt;Sat-Sun 9am-7pm&lt;/p&gt;</openingHours_html>
 	<header_o item-list="true"/>
-	<leftRail_o item-list="true">	<item>	<key>/site/components/left-rails/left-rail-with-no-articles.xml</key>
+	<leftRail_o item-list="true">	<item>	<key>/site/components/en/left-rails/left-rail-with-no-articles.xml</key>
 	<value>left-rail-with-no-articles.xml</value>
-	<include>/site/components/left-rails/left-rail-with-no-articles.xml</include>
+	<include>/site/components/en/left-rails/left-rail-with-no-articles.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></leftRail_o>
 	<categories_o>	<item>	<key>drink</key>
@@ -56,17 +56,17 @@
 	</item>	<item>	<image_s>/static-assets/images/tenants/arabica/e263071651eaf24de31572c012ba0ed8750bdd18-960x640.webp</image_s>
 	</item>	<item>	<image_s>/static-assets/images/tenants/arabica/c63968a78b8619b920a49a0a4eb0e2d946b0bc76-960x640.webp</image_s>
 	</item></images_o>
-	<recommended_o item-list="true">	<item>	<key>/site/website/eat-and-drink/coco-espresso/index.xml</key>
+	<recommended_o item-list="true">	<item>	<key>/site/website/en/eat-and-drink/coco-espresso/index.xml</key>
 	<value>coco-espresso</value>
-	<include>/site/website/eat-and-drink/coco-espresso/index.xml</include>
+	<include>/site/website/en/eat-and-drink/coco-espresso/index.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item>	<item>	<key>/site/website/eat-and-drink/chun-ye-hao-tea/index.xml</key>
+	</item>	<item>	<key>/site/en/website/eat-and-drink/chun-ye-hao-tea/index.xml</key>
 	<value>chun-ye-hao-tea</value>
-	<include>/site/website/eat-and-drink/chun-ye-hao-tea/index.xml</include>
+	<include>/site/website/en/eat-and-drink/chun-ye-hao-tea/index.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item>	<item>	<key>/site/website/eat-and-drink/dustykid-tea/index.xml</key>
+	</item>	<item>	<key>/site/website/en/eat-and-drink/dustykid-tea/index.xml</key>
 	<value>dustykid-tea</value>
-	<include>/site/website/eat-and-drink/dustykid-tea/index.xml</include>
+	<include>/site/website/en/eat-and-drink/dustykid-tea/index.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></recommended_o>
 	<tagline_s>Artisan coffee in Quarry Bay’s instagram hotspot</tagline_s>

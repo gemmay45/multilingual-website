@@ -23,9 +23,9 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<header_o item-list="true"/>
 	<leftRail_o item-list="true"/>
-	<relatedMAGArticle_o item-list="true">	<item>	<key>/site/website/articles/2021/3/tpinsiderhashtagb/index.xml</key>
+	<relatedMAGArticle_o item-list="true">	<item>	<key>/site/website/en/articles/2021/3/tpinsiderhashtagb/index.xml</key>
 	<value>tpinsiderhashtagb</value>
-	<include>/site/website/articles/2021/3/tpinsiderhashtagb/index.xml</include>
+	<include>/site/website/en/articles/2021/3/tpinsiderhashtagb/index.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></relatedMAGArticle_o>
 	<recommended_o item-list="true"/>
