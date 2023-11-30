@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/tenant</content-type>
+	<display-template>/templates/web/pages/tenant.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>19b575b7</objectGroupId>
+	<objectId>19b575b7-714c-438e-bf18-3a175db1565c</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>eat-and-drink</folder-name>
+	<internal-name>#FOTD</internal-name>
+	<navLabel>#FOTD</navLabel>
+	<name_s>#FOTD</name_s>
+	<tagline_s>Find your food of the day in this little laneway</tagline_s>
+	<address_s>Shop D-4B, G/F Riviera Mansion,18-22 Hoi Tai St, Quarry Bay</address_s>
+	<contactNumber_s>+852 5698 2361</contactNumber_s>
+	<websiteURL_s/>
+	<quoteBy_s>Yoko, Director</quoteBy_s>
+	<googleMapsDirection_s>https://www.google.com/maps/search/?api=1&amp;query=22.28817406480401%2C114.21128285057071&amp;query_place_id=ChIJrbPpQ5YBBDQRiooFODji5_U</googleMapsDirection_s>
+	<appleMapsDirection_s>http://maps.apple.com/?ll=22.28817406480401,114.21128285057071&amp;q=%23FOTD</appleMapsDirection_s>
+	<citymapperDirections_s>https://citymapper.com/directions?endcoord=22.28817406480401%2C114.21128285057071&amp;endname=%23FOTD&amp;endaddress=Shop%20D-4B%2C%20G%2FF%20Riviera%20Mansion%2C18-22%20Hoi%20Tai%20St%2C%20Quarry%20Bay</citymapperDirections_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<header_o item-list="true"/>
+	<leftRail_o item-list="true">	<item>	<key>/site/components/left-rails/left-rail-with-no-articles.xml</key>
+	<value>left-rail-with-no-articles.xml</value>
+	<include>/site/components/left-rails/left-rail-with-no-articles.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></leftRail_o>
+	<relatedMAGArticle_o item-list="true"/>
+	<recommended_o item-list="true"/>
+	<categories_o>	<item>	<key>eat</key>
+	<value_smv>Eat</value_smv>
+	</item></categories_o>
+	<quote_t>We noticed a lack of friendly priced healthy lunch choices in the neighbourhood, and that’s why we are here. </quote_t>
+	<opinion_t>The shop offers different meal options every day, a total of eight choices including two vegetarian ones. The homemade herbal bottled health drinks are also very popular. </opinion_t>
+	<description_html>&lt;p&gt;#FOTD serves up rice dishes, soups and drinks for take-away prepared fresh every day in the Tsing Yi kitchen without MSG or preservatives. A sustainable business, #FOTD encourages customers to bring their own bowls and cutlery or purchase the signature stainless steel lunch box.&lt;/p&gt;</description_html>
+	<openingHours_html>&lt;p&gt;Mon-Fri: 11am-4pm &lt;br /&gt;Sat-Sun: closed&lt;/p&gt;</openingHours_html>
+	<hashtags_o item-list="true">	<item>	<hashtag_s>#FOTD</hashtag_s>
+	</item>	<item>	<hashtag_s>#TakeAwayFood</hashtag_s>
+	</item></hashtags_o>
+	<images_o item-list="true">	<item>	<image_s>/static-assets/images/tenants/fotd/8096221f743b4c3ca2bedd45f50d8e0e66aabec6-2667x2667.webp</image_s>
+	</item>	<item>	<image_s>/static-assets/images/tenants/fotd/6cb8c01ed0cedf664f3cccccc75aa64b5997d662-4167x1288.webp</image_s>
+	</item>	<item>	<image_s>/static-assets/images/tenants/fotd/330157ee4204d7485c0a736a34762176a35d57b7-2000x1333.webp</image_s>
+	</item>	<item>	<image_s>/static-assets/images/tenants/fotd/d250732e5992d84a3ee028fcb26223b628606fb7-2000x1333.webp</image_s>
+	</item></images_o>
+	<createdDate>2023-11-30T23:05:16.621Z</createdDate>
+	<createdDate_dt>2023-11-30T23:05:16.621Z</createdDate_dt>
+	<lastModifiedDate>2023-11-30T23:05:16.621Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-30T23:05:16.621Z</lastModifiedDate_dt>
+	<localeCode_s>en</localeCode_s>
+	<sourceLocaleCode_s>en</sourceLocaleCode_s>
+	<localeSourceId_s>be944e7b-ebda-4cdb-8a17-f89259d6fe54</localeSourceId_s>
+</page>
