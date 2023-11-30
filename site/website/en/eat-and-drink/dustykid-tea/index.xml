@@ -7,7 +7,7 @@
 	<objectGroupId>1b7bf1e3</objectGroupId>
 	<objectId>1b7bf1e3-5f83-4601-a8fa-2dc0ed6fbcb0</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>eat-and-drink</folder-name>
+	<folder-name>dustykid-tea</folder-name>
 	<internal-name>Dustykid Tea</internal-name>
 	<navLabel>Dustykid Tea - Light As Dust</navLabel>
 	<name_s>Dustykid Tea - Light As Dust</name_s>
@@ -20,7 +20,7 @@
 	<appleMapsDirection_s>http://maps.apple.com/?ll=22.288765408109086,114.21050213186513&amp;q=Dustykid%20Tea%20-%20Light%20As%20Dust</appleMapsDirection_s>
 	<citymapperDirections_s>https://citymapper.com/directions?endcoord=22.288765408109086%2C114.21050213186513&amp;endname=Dustykid%20Tea%20-%20Light%20As%20Dust&amp;endaddress=Shop%20K%2C%20G%2FF%20Oceanic%20Building%2C%2022-46%20Finnie%20St%2C%20Quarry%20Bay</citymapperDirections_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>1000.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<header_o item-list="true"/>
 	<leftRail_o item-list="true"/>
 	<relatedMAGArticle_o item-list="true">	<item>	<key>/site/website/articles/2021/3/tpinsiderhashtagb/index.xml</key>
@@ -41,11 +41,14 @@
 	<openingHours_html>&lt;p&gt;Mon-Sat 12pm-8pm&lt;/p&gt;</openingHours_html>
 	<createdDate>2023-11-30T15:17:20.644Z</createdDate>
 	<createdDate_dt>2023-11-30T15:17:20.644Z</createdDate_dt>
-	<lastModifiedDate>2023-11-30T15:17:20.644Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-11-30T15:17:20.644Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-11-30T15:25:54.252Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-30T15:25:54.252Z</lastModifiedDate_dt>
 	<images_o item-list="true">	<item>	<image_s>/static-assets/images/tenants/dustykid/5f5a41b590874caf8cfe2905f2c442fe160a112e-1280x1280.webp</image_s>
 	</item>	<item>	<image_s>/static-assets/images/tenants/dustykid/6400222f1e6ea92bbf17502d182ae7e2ca98b7f8-2000x618.webp</image_s>
 	</item>	<item>	<image_s>/static-assets/images/tenants/dustykid/3941cf22337027a1152c053b4895c2e3b04e9aaf-960x640.webp</image_s>
 	</item>	<item>	<image_s>/static-assets/images/tenants/dustykid/a3648dd81a47c613af82bb0e375772cd7aa318cc-960x640.webp</image_s>
 	</item></images_o>
+	<localeCode_s>en</localeCode_s>
+	<sourceLocaleCode_s>en</sourceLocaleCode_s>
+	<localeSourceId_s>d30fc7b6-0c83-84dd-25aa-b8e6cd1ff714</localeSourceId_s>
 </page>
