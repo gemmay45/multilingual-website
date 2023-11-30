@@ -14,13 +14,13 @@
 	<orderDefault_f>8000</orderDefault_f>
 	<createdDate>2017-3-13T22:26:52.000Z</createdDate>
 	<createdDate_dt>2017-3-13T22:26:52.000Z</createdDate_dt>
-	<lastModifiedDate>2023-11-09T14:02:36.225Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-11-09T14:02:36.225Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-11-30T15:37:34.982Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-30T15:37:34.982Z</lastModifiedDate_dt>
 	<category_s>style</category_s>
 	<max_articles_i>10</max_articles_i>
 	<articles_title_t>Style</articles_title_t>
-	<localeCode_s/>
-	<sourceLocaleCode_s/>
+	<localeCode_s>en</localeCode_s>
+	<sourceLocaleCode_s>en</sourceLocaleCode_s>
 	<localeSourceId_s>41c08eea-8928-7ae0-c395-6eff10021343</localeSourceId_s>
 	<disabled>false</disabled>
 	<header_o item-list="true"/>
