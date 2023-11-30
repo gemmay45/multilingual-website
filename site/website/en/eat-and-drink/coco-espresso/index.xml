@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/tenant</content-type>
+	<display-template>/templates/web/pages/tenant.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>003d8690</objectGroupId>
+	<objectId>003d8690-f807-4436-8c1e-8b18c38d4020</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>eat-and-drink</folder-name>
+	<internal-name>CoCo Espresso</internal-name>
+	<navLabel>CoCo Espresso</navLabel>
+	<name_s>CoCo Espresso</name_s>
+	<address_s> G/F 13-15 Hoi Kwong St, Quarry Bay</address_s>
+	<contactNumber_s>+852 2663 2884</contactNumber_s>
+	<websiteURL_s>https://cocobarista.com/eng/</websiteURL_s>
+	<quoteBy_s>- Jake, Fashion Executive</quoteBy_s>
+	<googleMapsDirection_s>https://www.google.com/maps/search/?api=1&amp;query=22.287508223490956%2C114.21087812040749&amp;query_place_id=ChIJN0dx1TkBBDQRA-QUBzCQIBg</googleMapsDirection_s>
+	<appleMapsDirection_s>http://maps.apple.com/?ll=22.287508223490956,114.21087812040749&amp;q=CoCo%20Espresso</appleMapsDirection_s>
+	<citymapperDirections_s>https://citymapper.com/directions?endcoord=22.287508223490956%2C114.21087812040749&amp;endname=CoCo%20Espresso&amp;endaddress=G%2FF%2013-15%20Hoi%20Kwong%20St%2C%20Quarry%20Bay</citymapperDirections_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>1000.0</orderDefault_f>
+	<header_o item-list="true"/>
+	<leftRail_o item-list="true"/>
+	<relatedMAGArticle_o item-list="true"/>
+	<categories_o>	<item>	<key>drink</key>
+	<value_smv>Drink</value_smv>
+	</item></categories_o>
+	<hashtags_o item-list="true">	<item>	<hashtag_s>#CoffeeRoaster</hashtag_s>
+	</item>	<item>	<hashtag_s>#SpecialtyCoffee</hashtag_s>
+	</item></hashtags_o>
+	<quote_t>CoCo espresso is our coffee treat of choice when we need an energy boost.</quote_t>
+	<opinion_t>People queue up at the intimate coffee bar, no matter what time of day. Ethiopian coffee beans give their brews a hint of sweetness and they also have a singular selection of cold brews, good for a sweltering day.</opinion_t>
+	<description_html>&lt;p&gt;This street-side neighbourhood caf&amp;eacute; at the corner of Hoi Kwong Street is a popular choice for a quick take-away coffee. CoCo Espresso oozes hipster cool and promises a steaming cup of Australian coffee, perfect for every occasion. The owner, Johnson Ko, has travelled all over the world to learn about different coffee techniques and now he&amp;rsquo;s brought them to Hong Kong.&lt;br /&gt;&lt;/p&gt;</description_html>
+	<openingHours_html>&lt;p&gt;Mon-Fri 8am-5:30pm&lt;br /&gt;Sat-Sun 9am-5:30pm&lt;/p&gt;</openingHours_html>
+	<images_o item-list="true">	<item>	<image_s>/static-assets/images/tenants/coco-espresso/773f9be490f1f9778378187c393b06877d4228e9-1280x1280.webp</image_s>
+	</item>	<item>	<image_s>/static-assets/images/tenants/coco-espresso/6846ba3b78748842b84d1bf0d12f778743035636-2000x618.webp</image_s>
+	</item>	<item>	<image_s>/static-assets/images/tenants/coco-espresso/80d60ef3beefb5934354ddc8d6f4465eb682f1f3-960x640.webp</image_s>
+	</item>	<item>	<image_s>/static-assets/images/tenants/coco-espresso/82ca2f754d28b3bf3176d32aab7b424d0ddb51c8-960x640.webp</image_s>
+	</item></images_o>
+	<createdDate>2023-11-30T15:17:20.376Z</createdDate>
+	<createdDate_dt>2023-11-30T15:17:20.376Z</createdDate_dt>
+	<lastModifiedDate>2023-11-30T15:17:20.376Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-30T15:17:20.376Z</lastModifiedDate_dt>
+	<recommended_o item-list="true"/>
+	<tagline_s>Popular neighbourhood street-side café</tagline_s>
+</page>
