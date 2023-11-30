@@ -23,7 +23,7 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<header_o item-list="true"/>
 	<leftRail_o item-list="true">	<item>	<key>/site/components/left-rails/left-rail-with-no-articles.xml</key>
-	<value>Left Rail with No Articles</value>
+	<value>left-rail-with-no-articles.xml</value>
 	<include>/site/components/left-rails/left-rail-with-no-articles.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></leftRail_o>
@@ -46,6 +46,9 @@
 	</item></images_o>
 	<createdDate>2023-11-29T14:03:53.533Z</createdDate>
 	<createdDate_dt>2023-11-29T14:03:53.533Z</createdDate_dt>
-	<lastModifiedDate>2023-11-30T05:07:24.622Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-11-30T05:07:24.622Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-11-30T15:09:09.072Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-30T15:09:09.072Z</lastModifiedDate_dt>
+	<localeCode_s>en</localeCode_s>
+	<sourceLocaleCode_s>en</sourceLocaleCode_s>
+	<localeSourceId_s>04440663-4a2f-732f-2c20-b15047b9ac97</localeSourceId_s>
 </page>
