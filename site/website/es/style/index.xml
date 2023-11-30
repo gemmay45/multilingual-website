@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/category-landing</content-type>
+	<display-template>/templates/web/pages/category-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>087ba324</objectGroupId>
+	<objectId>087ba324-9691-483d-94d8-bb792d7946a1</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>style</folder-name>
+	<internal-name>Style</internal-name>
+	<title_t>Style</title_t>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>1000.0</orderDefault_f>
+	<createdDate>2023-11-30T15:36:59.718Z</createdDate>
+	<createdDate_dt>2023-11-30T15:36:59.718Z</createdDate_dt>
+	<lastModifiedDate>2023-11-30T15:36:59.718Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-30T15:36:59.718Z</lastModifiedDate_dt>
+	<category_s>style</category_s>
+	<max_articles_i>10</max_articles_i>
+	<articles_title_t>Style</articles_title_t>
+	<localeCode_s/>
+	<sourceLocaleCode_s/>
+	<localeSourceId_s>41c08eea-8928-7ae0-c395-6eff10021343</localeSourceId_s>
+	<disabled>false</disabled>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true">	<item>	<key>/site/components/en/left-rails/left-rail-with-no-articles.xml</key>
+	<value>Left Rail with No Articles</value>
+	<include>/site/components/en/left-rails/left-rail-with-no-articles.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></left_rail_o>
+</page>
