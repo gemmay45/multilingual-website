@@ -914,6 +914,1243 @@ hr.major {
   padding-top: 3em;
 }
 
+body.the-mag {
+  background: #f2f2f2
+}
+
+.the-mag-detail__header {
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  width: 100%
+}
+
+.the-mag-detail__header .the-mag-cat {
+  color: #25c79b;
+  text-align: center;
+  padding: 0;
+  margin: 18px 0 12px;
+  font-size: 20px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__header .the-mag-cat {
+      margin:12px 0 2px
+  }
+}
+
+.the-mag-detail__header h1 {
+  padding: 0;
+  margin: 0 0 26px;
+  text-align: center;
+  font-size: 45px;
+  line-height: 1.2em
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__header h1 {
+      margin:0 0 18px
+  }
+}
+
+.the-mag-detail__header h1,.the-mag-detail__related p.subtitle {
+  font-size: 45px;
+  line-height: 50px;
+  letter-spacing: normal;
+  text-transform: none;
+  font-family: Roboto Condensed Bold\ 700,STHeiti,Microsoft JhengHei,sans-serif
+}
+
+.the-mag-detail__content h3,.the-mag-landing .infinite-load .load-more,.the-mag-landing .no-results {
+  font-size: 24px;
+  line-height: 30px;
+  letter-spacing: normal;
+  text-transform: none;
+  font-family: Roboto Medium\ 500,STHeiti,Microsoft JhengHei,sans-serif
+}
+
+.fixedApp,.nav-page .hints .title,.the-mag-detail__content h4,.the-mag-grid-item .title,.the-mag-landing .the-mag-filter__select .slim-filter-dropdown .selectboxit-container .selectboxit-options a,.the-mag-landing .the-mag-filter__select .slim-filter-dropdown .selectboxit-container span,.the-mag-landing .the-mag-filter__select .slim-filter-dropdown .selectboxit-list>.selectboxit-focus>.selectboxit-option-anchor,.the-mag-landing .the-mag-filter__select .slim-filter-dropdown .selectboxit-option-anchor,.the-mag-landing .the-mag-filter__select .slim-filter-dropdown .selectboxit-text,.the-mag-landing .the-mag-filter__select .slim-filter-dropdown label,.the-mag-landing .the-mag-filter__select .slim-filter-dropdown select {
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: normal;
+  text-transform: none;
+  font-family: Roboto Medium\ 500,STHeiti,Microsoft JhengHei,sans-serif
+}
+
+.the-mag-detail-page-nav .nav,.the-mag-detail__header .the-mag-cat,.the-mag-landing .the-mag-filter__menu ul li a {
+  font-size: 20px;
+  line-height: 1.5em;
+  letter-spacing: normal;
+  text-transform: uppercase;
+  font-family: Roboto Condensed Bold\ 700,STHeiti,Microsoft JhengHei,sans-serif
+}
+
+.figure .figure-caption,.the-mag-detail-carousel-shadow-caption .caption,.the-mag-detail__content .content-event .box .remarks,.the-mag-detail__content .content-row .content-col .figure .figure-caption,.the-mag-detail__content__info,.the-mag-detail__content__tags,.the-mag-grid-item .desc-more,.the-mag-grid-item .desc-more p {
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: normal;
+  text-transform: none;
+  font-family: Roboto Light\ 300,STHeiti,Microsoft JhengHei,sans-serif
+}
+
+.the-mag-grid .tags {
+  font-size: 16px;
+  line-height: 1.5em;
+  letter-spacing: normal;
+  text-transform: uppercase;
+  font-family: Roboto Condensed Bold\ 700,STHeiti,Microsoft JhengHei,sans-serif
+}
+
+.the-mag-detail__content {
+  width:750px
+}
+
+.the-mag-detail__content {
+  position: relative;
+  padding: 0;
+  margin: 0 auto;
+}
+
+.the-mag-quote {
+  display: block;
+  position: relative;
+  text-align: center;
+  color: #25c79b;
+  padding: 40px 0
+}
+
+@media (min-width: 768px) {
+  .the-mag-quote {
+      padding:60px 0
+  }
+}
+
+.the-mag-quote .quote {
+  padding: 0 15px;
+  position: relative;
+  font-size: 26px
+}
+
+@media (min-width: 992px) {
+  .the-mag-quote .quote {
+      font-size:30px;
+      padding: 0 20px
+  }
+}
+
+.the-mag .theMagGalleryImageLink a {
+  background-color: transparent
+}
+
+.the-mag a,a:active,a:focus,a:hover,a:link,a:visited {
+  text-decoration: none;
+  outline: 0;
+  border: none;
+}
+
+.the-mag-quote .hr {
+  padding: 0;
+  border: none;
+  border-width: 2px 0 0;
+  border-style: solid;
+  border-color: #25c79b;
+  position: relative;
+  width: 100%;
+  height: 20px;
+  margin: 22px 0 8px
+}
+
+@media (min-width: 992px) {
+  .the-mag-quote .hr {
+      margin:32px 0 10px
+  }
+}
+
+.the-mag-quote .hr:after {
+  display: table;
+  clear: both
+}
+
+.the-mag-quote .hr:before {
+  border-left: 18px solid transparent;
+  border-right: 18px solid transparent;
+  border-bottom: 18px solid transparent;
+  border-top: 18px solid #25c79b;
+  z-index: 2
+}
+
+.the-mag-quote .hr:after,.the-mag-quote .hr:before {
+  position: absolute;
+  content: "";
+  display: block;
+  top: -2px;
+  left: 50%;
+  transform: translate3d(-50%,0,0);
+  width: 0;
+  height: 0
+}
+
+.the-mag-quote .hr:after {
+  border-left: 16px solid transparent;
+  border-right: 16px solid transparent;
+  border-bottom: 16px solid transparent;
+  border-top: 16px solid #f2f2f2;
+  z-index: 3
+}
+
+.the-mag-quote .author {
+  font-size: 24px;
+  text-align: center;
+  position: relative;
+  margin: 0 15px
+}
+
+.theMagGalleryImageLink {
+  position: relative;
+  display: inline-block
+}
+
+.theMagGalleryImageLink .icon-enlargephoto {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 20px;
+  right: 20px;
+  background: url(https://www.taikooplace.com/files/taikooplace/images/magnifying-glass-white.png) 0 0 no-repeat
+}
+
+.theMagGalleryImageLink .icon-enlargephoto:before {
+  display: none
+}
+
+@media (min-width: 768px) {
+  .theMagGalleryImageLink .icon-enlargephoto {
+      top:10px;
+      right: 10px
+  }
+}
+
+@media (min-width: 992px) {
+  .the-mag-quote .author {
+      margin:0 20px
+  }
+}
+
+.the-mag-quote.-motivational .quote {
+  font-family: oswalds,Roboto Medium\ 500,STHeiti,Microsoft JhengHei,sans-serif
+}
+
+.tc .the-mag-quote.-motivational .quote,.the-mag-quote.-motivational .quote.tc,.the-mag-quote.-motivational .quote.zh-tc,.zh-tc .the-mag-quote.-motivational .quote {
+  font-family: STHeiti,LiHei Pro Medium,Microsoft JhengHei,sans-serif
+}
+
+.the-mag-quote.-powerful .quote {
+  font-family: lobster,Roboto Medium\ 500,STHeiti,Microsoft JhengHei,sans-serif
+}
+
+.tc .the-mag-quote.-powerful .quote,.the-mag-quote.-powerful .quote.tc,.the-mag-quote.-powerful .quote.zh-tc,.zh-tc .the-mag-quote.-powerful .quote {
+  font-family: LiSong Pro Light,PMingLiU,MingLiU,serif
+}
+
+.the-mag-quote.-handwriting .quote {
+  font-family: knewave,Roboto Medium\ 500,STHeiti,Microsoft JhengHei,sans-serif
+}
+
+.tc .the-mag-quote.-handwriting .quote,.the-mag-quote.-handwriting .quote.tc,.the-mag-quote.-handwriting .quote.zh-tc,.zh-tc .the-mag-quote.-handwriting .quote {
+  font-family: BiauKai,DFKai-SB,KaiIi,serif
+}
+
+.the-mag-detail {
+  width: 100%;
+  padding-bottom: 155px
+}
+
+@media (max-width: 991px) {
+  .the-mag-detail {
+      padding-bottom:75px
+  }
+}
+
+.the-mag-detail:before {
+  content: "";
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 10px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #25c79b
+}
+
+.the-mag-detail__wrap {
+  position: relative;
+  transition: left .5s ease;
+  margin: 0 auto;
+  max-width: 1440px;
+  overflow: hidden
+}
+
+@media (max-width: 991px) {
+  .the-mag-detail__wrap {
+      padding:0
+  }
+}
+
+.the-mag-detail__wrap .container,.the-mag-detail__wrap .taxi-queue__section__smaller-wrapper {
+  position: relative
+}
+
+@media (max-width: 767px) {
+  .the-mag-detail__wrap .container,.the-mag-detail__wrap .taxi-queue__section__smaller-wrapper {
+      padding-left:0;
+      padding-right: 0
+  }
+}
+
+.the-mag-detail__header {
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  width: 100%
+}
+
+.the-mag-detail__header .the-mag-cat {
+  color: #25c79b;
+  text-align: center;
+  padding: 0;
+  margin: 18px 0 12px;
+  font-size: 20px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__header .the-mag-cat {
+      margin:12px 0 2px
+  }
+}
+
+.the-mag-detail__header h1 {
+  padding: 0;
+  margin: 0 0 26px;
+  text-align: center;
+  font-size: 45px;
+  line-height: 1.2em
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__header h1 {
+      margin:0 0 18px
+  }
+}
+
+.the-mag-detail__content {
+  position: relative;
+  padding: 0;
+  margin: 0 auto
+}
+
+.the-mag-detail__content~.the-mag-detail__content {
+  margin-top: 20px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content~.the-mag-detail__content {
+      min-height:330px
+  }
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__content {
+      width:78.125%
+  }
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content {
+      width:750px
+  }
+}
+
+.the-mag-detail__content h3 {
+  color: #25c79b
+}
+
+.the-mag-detail__content .content-row:after {
+  content: "";
+  display: table;
+  clear: both
+}
+
+.the-mag-detail__content .content-row {
+  margin: 0 0 0.2em 0;
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-row {
+      margin-right:-15px;
+      margin-left: -15px
+  }
+}
+
+.the-mag-detail__content .content-row span[style*="text-decoration:underline"],.the-mag-detail__content .content-row span[style*="text-decoration: underline"] {
+  text-decoration: underline;
+  -ms-text-underline-position: below;
+  text-underline-position: under
+}
+
+.the-mag-detail__content .content-row {
+  padding-top: 40px
+}
+
+.the-mag-detail__content .content-row .hero {
+  margin-top:-40px
+}
+
+.the-mag-detail__content .content-row~.content-row p {
+  margin: 0
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-row~.content-row {
+      padding-top:60px
+  }
+}
+
+.the-mag-detail__content .content-row~.content-row>.content-col:first-of-type>.-left>.the-mag-quote:only-of-type,.the-mag-detail__content .content-row~.content-row>.content-col:first-of-type>.-right>.the-mag-quote:only-of-type {
+  padding: 0
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-row~.content-row>.content-col:first-of-type>.-left>.the-mag-quote:only-of-type,.the-mag-detail__content .content-row~.content-row>.content-col:first-of-type>.-right>.the-mag-quote:only-of-type {
+      padding:60px 0
+  }
+}
+
+.the-mag-detail__content .content-row~.content-row>.content-col:only-of-type>.the-mag-quote:only-of-type {
+  padding: 0
+}
+
+.the-mag-detail__content .content-event .content-row {
+  padding-top: 0
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-event .content-row {
+      padding-top:0
+  }
+}
+
+.the-mag-detail__content .content-row .content-col {
+  padding: 0 15px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-row .content-col {
+      float:left;
+      width: 50%
+  }
+}
+
+.the-mag-detail__content .content-row .content-col:only-of-type {
+  width: 100%
+}
+
+.the-mag-detail__content .content-row .content-col>dl:first-of-type,.the-mag-detail__content .content-row .content-col>h2:first-of-type,.the-mag-detail__content .content-row .content-col>h3:first-of-type,.the-mag-detail__content .content-row .content-col>h4:first-of-type,.the-mag-detail__content .content-row .content-col>h5:first-of-type,.the-mag-detail__content .content-row .content-col>h6:first-of-type,.the-mag-detail__content .content-row .content-col>ol:first-of-type,.the-mag-detail__content .content-row .content-col>p:first-of-type,.the-mag-detail__content .content-row .content-col>ul:first-of-type {
+  margin-top: 0
+}
+
+.the-mag-detail__content .content-row .content-col>p:last-of-type {
+  margin-bottom: 0
+}
+
+.the-mag-detail__content .content-row .content-col .figure {
+  position: relative;
+  display: inline-block;
+  margin: 0 0 0 50%;
+  transform: translate3d(-50%,0,0)
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-row .content-col .figure {
+      display:block;
+      margin: 0;
+      transform: none
+  }
+}
+
+.the-mag-detail__content .content-row .content-col .figure .figure-img {
+  margin: 0 auto;
+  height: 375px;
+  width: auto;
+  max-width: none
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-row .content-col .figure .figure-img {
+      height:auto;
+      width: 100%
+  }
+}
+
+.the-mag-detail__content .content-row .content-col .figure .figure-caption {
+  padding: 15px 0 0;
+  color: #949494
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__content .content-row .content-col .figure .figure-caption {
+      padding:20px 0 0
+  }
+}
+
+.the-mag-detail__content .content-row .content-col.hero,.the-mag-detail__content .content-row .content-col.landscape,.the-mag-detail__content .content-row .content-col .landscape {
+  line-height: 0
+}
+
+.the-mag-detail__content .content-row .content-col.hero .figure,.the-mag-detail__content .content-row .content-col.landscape .figure,.the-mag-detail__content .content-row .content-col .landscape .figure {
+  margin-right: -15px;
+  margin-left: -15px;
+  display: block;
+  transform: none
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__content .content-row .content-col.hero .figure,.the-mag-detail__content .content-row .content-col.landscape .figure,.the-mag-detail__content .content-row .content-col .landscape .figure {
+      margin-right:0;
+      margin-left: 0;
+      overflow: hidden
+  }
+}
+
+.the-mag-detail__content .content-row .content-col.hero .figure .figure-img,.the-mag-detail__content .content-row .content-col.landscape .figure .figure-img,.the-mag-detail__content .content-row .content-col .landscape .figure .figure-img {
+  width: auto;
+  height: 375px;
+  max-width: none;
+  margin: 0 0 0 50%;
+  transform: translate3d(-50%,0,0)
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-row .content-col.hero .figure .figure-img,.the-mag-detail__content .content-row .content-col.landscape .figure .figure-img,.the-mag-detail__content .content-row .content-col .landscape .figure .figure-img {
+      width:100%;
+      height: auto;
+      margin: 0;
+      transform: none
+  }
+}
+
+.the-mag-detail__content .content-row .content-col.hero .figure .figure-caption,.the-mag-detail__content .content-row .content-col.landscape .figure .figure-caption,.the-mag-detail__content .content-row .content-col .landscape .figure .figure-caption {
+  padding: 20px 15px 0
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__content .content-row .content-col.hero .figure .figure-caption,.the-mag-detail__content .content-row .content-col.landscape .figure .figure-caption,.the-mag-detail__content .content-row .content-col .landscape .figure .figure-caption {
+      padding:20px 0 0
+  }
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-row.eq-height {
+      display:-ms-flexbox;
+      display: flex;
+      -ms-flex-align: center;
+      align-items: center
+  }
+}
+
+.the-mag-detail__content .content-row.eq-height>.content-col:first-of-type>.the-mag-quote:only-of-type {
+  padding: 0 0 40px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-row.eq-height>.content-col:first-of-type>.the-mag-quote:only-of-type {
+      padding:60px 0
+  }
+}
+
+.the-mag-detail__content .content-row.eq-height>.content-col:first-of-type~.content-col>.the-mag-quote:only-of-type {
+  padding: 40px 0 0
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-row.eq-height>.content-col:first-of-type~.content-col>.the-mag-quote:only-of-type {
+      padding:60px 0
+  }
+}
+
+.the-mag-detail__content .-left {
+  padding: 0 0 40px;
+  text-align: center
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .-left {
+      float:left;
+      width: 50%;
+      margin: 0 15px 0 0;
+      padding: 0 15px 0 0;
+      text-align: left
+  }
+}
+
+.the-mag-detail__content .-right {
+  padding: 0 0 40px;
+  text-align: center
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .-right {
+      float:right;
+      width: 50%;
+      margin: 0 0 0 15px;
+      padding: 0 0 0 15px;
+      text-align: left
+  }
+}
+
+.the-mag-detail__content .content-event {
+  padding-top: 60px;
+  position: relative
+}
+
+.the-mag-detail__content .content-event a,.the-mag-detail__content .content-event span[style*="text-decoration:underline"],.the-mag-detail__content .content-event span[style*="text-decoration: underline"] {
+  text-decoration: underline;
+  -ms-text-underline-position: below;
+  text-underline-position: under
+}
+
+.the-mag-detail__content .content-event .content-col {
+  width: 100%
+}
+
+.the-mag-detail__content .content-event .content-col~.content-col {
+  margin-top: 20px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-event .content-col~.content-col {
+      margin-top:0
+  }
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-event .content-col {
+      padding:0 15px;
+      width: 60.9333333333%
+  }
+}
+
+.the-mag-detail__content .content-event .content-col.image-col {
+  padding: 0
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-event .content-col.image-col {
+      padding:0 15px;
+      width: 35.0666666667%
+  }
+}
+
+.the-mag-detail__content .content-event .content-col.image-col>:not(.img-responsive) {
+  padding-right: 15px;
+  padding-left: 15px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-event .content-col.image-col>:not(.img-responsive) {
+      padding-right:0;
+      padding-left: 0
+  }
+}
+
+.the-mag-detail__content .content-event .content-col .img-responsive {
+  width: 100%
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-event .content-col .img-responsive {
+      max-width:263px
+  }
+}
+
+.the-mag-detail__content .content-event .box-wrapper {
+  position: relative;
+  margin: 20px 15px 0;
+  padding: 0 5px 5px 0
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-event .box-wrapper {
+      margin:30px 0 0;
+      padding: 0 10px 10px 0
+  }
+}
+
+.the-mag-detail__content .content-event .box-wrapper:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  right: 0;
+  bottom: 0;
+  border: 1px solid #949494;
+  background: #f2f2f2;
+  top: 5px;
+  left: 5px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-event .box-wrapper:after {
+      top:10px;
+      left: 10px
+  }
+}
+
+.the-mag-detail__content .content-event .box {
+  position: relative;
+  background: #f2f2f2;
+  border: 1px solid #949494;
+  z-index: 2;
+  padding: 20px;
+}
+
+.the-mag-detail__content .content-event .box dl {
+  margin: 0;
+  padding: 0
+}
+
+.the-mag-detail__content .content-event .box dl:after {
+  content: "";
+  display: table;
+  clear: both
+}
+
+.the-mag-detail__content .content-event .box dl+p {
+  margin-top: 10px
+}
+
+.the-mag-detail__content .content-event .box dl dt {
+  float: left;
+  font-weight: 400;
+  width: 30px;
+  margin: 0;
+  padding: 0;
+  clear: left
+}
+
+.the-mag-detail__content .content-event .box dl dt:last-of-type {
+  margin: 0
+}
+
+.the-mag-detail__content .content-event .box dl dd {
+  margin: 0 0 10px 30px;
+  padding: 0;
+  clear: right
+}
+
+.the-mag-detail__content .content-event .box dl dd:last-of-type {
+  margin: 0
+}
+
+.the-mag-detail__content .content-event .box dl dd a {
+  text-decoration: underline;
+  -ms-text-underline-position: below;
+  text-underline-position: under
+}
+
+.the-mag-detail__content .content-event .box .remarks {
+  font-style: italic
+}
+
+.the-mag-detail__content__info {
+  list-style: none;
+  margin: 0;
+  padding: 20px;
+  overflow: hidden;
+  clear: both;
+  font-size: 12px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__content__info {
+      font-size:16px;
+      padding: 60px 0 20px
+  }
+}
+
+.the-mag-detail__content__info li {
+  float: left;
+  margin: 0;
+  padding: 0
+}
+
+.the-mag-detail__content__info li [class*=fa-] {
+  padding-right: 10px;
+  font-size: 14px;
+  line-height: 12px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__content__info li [class*=fa-] {
+      font-size:18px;
+      line-height: 16px
+  }
+}
+
+.the-mag-detail__content__info li+li {
+  margin-left: 10px;
+  padding-left: 10px;
+  border-left: 1px solid #000
+}
+
+.the-mag-detail__content__tags {
+  margin: 0;
+  padding: 0 20px 15px;
+  font-size: 12px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__content__tags {
+      font-size:16px;
+      padding: 0 0 15px
+  }
+}
+
+.the-mag-detail__content__tags [class*=fa-] {
+  padding-right: 10px;
+  font-size: 14px;
+  line-height: 12px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__content__tags [class*=fa-] {
+      font-size:18px;
+      line-height: 16px
+  }
+}
+
+.the-mag-detail__content__tags a {
+  text-decoration: underline;
+  -ms-text-underline-position: below;
+  text-underline-position: under;
+  display: inline-block;
+  margin: 0 1px
+}
+
+.the-mag-detail__content__sns,.the-mag-detail__floating__sns {
+  position: relative;
+  width: 100%;
+  padding: 20px
+}
+
+.the-mag-detail__content__sns:after,.the-mag-detail__floating__sns:after {
+  content: "";
+  display: table;
+  clear: both
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content__sns,.the-mag-detail__floating__sns {
+      position:absolute;
+      padding: 0;
+      width: 48px;
+      top: 0;
+      left: -78px
+  }
+}
+
+@media (min-width: 992px) {
+  .sticky.the-mag-detail__floating__sns,.the-mag-detail__content__sns.sticky {
+      display:none
+  }
+}
+
+@media (max-width: 991px) {
+  .the-mag-detail__content__sns .addthis-widget,.the-mag-detail__floating__sns .addthis-widget {
+      display:inline-block;
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+      padding: 0 0 0 40px
+  }
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content__sns .addthis-widget,.the-mag-detail__floating__sns .addthis-widget {
+      padding:0
+  }
+}
+
+.the-mag-detail__content__sns .addthis-widget div.share-trigger,.the-mag-detail__floating__sns .addthis-widget div.share-trigger {
+  border: 1px solid #949494;
+  margin: 0;
+  padding: 9px;
+  color: #fff;
+  background: #949494;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  left: 0
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content__sns .addthis-widget div.share-trigger,.the-mag-detail__floating__sns .addthis-widget div.share-trigger {
+      position:relative;
+      padding: 11px
+  }
+}
+
+.the-mag-detail__content__sns .addthis-widget div.share-trigger .na,.the-mag-detail__floating__sns .addthis-widget div.share-trigger .na {
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  font-size: 12px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content__sns .addthis-widget div.share-trigger .na,.the-mag-detail__floating__sns .addthis-widget div.share-trigger .na {
+      width:24px;
+      height: 24px;
+      line-height: 24px;
+      font-size: 16px
+  }
+}
+
+.the-mag-detail__content__sns .addthis-widget div.share-trigger .na [class*=fa-],.the-mag-detail__floating__sns .addthis-widget div.share-trigger .na [class*=fa-] {
+  line-height: 20px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content__sns .addthis-widget div.share-trigger .na [class*=fa-],.the-mag-detail__floating__sns .addthis-widget div.share-trigger .na [class*=fa-] {
+      line-height:24px
+  }
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper {
+  border: 1px solid #949494;
+  padding: 9px;
+  color: #949494;
+  background-color: #f2f2f2!important;
+  margin: 0 0 0 -1px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper {
+      background-color:#fff!important;
+      margin: -1px 0 0;
+      padding: 11px
+  }
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus,.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover {
+  transform: none
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-whatsapp,.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-whatsapp,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-whatsapp,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-whatsapp {
+  fill: #4dc247!important
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-facebook,.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-facebook,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-facebook,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-facebook {
+  fill: #3b5998!important
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-twitter,.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-twitter,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-twitter,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-twitter {
+  fill: #1da1f2!important
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-pinterest_share,.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-pinterest_share,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-pinterest_share,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-pinterest_share {
+  fill: #cb2027!important
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-link,.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-link,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-link,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-link {
+  fill: #178bf4!important
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-addthis,.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-addthis,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-addthis,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-addthis {
+  fill: #ff6550!important
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper span.at-icon-wrapper,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper span.at-icon-wrapper {
+  width: 20px!important;
+  height: 20px!important;
+  line-height: 20px!important
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper span.at-icon-wrapper,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper span.at-icon-wrapper {
+      width:24px!important;
+      height: 24px!important;
+      line-height: 24px!important
+  }
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper svg.at-icon,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper svg.at-icon {
+  width: 20px!important;
+  height: 20px!important
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper svg.at-icon,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper svg.at-icon {
+      width:24px!important;
+      height: 24px!important
+  }
+}
+
+.the-mag-detail__related {
+  background: #e9eaeb
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__related {
+      padding:80px 0;
+      margin-top: 60px
+  }
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__related .d-flex {
+      display:-ms-flexbox;
+      display: flex
+  }
+}
+
+@media (max-width: 991px) {
+  .the-mag-detail__related p.subtitle {
+      font-size:26px;
+      line-height: 1.3em;
+      margin: 40px 0
+  }
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__related p.subtitle {
+      margin:0 0 80px
+  }
+}
+
+.the-mag-detail__related__recommended {
+  padding: 0 0 40px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__related__recommended {
+      -ms-flex:0 0 60%;
+      flex: 0 0 60%;
+      padding: 0 60px 0 0;
+      border-right: 1px solid #949494
+  }
+}
+
+.the-mag-detail__related__recommended__item {
+  margin-top: 40px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__related__recommended__item {
+      margin-top:30px
+  }
+}
+
+.the-mag-detail__related__recommended__item:first-of-type {
+  margin-top: 0
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__related__recommended__item:first-of-type {
+      margin-top:0
+  }
+}
+
+.the-mag-detail__related__recommended__item .tags {
+  overflow: hidden;
+  clear: both;
+  padding: 0 0 15px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__related__recommended__item .tags {
+      padding:0 0 10px
+  }
+}
+
+.the-mag-detail__related__recommended__item .tags .tag {
+  float: left;
+  display: block;
+  padding: 2px 10px;
+  background: #25c79b;
+  color: #000;
+  margin: 0;
+  font-family: Roboto Condensed Bold\ 700,STHeiti,Microsoft JhengHei,sans-serif;
+  font-family: Roboto Medium\ 500,STHeiti,Microsoft JhengHei,sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: .1px;
+  text-transform: uppercase
+}
+
+@media (max-width: 991px) {
+  .the-mag-detail__related__recommended__item .tags .tag {
+      font-size:14px;
+      line-height: 18px
+  }
+}
+
+.the-mag-detail__related__recommended__item .tags .tag+.tag {
+  margin-left: 5px
+}
+
+.the-mag-detail__related__recommended__item .related-mag {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start
+}
+
+.the-mag-detail__related__recommended__item .related-mag .photo {
+  -ms-flex: 0 0 134px;
+  flex: 0 0 134px;
+  padding: 0 15px 0 0
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__related__recommended__item .related-mag .photo {
+      padding:0 20px 0 0;
+      -ms-flex: 0 0 180px;
+      flex: 0 0 180px
+  }
+}
+
+.the-mag-detail__related__recommended__item .related-mag .desc {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto
+}
+
+.the-mag-detail__related__recommended__item .related-mag .desc .title {
+  font-family: Roboto Medium\ 500,STHeiti,Microsoft JhengHei,sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: .1px;
+  text-transform: uppercase;
+  font-size: 20px
+}
+
+@media (max-width: 991px) {
+  .the-mag-detail__related__recommended__item .related-mag .desc .title {
+      font-size:14px;
+      line-height: 18px
+  }
+}
+
+.the-mag-detail__related__recommended__item .related-mag .desc .teaser {
+  display: none
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__related__recommended__item .related-mag .desc .teaser {
+      display:block;
+      margin-top: 10px
+  }
+}
+
+.the-mag-detail__related__recommended__item .related-mag .desc .teaser .dotdotdot {
+  overflow: hidden;
+  position: relative;
+  line-height: 1.3em;
+  max-height: 2.6em;
+  text-align: justify;
+  margin-right: -1em;
+  padding-right: 1em
+}
+
+.the-mag-detail__related__recommended__item .related-mag .desc .teaser .dotdotdot:before {
+  content: "...";
+  position: absolute;
+  right: 0;
+  bottom: 0
+}
+
+.the-mag-detail__related__recommended__item .related-mag .desc .teaser .dotdotdot:after {
+  content: "";
+  position: absolute;
+  right: 0;
+  width: 1em;
+  height: 1em;
+  margin-top: .2em;
+  background: #e9eaeb
+}
+
+.the-mag-detail__related__explore {
+  border-top: 1px solid #949494;
+  padding: 0 0 40px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__related__explore {
+      border-top:none;
+      -ms-flex: 0 0 40%;
+      flex: 0 0 40%;
+      padding: 0 0 0 60px
+  }
+}
+
+.the-mag-detail__related__explore .img-responsive {
+  width: 100%
+}
+
+.the-mag-detail .breadcrumb {
+  display: block;
+  font-size: 14px;
+  overflow: hidden;
+  margin: 0;
+  padding: 25px 15px 0
+}
+
+.the-mag-detail .breadcrumb .pipe {
+  display: block;
+  float: left;
+  padding: 0 8px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail .breadcrumb {
+      display:none
+  }
+}
+
+.the-mag-detail .breadcrumb a {
+  display: block;
+  float: left
+}
+
+.the-mag-detail .back-to-section-top {
+  display: none
+}
+
+.the-mag-detail .back-to-section-top i {
+  margin: 0 8px 0 0;
+  background-image: url(/files/taikooplace/images/arrow-grey-prev-xs.png);
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  width: 10px;
+  height: 19px;
+  background-size: 10px 19px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail .back-to-section-top {
+      display:block;
+      position: absolute;
+      top: 14px;
+      left: 0;
+      z-index: 9;
+      font-size: 16px
+  }
+}
+
 @media screen and (max-width: 1680px) {
   .row {
     display: flex;
@@ -1861,8 +3098,8 @@ header p {
 header.major > :last-child {
   border-bottom: solid 3px #f56a6a;
   display: inline-block;
-  margin: 0 0 2em 0;
-  padding: 0 0.75em 0.5em 0;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
 }
 
 header.main > :last-child {
@@ -2799,6 +4036,9 @@ button:disabled,
     margin: -3em 0 0 -3em;
     width: 6em;
   }
+  .the-mag-detail__content {
+    width:78.125%
+  }
 }
 
 @media screen and (max-width: 480px) {
@@ -3298,6 +4538,7 @@ button:disabled,
 
 /* Header */
 #header {
+  background-color: #fff;
   display: -moz-flex;
   display: -webkit-flex;
   display: -ms-flex;
@@ -3559,6 +4800,1374 @@ button:disabled,
   border-top: 0;
   margin-top: 0;
   padding-top: 0;
+}
+
+/*---------------------------------------
+   Overview  section              
+-----------------------------------------*/
+#overview {
+  padding-top: 14rem;
+  padding-bottom: 20rem;
+  position: relative;
+}
+
+#overview img {
+  border: 4px solid #f9f9f9;
+  padding: 20px 20px 40px 20px;
+}
+
+#overview blockquote {
+  background: #ffffff;
+  box-shadow: 0px 2px 8px 10px rgba(50, 50, 50, 0.04);
+  border-left: 8px solid #26253a;
+  word-spacing: 1px;
+  letter-spacing: 1px;
+  position: absolute;
+  font-size: 20px;
+  top: 240px;
+  left: 80px;
+  padding: 62px 52px;
+}
+
+#overview .overview-detail {
+  position: relative;
+  top: 40px;
+}
+
+#overview .btn {
+  background: transparent;
+  border: 4px solid #26253a;
+  border-radius: 0px;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  padding: 14px 46px;
+  transition: all 0.4s ease-in-out;
+  margin-top: 32px;
+}
+
+#overview .btn:hover {
+  background: #26253a;
+  color: #ffffff;
+}
+
+.the-mag-detail__content .content-event .box-wrapper {
+  position: relative;
+  margin: 20px 15px 0;
+  padding: 0 5px 5px 0
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-event .box-wrapper {
+      margin:30px 0 0;
+      padding: 0 10px 10px 0
+  }
+}
+
+.the-mag-detail__content .content-event .box-wrapper:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  right: 0;
+  bottom: 0;
+  border: 1px solid #949494;
+  background: #f2f2f2;
+  top: 5px;
+  left: 5px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content .content-event .box-wrapper:after {
+      top:10px;
+      left: 10px
+  }
+}
+
+.the-mag-detail__content .content-event .box {
+  position: relative;
+  background: #f2f2f2;
+  border: 1px solid #949494;
+  z-index: 2;
+  padding: 20px;
+  margin-bottom: 1px
+}
+
+.the-mag-detail__content .content-event .box dl {
+  margin: 0;
+  padding: 0
+}
+
+.the-mag-detail__content .content-event .box dl:after {
+  content: "";
+  display: table;
+  clear: both
+}
+
+.the-mag-detail__content .content-event .box dl+p {
+  margin-top: 10px
+}
+
+.the-mag-detail__content .content-event .box dl dt {
+  float: left;
+  font-weight: 400;
+  width: 30px;
+  margin: 0;
+  padding: 0;
+  clear: left
+}
+
+.the-mag-detail__content .content-event .box dl dt:last-of-type {
+  margin: 0
+}
+
+.the-mag-detail__content .content-event .box dl dd {
+  margin: 0 0 10px 30px;
+  padding: 0;
+  clear: right
+}
+
+.the-mag-detail__content .content-event .box dl dd:last-of-type {
+  margin: 0
+}
+
+.the-mag-detail__content .content-event .box dl dd a {
+  text-decoration: underline;
+  -ms-text-underline-position: below;
+  text-underline-position: under
+}
+
+.the-mag-detail__content .content-event .box .remarks {
+  font-style: italic
+}
+
+.the-mag-detail__content__info {
+  list-style: none;
+  margin: 0;
+  padding: 20px;
+  overflow: hidden;
+  clear: both;
+  font-size: 12px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__content__info {
+      font-size:16px;
+      padding: 60px 0 20px
+  }
+}
+
+.the-mag-detail__content__info li {
+  float: left;
+  margin: 0;
+  padding: 0
+}
+
+.the-mag-detail__content__info li [class*=fa-] {
+  padding-right: 10px;
+  font-size: 14px;
+  line-height: 12px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__content__info li [class*=fa-] {
+      font-size:18px;
+      line-height: 16px
+  }
+}
+
+.the-mag-detail__content__info li+li {
+  margin-left: 10px;
+  padding-left: 10px;
+  border-left: 1px solid #000
+}
+
+.the-mag-detail__content__tags {
+  margin: 0;
+  padding: 0 20px 15px;
+  font-size: 12px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__content__tags {
+      font-size:16px;
+      padding: 0 0 15px
+  }
+}
+
+.the-mag-detail__content__tags [class*=fa-] {
+  padding-right: 10px;
+  font-size: 14px;
+  line-height: 12px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__content__tags [class*=fa-] {
+      font-size:18px;
+      line-height: 16px
+  }
+}
+
+.the-mag-detail__content__tags a {
+  text-decoration: underline;
+  -ms-text-underline-position: below;
+  text-underline-position: under;
+  display: inline-block;
+  margin: 0 1px;
+  text-transform: uppercase;
+}
+
+.the-mag-detail__content__sns,.the-mag-detail__floating__sns {
+  position: relative;
+  width: 100%;
+  padding: 20px
+}
+
+.the-mag-detail__content__sns:after,.the-mag-detail__floating__sns:after {
+  content: "";
+  display: table;
+  clear: both
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content__sns,.the-mag-detail__floating__sns {
+      position:absolute;
+      padding: 0;
+      width: 48px;
+      top: 0;
+      left: -78px
+  }
+}
+
+@media (min-width: 992px) {
+  .sticky.the-mag-detail__floating__sns,.the-mag-detail__content__sns.sticky {
+      display:none
+  }
+}
+
+@media (max-width: 991px) {
+  .the-mag-detail__content__sns .addthis-widget,.the-mag-detail__floating__sns .addthis-widget {
+      display:inline-block;
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+      padding: 0 0 0 40px
+  }
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content__sns .addthis-widget,.the-mag-detail__floating__sns .addthis-widget {
+      padding:0
+  }
+}
+
+.the-mag-detail__content__sns .addthis-widget div.share-trigger,.the-mag-detail__floating__sns .addthis-widget div.share-trigger {
+  border: 1px solid #949494;
+  margin: 0;
+  padding: 9px;
+  color: #fff;
+  background: #949494;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  left: 0
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content__sns .addthis-widget div.share-trigger,.the-mag-detail__floating__sns .addthis-widget div.share-trigger {
+      position:relative;
+      padding: 11px
+  }
+}
+
+.the-mag-detail__content__sns .addthis-widget div.share-trigger .na,.the-mag-detail__floating__sns .addthis-widget div.share-trigger .na {
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  font-size: 12px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content__sns .addthis-widget div.share-trigger .na,.the-mag-detail__floating__sns .addthis-widget div.share-trigger .na {
+      width:24px;
+      height: 24px;
+      line-height: 24px;
+      font-size: 16px
+  }
+}
+
+.the-mag-detail__content__sns .addthis-widget div.share-trigger .na [class*=fa-],.the-mag-detail__floating__sns .addthis-widget div.share-trigger .na [class*=fa-] {
+  line-height: 20px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content__sns .addthis-widget div.share-trigger .na [class*=fa-],.the-mag-detail__floating__sns .addthis-widget div.share-trigger .na [class*=fa-] {
+      line-height:24px
+  }
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper {
+  border: 1px solid #949494;
+  padding: 9px;
+  color: #949494;
+  background-color: #f2f2f2!important;
+  margin: 0 0 0 -1px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper {
+      background-color:#fff!important;
+      margin: -1px 0 0;
+      padding: 11px
+  }
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus,.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover {
+  transform: none
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-whatsapp,.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-whatsapp,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-whatsapp,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-whatsapp {
+  fill: #4dc247!important
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-facebook,.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-facebook,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-facebook,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-facebook {
+  fill: #3b5998!important
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-twitter,.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-twitter,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-twitter,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-twitter {
+  fill: #1da1f2!important
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-pinterest_share,.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-pinterest_share,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-pinterest_share,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-pinterest_share {
+  fill: #cb2027!important
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-link,.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-link,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-link,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-link {
+  fill: #178bf4!important
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-addthis,.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-addthis,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:focus svg.at-icon.at-icon-addthis,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper:hover svg.at-icon.at-icon-addthis {
+  fill: #ff6550!important
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper span.at-icon-wrapper,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper span.at-icon-wrapper {
+  width: 20px!important;
+  height: 20px!important;
+  line-height: 20px!important
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper span.at-icon-wrapper,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper span.at-icon-wrapper {
+      width:24px!important;
+      height: 24px!important;
+      line-height: 24px!important
+  }
+}
+
+.the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper svg.at-icon,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper svg.at-icon {
+  width: 20px!important;
+  height: 20px!important
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__content__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper svg.at-icon,.the-mag-detail__floating__sns .at-style-responsive .at-share-btn-elements a.at-icon-wrapper svg.at-icon {
+      width:24px!important;
+      height: 24px!important
+  }
+}
+
+.the-mag-detail__related {
+  background: #e9eaeb
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__related {
+      padding:80px 0;
+      margin-top: 60px
+  }
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__related .d-flex {
+      display:-ms-flexbox;
+      display: flex
+  }
+}
+
+@media (max-width: 991px) {
+  .the-mag-detail__related p.subtitle {
+      font-size:26px;
+      line-height: 1.3em;
+      margin: 40px 0
+  }
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__related p.subtitle {
+      margin:0 0 80px
+  }
+}
+
+.the-mag-detail__related__recommended {
+  padding: 0 0 40px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__related__recommended {
+      -ms-flex:0 0 60%;
+      flex: 0 0 60%;
+      padding: 0 60px 0 0;
+      border-right: 1px solid #949494
+  }
+}
+
+.the-mag-detail__related__recommended__item {
+  margin-top: 40px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__related__recommended__item {
+      margin-top:30px
+  }
+}
+
+.the-mag-detail__related__recommended__item:first-of-type {
+  margin-top: 0
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__related__recommended__item:first-of-type {
+      margin-top:0
+  }
+}
+
+.the-mag-detail__related__recommended__item .tags {
+  overflow: hidden;
+  clear: both;
+  padding: 0 0 15px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__related__recommended__item .tags {
+      padding:0 0 10px
+  }
+}
+
+.the-mag-detail__related__recommended__item .tags .tag {
+  float: left;
+  display: block;
+  padding: 2px 10px;
+  background: #25c79b;
+  color: #000;
+  margin: 0;
+  font-family: Roboto Condensed Bold\ 700,STHeiti,Microsoft JhengHei,sans-serif;
+  font-family: Roboto Medium\ 500,STHeiti,Microsoft JhengHei,sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: .1px;
+  text-transform: uppercase
+}
+
+@media (max-width: 991px) {
+  .the-mag-detail__related__recommended__item .tags .tag {
+      font-size:14px;
+      line-height: 18px
+  }
+}
+
+.the-mag-detail__related__recommended__item .tags .tag+.tag {
+  margin-left: 5px
+}
+
+.the-mag-detail__related__recommended__item .related-mag {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start
+}
+
+.the-mag-detail__related__recommended__item .related-mag .photo {
+  -ms-flex: 0 0 134px;
+  flex: 0 0 134px;
+  padding: 0 15px 0 0
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__related__recommended__item .related-mag .photo {
+      padding:0 20px 0 0;
+      -ms-flex: 0 0 180px;
+      flex: 0 0 180px
+  }
+}
+
+.the-mag-detail__related__recommended__item .related-mag .desc {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto
+}
+
+.the-mag-detail__related__recommended__item .related-mag .desc .title {
+  font-family: Roboto Medium\ 500,STHeiti,Microsoft JhengHei,sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: .1px;
+  text-transform: uppercase;
+  font-size: 20px
+}
+
+@media (max-width: 991px) {
+  .the-mag-detail__related__recommended__item .related-mag .desc .title {
+      font-size:14px;
+      line-height: 18px
+  }
+}
+
+.the-mag-detail__related__recommended__item .related-mag .desc .teaser {
+  display: none
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail__related__recommended__item .related-mag .desc .teaser {
+      display:block;
+      margin-top: 10px
+  }
+}
+
+.the-mag-detail__related__recommended__item .related-mag .desc .teaser .dotdotdot {
+  overflow: hidden;
+  position: relative;
+  line-height: 1.3em;
+  max-height: 2.6em;
+  text-align: justify;
+  margin-right: -1em;
+  padding-right: 1em
+}
+
+.the-mag-detail__related__recommended__item .related-mag .desc .teaser .dotdotdot:before {
+  content: "...";
+  position: absolute;
+  right: 0;
+  bottom: 0
+}
+
+.the-mag-detail__related__recommended__item .related-mag .desc .teaser .dotdotdot:after {
+  content: "";
+  position: absolute;
+  right: 0;
+  width: 1em;
+  height: 1em;
+  margin-top: .2em;
+  background: #e9eaeb
+}
+
+.the-mag-detail__related__explore {
+  border-top: 1px solid #949494;
+  padding: 0 0 40px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__related__explore {
+      border-top:none;
+      -ms-flex: 0 0 40%;
+      flex: 0 0 40%;
+      padding: 0 0 0 60px
+  }
+}
+
+.the-mag-detail__related__explore .img-responsive {
+  width: 100%
+}
+
+.the-mag-detail .breadcrumb {
+  display: block;
+  font-size: 14px;
+  overflow: hidden;
+  margin: 0;
+  padding: 25px 15px 0
+}
+
+.the-mag-detail .breadcrumb .pipe {
+  display: block;
+  float: left;
+  padding: 0 8px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail .breadcrumb {
+      display:none
+  }
+}
+
+.the-mag-detail .breadcrumb a {
+  display: block;
+  float: left
+}
+
+.the-mag-detail .back-to-section-top {
+  display: none
+}
+
+.the-mag-detail .back-to-section-top i {
+  margin: 0 8px 0 0;
+  background-image: url(/files/taikooplace/images/arrow-grey-prev-xs.png);
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  width: 10px;
+  height: 19px;
+  background-size: 10px 19px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail .back-to-section-top {
+      display:block;
+      position: absolute;
+      top: 14px;
+      left: 0;
+      z-index: 9;
+      font-size: 16px
+  }
+}
+
+.the-mag-detail-carousel .slick-nav {
+  position: absolute;
+  top: 50%;
+  transform: translate3d(0,-50%,0);
+  border-radius: 0;
+  width: 22px;
+  height: 40px;
+  color: #fff;
+  z-index: 99;
+  cursor: pointer;
+  font-weight: 400;
+  text-align: center
+}
+
+.the-mag-detail-carousel .slick-nav i {
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  width: 22px;
+  height: 40px;
+  background-size: 22px 40px;
+  margin: 0 auto;
+  display: block
+}
+
+.the-mag-detail-carousel .slick-nav.prev {
+  left: 20px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail-carousel .slick-nav.prev {
+      left:40px
+  }
+}
+
+.the-mag-detail-carousel .slick-nav.prev i {
+  background-image: url(https://www.taikooplace.com/files/taikooplace/images/arrow-white-prev.png)
+}
+
+.the-mag-detail-carousel .slick-nav.next {
+  right: 20px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail-carousel .slick-nav.next {
+      right:30px
+  }
+}
+
+.the-mag-detail-carousel .slick-nav.next i {
+  background-image: url(https://www.taikooplace.com/files/taikooplace/images/arrow-white-next.png)
+}
+
+.the-mag-detail-carousel .slick-track {
+  overflow: hidden
+}
+
+.the-mag-detail-carousel .slicks {
+  display: none;
+  margin-bottom: 0
+}
+
+.the-mag-detail-carousel .slick {
+  outline: 0;
+  position: relative
+}
+
+.the-mag-detail-carousel .slick img {
+  position: absolute;
+  opacity: 0;
+  transition: all .3s ease-in-out;
+  width: auto;
+  height: 100%;
+  max-width: none;
+  margin-left: 50%;
+  transform: translate3d(-50%,0,0)
+}
+
+.the-mag-detail-carousel .slick .photo {
+  overflow: hidden;
+  position: relative;
+  background: #ddd;
+  height: 375px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail-carousel .slick .photo {
+      height:563px
+  }
+}
+
+.the-mag-detail-carousel .slick .photo .embed-responsive {
+  position: relative;
+  z-index: 2
+}
+
+.the-mag-detail-carousel .slick .photo.itemVideo {
+  padding-top: 56.2%
+}
+
+.the-mag-detail-carousel .slick .photo.itemVideo img,.the-mag-detail-carousel .slick .photo.itemVideo video {
+  position: absolute;
+  top: 0
+}
+
+.the-mag-detail-carousel .slick .photo.itemVideo.is-poster:before {
+  content: "u";
+  font-family: taikoo-place;
+  font-size: 120px;
+  color: #fff;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -60px;
+  margin-top: -90px;
+  z-index: 3
+}
+
+.the-mag-detail-carousel .slick.slick-current img {
+  opacity: 1
+}
+
+.the-mag-detail-carousel .slick video {
+  z-index: 2
+}
+
+.the-mag-detail-carousel .slick-dots {
+  position: absolute;
+  width: 100%;
+  bottom: 20px
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail-carousel .slick-dots {
+      bottom:30px
+  }
+}
+
+.the-mag-detail-carousel .slick-dots ul {
+  line-height: 12px
+}
+
+.the-mag-detail-carousel .slick-dots li {
+  line-height: 12px;
+  vertical-align: top;
+  width: 12px;
+  height: 12px;
+  margin: 0 10px
+}
+
+.the-mag-detail-carousel .slick-dots li button {
+  border-color: #fff;
+  background-color: #fff
+}
+
+.the-mag-detail-carousel .slick-dots li.slick-active button {
+  border-color: #25c79b;
+  background-color: #25c79b
+}
+
+.the-mag-detail-carousel .slicks.slick-initialized {
+  display: block
+}
+
+@media (max-width: 767px) {
+  .the-mag-detail-carousel .slick-list {
+      overflow:visible!important
+  }
+}
+
+@media (max-width: 480px) {
+  .the-mag-detail-carousel .slick-arrow {
+      display:block!important
+  }
+}
+
+.the-mag-detail-carousel .icon-enlargephoto {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 20px;
+  right: 20px;
+  background: url(/files/taikooplace/images/magnifying-glass-white.png) 0 0 no-repeat
+}
+
+.the-mag-detail-carousel .icon-enlargephoto:before {
+  display: none
+}
+
+@media (min-width: 768px) {
+  .the-mag-detail-carousel .icon-enlargephoto {
+      top:10px;
+      right: 10px
+  }
+}
+
+.the-mag-detail-carousel-shadow-caption {
+  position: relative;
+  margin: 0
+}
+
+.the-mag-detail-carousel-shadow-caption .slick-track {
+  overflow: hidden
+}
+
+.the-mag-detail-carousel-shadow-caption .slicks {
+  display: none;
+  margin-bottom: 0
+}
+
+.the-mag-detail-carousel-shadow-caption .slick {
+  outline: 0;
+  position: relative
+}
+
+.the-mag-detail-carousel-shadow-caption .slicks.slick-initialized {
+  display: block
+}
+
+.the-mag-detail-carousel-shadow-caption .caption {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  display: block;
+  padding: 20px 0 0;
+  color: #949494
+}
+
+.the-mag-detail-carousel-shadow-caption .caption strong {
+  color: #25c79b
+}
+
+.the-mag-detail-carousel-shadow-caption .caption p {
+  margin-bottom: 0
+}
+
+.theMagGalleryFull {
+  width: 100%
+}
+
+.theMagGalleryModal,.theMagGallerySingleModal {
+  padding: 0!important
+}
+
+.theMagGalleryModal .icon-cardclose,.theMagGallerySingleModal .icon-cardclose {
+  color: #fff
+}
+
+.theMagGalleryModal .close,.theMagGallerySingleModal .close {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  text-shadow: 0 3px 2px #969696
+}
+
+.theMagGalleryModal__wrapper,.theMagGallerySingleModal__wrapper {
+  width: 100%;
+  overflow: hidden;
+  display: block;
+  height: 100%;
+  max-height: 100%;
+  top: 0;
+  left: 0
+}
+
+.theMagGalleryModal__cell,.theMagGallerySingleModal__cell {
+  display: block;
+  width: 100%;
+  position: relative;
+  top: 50%;
+  transform: translate3d(0,-50%,0);
+  max-height: 100%;
+  max-height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto
+}
+
+@media (max-width: 30em) and (orientation:landscape) {
+  .theMagGalleryModal__cell,.theMagGallerySingleModal__cell {
+      top:0;
+      transform: none;
+      max-height: none
+  }
+}
+
+.theMagGalleryModal__cell-wrap,.theMagGallerySingleModal__cell-wrap {
+  position: relative;
+  display: block;
+  margin: 0;
+  padding: 0;
+  width: 100%
+}
+
+.theMagGalleryModal__cell-wrap:before,.theMagGallerySingleModal__cell-wrap:before {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 0;
+  padding: 75.0666666667% 0 0;
+  z-index: 0
+}
+
+.theMagGalleryModal__image-wrap,.theMagGallerySingleModal__image-wrap {
+  z-index: 2;
+  top: 20px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden
+}
+
+.theMagGalleryModal__image,.theMagGallerySingleModal__image {
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  width: auto!important;
+  max-width: 100%;
+  max-height: 100%
+}
+
+.theMagGalleryModal__text,.theMagGallerySingleModal__text {
+  color: #fff;
+  padding: 20px
+}
+
+@media (min-width: 768px) {
+  .theMagGalleryModal__text,.theMagGallerySingleModal__text {
+      padding:20px 40px
+  }
+}
+
+.theMagGalleryModal__text p strong,.theMagGallerySingleModal__text p strong {
+  color: #25c79b
+}
+
+.the-mag-detail-page-nav {
+  display: -ms-flexbox;
+  display: flex;
+  background: #fff;
+  position: relative;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  overflow: hidden;
+  margin: 0
+}
+
+.the-mag-detail-page-nav:after {
+  content: "";
+  border-left: 1px solid #ccc;
+  top: 0;
+  left: 50%;
+  bottom: 0;
+  position: absolute;
+  z-index: 3;
+  width: 0;
+  height: 100%
+}
+
+.the-mag-detail-page-nav .nav {
+  position: relative;
+  width: 50%;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  z-index: 1;
+  padding: 30px 0;
+  font-size: 14px
+}
+
+.the-mag-detail-page-nav .nav .arrow {
+  -ms-flex: 0 0 40px;
+  flex: 0 0 40px;
+  text-align: center
+}
+
+.the-mag-detail-page-nav .nav .arrow i {
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  width: 10px;
+  height: 19px;
+  background-size: 10px 19px;
+  margin: 0 auto;
+  display: block
+}
+
+.the-mag-detail-page-nav .nav .hints {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  font-weight: 700;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+  color: #25c79b
+}
+
+.the-mag-detail-page-nav .nav .hints .title {
+  font-weight: 400;
+  color: #000
+}
+
+.the-mag-detail-page-nav .nav.prev {
+  -ms-flex-direction: row;
+  flex-direction: row
+}
+
+.the-mag-detail-page-nav .nav.prev .arrow i {
+  background-image: url(/files/taikooplace/images/arrow-grey-prev-xs.png)
+}
+
+.the-mag-detail-page-nav .nav.prev .hints {
+  padding-right: 15px
+}
+
+.the-mag-detail-page-nav .nav.next .arrow i {
+  background-image: url(/files/taikooplace/images/arrow-grey-next-xs.png)
+}
+
+.the-mag-detail-page-nav .nav.next .hints {
+  padding-left: 15px
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail-page-nav {
+      display:none
+  }
+}
+
+.the-mag-detail__floating__sns {
+  display: none
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__floating__sns {
+      position:fixed;
+      z-index: -1
+  }
+}
+
+@media (min-width: 992px) {
+  .the-mag-detail__floating__sns.sticky {
+      display:block;
+      z-index: 99;
+      top: 50%;
+      left: 50%;
+      opacity: 1;
+      width: 48px;
+      margin-left: -453px;
+      transform: translate3d(0,-50%,0)
+  }
+}
+
+.theMagGalleryImageLink {
+  position: relative;
+  display: inline-block
+}
+
+.theMagGalleryImageLink .icon-enlargephoto {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 20px;
+  right: 20px;
+  background: url(https://www.taikooplace.com/files/taikooplace/images/magnifying-glass-white.png) 0 0 no-repeat
+}
+
+.theMagGalleryImageLink .icon-enlargephoto:before {
+  display: none
+}
+
+.slick-slider {
+  margin-bottom: 30px
+}
+
+.slick-dots {
+  margin-top: 10px;
+  list-style: none;
+  display: block;
+  text-align: center;
+  padding: 0;
+  width: 100%
+}
+
+.slick-dots li {
+  position: relative;
+  display: inline-block;
+  margin: 0 5px;
+  padding: 0
+}
+
+.slick-dots li,.slick-dots li button {
+  height: 20px;
+  width: 20px;
+  cursor: pointer
+}
+
+.slick-dots li button {
+  border: 0;
+  background: transparent;
+  display: block;
+  outline: none;
+  line-height: 0;
+  font-size: 0;
+  color: transparent;
+  padding: 5px
+}
+
+.slick-dots li button:focus,.slick-dots li button:hover {
+  outline: none
+}
+
+.slick-dots li button:focus:before,.slick-dots li button:hover:before {
+  content: "2"
+}
+
+.slick-dots li button:before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: "1";
+  width: 20px;
+  height: 20px;
+  font-family: corporate;
+  font-size: 9px;
+  line-height: 20px;
+  text-align: center;
+  color: #dbdbdb;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale
+}
+
+.slick-dots li.slick-active button:before {
+  content: "2";
+  color: #dbdbdb
+}
+
+.slick-dots:after {
+  content: " ";
+  display: table;
+  clear: both
+}
+
+.slick-slider {
+  box-sizing: border-box;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -ms-touch-action: pan-y;
+  touch-action: pan-y;
+  -webkit-tap-highlight-color: transparent
+}
+
+.slick-list,.slick-slider {
+  position: relative;
+  display: block
+}
+
+.slick-list {
+  overflow: hidden;
+  margin: 0;
+  padding: 0
+}
+
+.slick-list:focus {
+  outline: none
+}
+
+.slick-list.dragging {
+  cursor: pointer;
+  cursor: hand
+}
+
+.slick-slider .slick-list,.slick-slider .slick-track {
+  transform: translateZ(0)
+}
+
+.slick-track {
+  position: relative;
+  left: 0;
+  top: 0;
+  display: block
+}
+
+.slick-track:after,.slick-track:before {
+  content: "";
+  display: table
+}
+
+.slick-track:after {
+  clear: both
+}
+
+.slick-loading .slick-track {
+  visibility: hidden
+}
+
+.slick-slide {
+  float: left;
+  height: 100%;
+  min-height: 1px;
+  padding: 0;
+  display: none
+}
+
+[dir=rtl] .slick-slide {
+  float: right
+}
+
+.slick-slide img {
+  display: block;
+  width: 100%
+}
+
+.slick-slide.slick-loading img {
+  display: none
+}
+
+.slick-slide.dragging img {
+  pointer-events: none
+}
+
+.slick-initialized .slick-slide {
+  display: block
+}
+
+.slick-loading .slick-slide {
+  visibility: hidden
+}
+
+.slick-vertical .slick-slide {
+  display: block;
+  height: auto;
+  border: 1px solid transparent
+}
+
+.slick-arrow.slick-hidden {
+  display: none
+}
+
+.theme-blue .slick-dots li button,.theme-green .slick-dots li button,.theme-orange .slick-dots li button,.the-mag-detail-carousel .slick-dots li button {
+  text-indent: 999px;
+  overflow: hidden;
+  border-radius: 50px;
+  width: 12px;
+  height: 12px;
+  background-color: #fff
+}
+
+.theme-blue .slick-slide,.theme-green .slick-slide,.theme-orange .slick-slide,.the-mag-detail-carousel .slick-dots {
+  outline: 0
+}
+
+.theme-green .slick-dots li button,.the-mag-detail-carousel .slick-dots li button {
+  border: none;
+  box-shadow: none
+}
+
+.theme-green .slick-dots li.slick-active button,.the-mag-detail-carousel .slick-dots li.slick-active button {
+  background-color: #01aa73
+}
+
+.theme-orange .slick-dots li button {
+  border: 1px solid #e36f17
+}
+
+.theme-orange .slick-dots li.slick-active button {
+  background-color: #e36f17
+}
+
+.theme-blue .slick-dots li button {
+  border: 1px solid #008fd7
+}
+
+.theme-blue .slick-dots li.slick-active button {
+  background-color: #008fd7
+}
+
+.theme-blue .slick-next,.theme-blue .slick-prev,.theme-green .slick-next,.theme-green .slick-prev,.theme-orange .slick-next,.theme-orange .slick-prev,.the-mag-detail-carousel .slick-next,.the-mag-detail-carousel .slick-prev {
+  width: 36px;
+  height: 36px;
+  border: 0;
+}
+
+.theme-green .slick-prev,.theme-green .slick-prev:focus,.theme-green .slick-prev:hover,.the-mag-detail-carousel .slick-prev,.the-mag-detail-carousel .slick-prev:focus,.the-mag-detail-carousel .slick-prev:hover {
+  background: transparent url(https://www.taikooplace.com/files/taikooplace/images/arrow_green.png) 0 0 no-repeat;
+  background-size: auto 36px
+}
+
+.theme-green .slick-next,.theme-green .slick-next:focus,.theme-green .slick-next:hover,.the-mag-detail-carousel .slick-next,.the-mag-detail-carousel .slick-next:focus,.the-mag-detail-carousel .slick-next:hover {
+  background: transparent url(https://www.taikooplace.com/files/taikooplace/images/arrow_green.png) -36px 0 no-repeat;
+  background-size: auto 36px
+}
+
+.theme-blue .slick-prev,.theme-blue .slick-prev:focus,.theme-blue .slick-prev:hover {
+  background: transparent url(https://www.taikooplace.com/files/taikooplace/images/arrow_blue.png) 0 0 no-repeat;
+  background-size: auto 36px
+}
+
+.theme-blue .slick-next,.theme-blue .slick-next:focus,.theme-blue .slick-next:hover {
+  background: transparent url(https://www.taikooplace.com/files/taikooplace/images/arrow_blue.png) -36px 0 no-repeat;
+  background-size: auto 36px
+}
+
+.theme-orange .slick-prev,.theme-orange .slick-prev:focus,.theme-orange .slick-prev:hover {
+  background: transparent url(https://www.taikooplace.com/files/taikooplace/images/arrow_orange.png) 0 0 no-repeat;
+  background-size: auto 36px
+}
+
+.theme-orange .slick-next,.theme-orange .slick-next:focus,.theme-orange .slick-next:hover {
+  background: transparent url(https://www.taikooplace.com/files/taikooplace/images/arrow_orange.png) -36px 0 no-repeat;
+  background-size: auto 36px
+}
+
+
+/*---------------------------------------
+    Testimonial section              
+-----------------------------------------*/
+.quotes-section {
+  background: #ffffff;
+  color: #26253a;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+
+.quotes-section .fa {
+font-size: 42px;
+padding-bottom: 14px;
+}
+
+.quotes-section h3 {
+letter-spacing: 1px;
+}
+
+.owl-wrapper {
+margin-top: 40px;
 }
 
 /*!
