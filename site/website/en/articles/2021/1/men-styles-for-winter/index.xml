@@ -17,8 +17,8 @@
 	<date_dt>2021-01-04T16:00:00.000Z</date_dt>
 	<createdDate>2017-03-3T20:57:7.000Z</createdDate>
 	<createdDate_dt>2017-03-3T20:57:7.000Z</createdDate_dt>
-	<lastModifiedDate>2023-12-01T06:11:07.388Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-12-01T06:11:07.388Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-12-01T06:45:10.169Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-01T06:45:10.169Z</lastModifiedDate_dt>
 	<featured_b>true</featured_b>
 	<summary_t>Nulla sed enim ipsum. Sed ac neque a ligula malesuada volutpat. Donec et ligula rutrum, mattis mauris eget, vestibulum metus. Maecenas non vehicula neque. Nunc ac mauris id ipsum commodo tempus. Integer at dolor consequat, dignissim eros in, imperdiet dui.</summary_t>
 	<image_s>/static-assets/images/winter-man-pic.jpg</image_s>
@@ -30,7 +30,7 @@
 	<categories_o>	<item>	<key>style</key>
 	<value_smv>Style</value_smv>
 	</item></categories_o>
-	<localeCode_s/>
+	<localeCode_s>en</localeCode_s>
 	<sourceLocaleCode_s>en</sourceLocaleCode_s>
 	<localeSourceId_s>70f6170b-bb83-e522-0967-efaf3f48df06</localeSourceId_s>
 </page>
