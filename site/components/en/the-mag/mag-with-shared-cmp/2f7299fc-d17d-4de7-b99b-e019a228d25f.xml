@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/magevent</content-type>
+	<display-template>/templates/web/components/mag-event.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<internal-name>New Mag Event</internal-name>
+	<file-name>2f7299fc-d17d-4de7-b99b-e019a228d25f.xml</file-name>
+	<createdDate_dt>2023-11-19T01:53:43.699Z</createdDate_dt>
+	<lastModifiedDate_dt>2023-11-19T01:57:39.471Z</lastModifiedDate_dt>
+	<objectId>2f7299fc-d17d-4de7-b99b-e019a228d25f</objectId>
+	<sectionId_s no-default="true"/>
+	<title_s>Hashtag B</title_s>
+	<summary_html>&lt;p&gt;There&amp;rsquo;s a new bakery on the block at Taikoo Place &amp;ndash;Hashtag B! This homegrown brand aims to redefine the classic Hong Kong bakery experience with creative flavours. They meticulously handpick premium ingredients from different countries, providing the finest and freshest products to their customers. With a variety of freshly baked delights available daily, such as their signature Napol&amp;eacute;on Tart, Earl Grey Cream Cheese Bagel and the exclusive Salmon Croissant, there&amp;rsquo;s never been a better excuse for an afternoon treat.&lt;/p&gt;</summary_html>
+	<imagePosition_s/>
+	<image_s>/static-assets/images/the-mag/themag2023/november-2023/taikoothismonthnov2023/hashtag-b.jpg</image_s>
+	<event_o item-list="true">	<item>	<icon_s>fas fa-calendar-alt</icon_s>
+	<content_html>Monday-Friday, 9am-6pm</content_html>
+	</item>	<item>	<icon_s>fas fa-map-marker-alt</icon_s>
+	<content_html>Area A, G/F, Berkshire House, Taikoo Place</content_html>
+	</item>	<item>	<icon_s>fas fa-globe</icon_s>
+	<content_html>&lt;span style="text-decoration: underline;"&gt;&lt;a href="http://www.hashtag-b.com/" target="_blank" rel="noopener noreferrer"&gt;hashtag-b.com &lt;/a&gt;&lt;/span&gt;</content_html>
+	</item></event_o>
+	<folder-name/>
+	<createdDate>2023-11-19T01:53:43.699Z</createdDate>
+	<lastModifiedDate>2023-11-19T01:57:39.471Z</lastModifiedDate>
+</component>

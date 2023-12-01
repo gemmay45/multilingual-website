@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <content-type>/component/magbannerimage</content-type>
+  <display-template>/templates/web/components/mag-banner-image.ftl</display-template>
+  <no-template-required/>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <internal-name>Mag Banner Image</internal-name>
+  <file-name>b6b0d5a1-e3be-4335-8814-6744a350d5fb.xml</file-name>
+  <createdDate_dt>2023-11-19T01:44:05.029Z</createdDate_dt>
+  <lastModifiedDate_dt>2023-11-19T01:45:19.031Z</lastModifiedDate_dt>
+  <objectId>b6b0d5a1-e3be-4335-8814-6744a350d5fb</objectId>
+  <sectionId_s no-default="true"/>
+  <caption_s/>
+  <imageOnDesktop_s><![CDATA[/static-assets/images/the-mag/themag2023/november-2023/taikoothismonthnov2023/hero-banner-nov-ttm.jpg]]></imageOnDesktop_s>
+  <imageOnMobile_s/>
+  <imageBackgroundColor_s/>
+  <renderer_s/>
+  <folder-name/>
+  <createdDate>2023-11-19T01:44:05.029Z</createdDate>
+  <lastModifiedDate>2023-11-19T01:44:05.029Z</lastModifiedDate>
+</component>

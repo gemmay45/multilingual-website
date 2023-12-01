@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/magevent</content-type>
+	<display-template>/templates/web/components/mag-event.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<internal-name>New Mag Event</internal-name>
+	<file-name>70125013-8626-4294-8567-b2f0de7963ab.xml</file-name>
+	<createdDate_dt>2023-11-19T01:48:06.302Z</createdDate_dt>
+	<lastModifiedDate_dt>2023-11-19T01:52:08.430Z</lastModifiedDate_dt>
+	<objectId>70125013-8626-4294-8567-b2f0de7963ab</objectId>
+	<sectionId_s/>
+	<title_s>Qi – House of Sichuan</title_s>
+	<summary_html>&lt;p&gt;This one&amp;rsquo;s for the spice fiends; Qi &amp;ndash; House of Sichuan will be landed in Berkshire House, following the success of the Michelin-starred Wan Chai original. Here you&amp;rsquo;ll find authentic Sichuan dishes that reflect the &amp;ldquo;seven flavours of Sichuan&amp;rdquo; &amp;ndash; spicy, aromatic, sweet, bitter, sour, peppery and salty &amp;ndash; so get ready for an explosive culinary adventure packed with powerful flavours, numbing mala spices and a fiery helping of heat.&amp;nbsp;Stay tuned for its opening!&lt;/p&gt;</summary_html>
+	<imagePosition_s/>
+	<image_s>/static-assets/images/the-mag/themag2023/november-2023/taikoothismonthnov2023/house-of-sichuan-nov-ttm.jpg</image_s>
+	<event_o item-list="true">	<item>	<icon_s>fas fa-map-marker-alt</icon_s>
+	<content_html>2/F, Berkshire House, Taikoo Place</content_html>
+	</item>	<item>	<icon_s>fas fa-phone</icon_s>
+	<content_html>3579 8339</content_html>
+	</item>	<item>	<icon_s>fas fa-globe</icon_s>
+	<content_html>&lt;span style="text-decoration: underline;"&gt;&lt;a href="http://www.qi-sichuan.hk/" target="_blank" rel="noopener noreferrer"&gt;qi-sichuan.hk&lt;/a&gt;&lt;/span&gt;</content_html>
+	</item></event_o>
+	<folder-name/>
+	<createdDate>2023-11-19T01:48:06.302Z</createdDate>
+	<lastModifiedDate>2023-11-19T01:52:08.430Z</lastModifiedDate>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component id="f94e4294-e815-4e9c-b584-4bebdbf4348a">
+  <content-type>/component/magtext</content-type>
+  <display-template>/templates/web/components/mag-text.ftl</display-template>
+  <internal-name><![CDATA[New Mag Text]]></internal-name>
+  <file-name>f94e4294-e815-4e9c-b584-4bebdbf4348a.xml</file-name>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <createdDate_dt>2023-11-19T01:45:41.893Z</createdDate_dt>
+  <lastModifiedDate_dt>2023-11-19T01:46:13.484Z</lastModifiedDate_dt>
+  <objectId>f94e4294-e815-4e9c-b584-4bebdbf4348a</objectId>
+  <sectionId_s/>
+  <title_s><![CDATA[Title goes here]]></title_s>
+  <content_html><![CDATA[<strong>Find the latest events, openings and top deals in Quarry Bay for November 2023.&nbsp;</strong>]]></content_html>
+</component>

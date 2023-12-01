@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component id="e4832303-8416-471b-a590-75f68c5b1986">
+  <content-type>/component/magtext</content-type>
+  <display-template>/templates/web/components/mag-text.ftl</display-template>
+  <internal-name><![CDATA[New Mag Text]]></internal-name>
+  <file-name>e4832303-8416-471b-a590-75f68c5b1986.xml</file-name>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <createdDate_dt>2023-11-19T01:46:51.058Z</createdDate_dt>
+  <lastModifiedDate_dt>2023-11-19T01:47:18.341Z</lastModifiedDate_dt>
+  <objectId>e4832303-8416-471b-a590-75f68c5b1986</objectId>
+  <sectionId_s/>
+  <title_s><![CDATA[Title goes here]]></title_s>
+  <content_html><![CDATA[<p style="text-align: center;"><strong><span style="text-decoration: underline; font-size: 32px;">Openings &amp; Launches</span></strong></p>]]></content_html>
+</component>
