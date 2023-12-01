@@ -17,16 +17,16 @@
 	</item></left_rail_o>
 	<createdDate>2017-3-23T23:47:15.000Z</createdDate>
 	<createdDate_dt>2017-3-23T23:47:15.000Z</createdDate_dt>
-	<lastModifiedDate>2023-12-01T06:26:12.978Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-12-01T06:26:12.978Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-12-01T08:20:10.496Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-01T08:20:10.496Z</lastModifiedDate_dt>
 	<disabled>false</disabled>
 	<categories_o item-list="true">	<item>	<key>/site/taxonomy/categories.xml</key>
 	<value>Categories</value>
 	<include>/site/taxonomy/categories.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></categories_o>
-	<localeCode_s/>
-	<sourceLocaleCode_s/>
+	<localeCode_s>en</localeCode_s>
+	<sourceLocaleCode_s>en</sourceLocaleCode_s>
 	<header_o item-list="true"/>
 	<localeSourceId_s>c8ba0eff-eb2e-7c96-1728-c8fc182a4f75</localeSourceId_s>
 </page>
