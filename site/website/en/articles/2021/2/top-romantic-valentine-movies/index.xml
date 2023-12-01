@@ -18,8 +18,8 @@
 	<date_dt>2021-02-13T16:00:00.000Z</date_dt>
 	<createdDate>2017-03-3T20:14:16.000Z</createdDate>
 	<createdDate_dt>2017-03-3T20:14:16.000Z</createdDate_dt>
-	<lastModifiedDate>2023-11-28T06:02:06.942Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-11-28T06:02:06.942Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-12-01T00:17:40.965Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-01T00:17:40.965Z</lastModifiedDate_dt>
 	<featured_b>true</featured_b>
 	<summary_t>Suspendisse a faucibus orci. Sed porta justo vel sapien iaculis pulvinar. Quisque bibendum pretium lectus ut auctor. Integer vitae libero volutpat est congue lacinia. Morbi at massa odio. Quisque non elit tellus. Donec porttitor viverra tortor.</summary_t>
 	<image_s>/static-assets/images/romantic-pic.jpg</image_s>
@@ -31,4 +31,7 @@
 	<categories_o>	<item>	<key>entertainment</key>
 	<value_smv>Entertainment</value_smv>
 	</item></categories_o>
+	<localeCode_s>en</localeCode_s>
+	<sourceLocaleCode_s>en</sourceLocaleCode_s>
+	<localeSourceId_s>95ab4bb6-5ec1-6c39-f31d-0e2c311787b7</localeSourceId_s>
 </page>
