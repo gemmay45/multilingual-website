@@ -22,28 +22,9 @@
             </div>
         </#if>
     </div>
-    <div class="box-wrapper">
-        <div class="box">
-            Using renderRepeatGroup<br/><br/>
-            <@crafter.renderRepeatGroup
-              $field="event_o"
-              $containerTag="dl"
-              $itemTag="div";
-              item, index
-            >
-              <#if item.content_html?has_content>
-                <@crafter.tag $tag="dt" $field="event_o" $index=index><i $field="event_o" class="${item.icon_s}"></i></@crafter.tag>
-              </#if>
-              <#if item.content_html?has_content>
-                <@crafter.tag $tag="dd" $field="event_o" $index=index>${item.content_html}</@crafter.tag>
-              </#if>
-            </@crafter.renderRepeatGroup>
-        </div>
-    </div>
     
     <div class="box-wrapper">
         <div class="box">
-            Not using renderRepeatGroup<br/><br/>
             <dl>
                 <#if contentModel.event_o?? && contentModel.event_o.item??>
 					<#list contentModel.event_o.item as item>
