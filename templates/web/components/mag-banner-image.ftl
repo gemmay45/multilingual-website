@@ -4,7 +4,6 @@
 <section id="${contentModel.sectionId_s}" class="parallax-section">
     <div class="content-row">
             <div class="content-col hero">
-            xxx
 <#--
                 <a href="#" data-toggle="modal" data-target=".theMagGallerySingleModal" class="theMagGalleryImageLink">
                     <figure class="figure">
@@ -17,4 +16,6 @@
             </div>
     </div>
 </section>
+<#else>
+            xxx
 </#if>
