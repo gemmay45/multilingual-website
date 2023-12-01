@@ -11,7 +11,6 @@
 	<internal-name>tpinsiderhashtagb</internal-name>
 	<title_t>Taikoo Place Insiders: James Chu, founder of Hashtag B</title_t>
 	<subject_t>Taikoo Place Insiders: James Chu, founder of Hashtag B</subject_t>
-	<author_s>John Doe</author_s>
 	<disabled>false</disabled>
 	<featured_b>true</featured_b>
 	<header_o item-list="true"/>
@@ -365,11 +364,14 @@
 	<image_s>/static-assets/images/the-mag/themag2023/november-2023/tpinsider/_q7a1407-t.jpeg</image_s>
 	<createdDate>2023-11-14T01:31:05.921Z</createdDate>
 	<createdDate_dt>2023-11-14T01:31:05.921Z</createdDate_dt>
-	<lastModifiedDate>2023-11-28T06:00:30.445Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-11-28T06:00:30.445Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-12-01T06:12:04.363Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-01T06:12:04.363Z</lastModifiedDate_dt>
 	<date_dt>2023-11-08T16:00:00.000Z</date_dt>
 	<date_dt_tz>Asia/Hong_Kong</date_dt_tz>
 	<categories_o>	<item>	<key>taikoo-this-month</key>
 	<value_smv>Taikoo This Month</value_smv>
 	</item></categories_o>
+	<localeCode_s/>
+	<sourceLocaleCode_s/>
+	<localeSourceId_s>f4ab93c1-d9e4-1c31-9541-9d82d74781dd</localeSourceId_s>
 </page>
