@@ -7,7 +7,7 @@ import org.opensearch.search.sort.FieldSortBuilder
 import org.opensearch.search.sort.SortOrder
 
 def contentObject = [:]
-def pageId = (params.id) ? params.id : "/site/website/en/index.xml"
+def pageId = (params.id) ? params.id : "/site/website/index.xml"
 
 def pageItem = siteItemService.getSiteItem(pageId)
 
