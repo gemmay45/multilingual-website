@@ -44,6 +44,7 @@
     if (categories) {
       params.categories = categories;
     }
+console.log (params)
 
     $.get('/api/search.json', params).done(function (data) {
       if (data == null) {
