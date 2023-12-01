@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<content-type>/page/article</content-type>
-	<display-template>/templates/web/pages/article.ftl</display-template>
-	<no-template-required/>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>0444</objectGroupId>
-	<objectId>0444E196-5EF6-4B21-A130-1EB13AA6FDBC</objectId>
-	<file-name>index.xml</file-name>
-	<folder-name>tpeveryhourishappyhour</folder-name>
-	<internal-name>tpeveryhourishappyhour</internal-name>
-	<title_t>Every Hour is Happy Hour at Taikoo Place</title_t>
-	<subject_t>Every Hour is Happy Hour at Taikoo Place</subject_t>
-	<author_s />
-	<disabled>false</disabled>
-	<featured_b>false</featured_b>
-	<header_o item-list="true"/>
-	<left_rail_o item-list="true"/>
-	<pageSections_o item-list="true">	<item inline="true">	<key>28E66ADD-56CB-47CD-8787-89E65A8C14A3</key>
-	<value>New Mag Banner Image</value>
-	<disableFlattening>false</disableFlattening>
-<component id="28E66ADD-56CB-47CD-8787-89E65A8C14A3">
+  <content-type>/page/article</content-type>
+  <display-template>/templates/web/pages/article.ftl</display-template>
+  <no-template-required/>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <objectGroupId>0444</objectGroupId>
+  <objectId>0444E196-5EF6-4B21-A130-1EB13AA6FDBC</objectId>
+  <file-name>index.xml</file-name>
+  <folder-name>tpeveryhourishappyhour</folder-name>
+  <internal-name>tpeveryhourishappyhour</internal-name>
+  <title_t>Every Hour is Happy Hour at Taikoo Place</title_t>
+  <subject_t>Every Hour is Happy Hour at Taikoo Place</subject_t>
+  <author_s/>
+  <disabled>false</disabled>
+  <featured_b>false</featured_b>
+  <header_o item-list="true"/>
+  <left_rail_o item-list="true"/>
+  <pageSections_o item-list="true">
+    <item inline="true">
+      <key>28E66ADD-56CB-47CD-8787-89E65A8C14A3</key>
+      <value>New Mag Banner Image</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="28E66ADD-56CB-47CD-8787-89E65A8C14A3">
         <content-type>/component/magbannerimage</content-type>
         <display-template>/templates/web/components/mag-banner-image.ftl</display-template>
         <no-template-required/>
@@ -39,10 +41,12 @@
         <createdDate>2023-11-14T12:48:21.162Z</createdDate>
         <lastModifiedDate>2023-11-15T05:01:23.123Z</lastModifiedDate>
       </component>
-	</item>	<item inline="true">	<key>C720E53F-19D0-41DA-BED5-2312126D5D37</key>
-	<value>New Mag Text</value>
-	<disableFlattening>false</disableFlattening>
-<component id="C720E53F-19D0-41DA-BED5-2312126D5D37">
+    </item>
+    <item inline="true">
+      <key>C720E53F-19D0-41DA-BED5-2312126D5D37</key>
+      <value>New Mag Text</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="C720E53F-19D0-41DA-BED5-2312126D5D37">
         <content-type>/component/magtext</content-type>
         <display-template>/templates/web/components/mag-text.ftl</display-template>
         <no-template-required/>
@@ -53,16 +57,18 @@
         <lastModifiedDate_dt>2023-11-16T08:10:54.914Z</lastModifiedDate_dt>
         <objectId>C720E53F-19D0-41DA-BED5-2312126D5D37</objectId>
         <sectionId_s/>
-        <title_s></title_s>
+        <title_s/>
         <content_html>&lt;p&gt;Achieving the optimal work-life balance is a priority that we can all agree on. Gone are the days of lunch al-desko and our only workout being the MTR crush-hour. Instead, people are increasingly focused on finding an equilibrium that gives equal priority to our work, health and social lives.&lt;/p&gt;&lt;p&gt;Taikoo Place has led this movement for some time, spearheading a range of lifestyle initiatives and activities that add value to our working week while amplifying our leisure time. By focusing on how best to enhance our lives every day of the week, Taikoo Place is ensuring that every hour here is happy hour! And with the cooler months finally bringing a little respite from the heat, here&amp;rsquo;s a sneak peek of what we can look forward to in the next few months at Taikoo Place.&lt;/p&gt;</content_html>
         <folder-name/>
         <createdDate>2023-11-16T08:10:54.914Z</createdDate>
         <lastModifiedDate>2023-11-16T08:10:54.914Z</lastModifiedDate>
       </component>
-	</item>	<item inline="true">	<key>45BE2C3F-9537-4519-836C-FAA21CD9B2B7</key>
-	<value>New Mag Text</value>
-	<disableFlattening>false</disableFlattening>
-<component id="45BE2C3F-9537-4519-836C-FAA21CD9B2B7">
+    </item>
+    <item inline="true">
+      <key>45BE2C3F-9537-4519-836C-FAA21CD9B2B7</key>
+      <value>New Mag Text</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="45BE2C3F-9537-4519-836C-FAA21CD9B2B7">
         <content-type>/component/magtext</content-type>
         <display-template>/templates/web/components/mag-text.ftl</display-template>
         <no-template-required/>
@@ -79,10 +85,12 @@
         <createdDate>2023-11-15T00:25:53.006Z</createdDate>
         <lastModifiedDate>2023-11-15T04:54:01.540Z</lastModifiedDate>
       </component>
-	</item>	<item inline="true">	<key>8605F069-69A5-47B2-8379-3603A9F7CE7B</key>
-	<value>New Mag Text</value>
-	<disableFlattening>false</disableFlattening>
-<component id="8605F069-69A5-47B2-8379-3603A9F7CE7B">
+    </item>
+    <item inline="true">
+      <key>8605F069-69A5-47B2-8379-3603A9F7CE7B</key>
+      <value>New Mag Text</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="8605F069-69A5-47B2-8379-3603A9F7CE7B">
         <content-type>/component/magtext</content-type>
         <display-template>/templates/web/components/mag-text.ftl</display-template>
         <no-template-required/>
@@ -93,38 +101,18 @@
         <lastModifiedDate_dt>2023-11-15T04:54:18.636Z</lastModifiedDate_dt>
         <objectId>8605F069-69A5-47B2-8379-3603A9F7CE7B</objectId>
         <sectionId_s/>
-        <title_s></title_s>
+        <title_s/>
         <content_html>&lt;p&gt;With a focus on sustainability, this year&amp;rsquo;s festival will spotlight environmentally conscious practices, with the event going keg-only to avoid packaging wastage. It also celebrates local brewers, working with the Craft Beer Association of Hong Kong to promote home-grown beer brands. Meanwhile, an exclusive partnership with local upcycling start-up BREER, who collect surplus bread for use in their brews, has resulted in a festival-exclusive, green-hued TCSM x BREER beer that&amp;rsquo;s infused with pandan grown at our very own urban rooftop farm, The Loop at One Island East. With free-flow tickets at just HK$380 (and an exclusive tenant-only price of just $320 via Taikoo Place app), plenty of local foodie favourites such as Lobster Boss and Wingman providing delicious bites on-site, and even a custom-built adult playground, this is an unmissable event for any craft beer connoisseur.&lt;/p&gt;</content_html>
         <folder-name/>
         <createdDate>2023-11-15T00:26:59.923Z</createdDate>
         <lastModifiedDate>2023-11-15T04:54:18.636Z</lastModifiedDate>
       </component>
-	</item>	<item inline="true">	<key>c0c6db88-fbab-4c19-85d0-035e351b2769</key>
-	<value>New Mag Portrait Image with Text</value>
-	<disableFlattening>false</disableFlattening>
-<component id="c0c6db88-fbab-4c19-85d0-035e351b2769">
-	<content-type>/component/magportraitimagewithtext</content-type>
-	<display-template>/templates/web/components/mag-portrait-image-with-text.ftl</display-template>
-	<no-template-required/>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<internal-name>New Mag Portrait Image with Text</internal-name>
-	<file-name>c0c6db88-fbab-4c19-85d0-035e351b2769.xml</file-name>
-	<createdDate_dt>2023-11-16T08:17:05.946Z</createdDate_dt>
-	<lastModifiedDate_dt>2023-11-27T01:50:18.109Z</lastModifiedDate_dt>
-	<objectId>c0c6db88-fbab-4c19-85d0-035e351b2769</objectId>
-	<image_s>/static-assets/images/the-mag/themag2023/november-2023/tpinsider/_q7a1475-edit-s.jpg</image_s>
-	<sideContent_html>&lt;p&gt;&lt;strong&gt;Over the past few years, it seems there&amp;rsquo;s been an explosion of new independent bakeries in Hong Kong! Why do you think that is?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hong Kongers love their food and are always searching for new ideas. Covid impacted us in many ways and during this period in particular, I saw many youngsters spending time in cafes. I think enjoying pastries in caf&amp;eacute;s and bakeries became a lifestyle for many people &amp;ndash; and I love seeing so many options now for them to choose from!&lt;/p&gt;</sideContent_html>
-	<imagePosition_s>-right</imagePosition_s>
-	<folder-name/>
-	<createdDate>2023-11-16T08:17:05.946Z</createdDate>
-	<lastModifiedDate>2023-11-27T01:50:18.109Z</lastModifiedDate>
-	<sectionId_s/>
-</component>
-	</item>	<item inline="true">	<key>0903b3f1-70f7-49b6-8faa-80ffac48df03</key>
-	<value>New Mag Text</value>
-	<disableFlattening>false</disableFlattening>
-<component id="0903b3f1-70f7-49b6-8faa-80ffac48df03">
+    </item>
+    <item inline="true">
+      <key>0903b3f1-70f7-49b6-8faa-80ffac48df03</key>
+      <value>New Mag Text</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="0903b3f1-70f7-49b6-8faa-80ffac48df03">
         <content-type>/component/magtext</content-type>
         <display-template>/templates/web/components/mag-text.ftl</display-template>
         <no-template-required/>
@@ -142,10 +130,12 @@
         <createdDate>2023-11-15T00:29:21.860Z</createdDate>
         <lastModifiedDate>2023-11-15T04:56:24.292Z</lastModifiedDate>
       </component>
-	</item>	<item inline="true">	<key>a9d5dd40-3c47-41eb-8174-abbdb8199747</key>
-	<value>New Mag Text</value>
-	<disableFlattening>false</disableFlattening>
-<component id="a9d5dd40-3c47-41eb-8174-abbdb8199747">
+    </item>
+    <item inline="true">
+      <key>a9d5dd40-3c47-41eb-8174-abbdb8199747</key>
+      <value>New Mag Text</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="a9d5dd40-3c47-41eb-8174-abbdb8199747">
         <content-type>/component/magtext</content-type>
         <display-template>/templates/web/components/mag-text.ftl</display-template>
         <no-template-required/>
@@ -163,10 +153,12 @@
         <createdDate>2023-11-15T00:30:39.835Z</createdDate>
         <lastModifiedDate>2023-11-15T04:56:28.214Z</lastModifiedDate>
       </component>
-	</item>	<item inline="true">	<key>7b417c41-ffe0-4e99-8b5c-f106156f0d36</key>
-	<value>New Mag Text</value>
-	<disableFlattening>false</disableFlattening>
-<component id="7b417c41-ffe0-4e99-8b5c-f106156f0d36">
+    </item>
+    <item inline="true">
+      <key>7b417c41-ffe0-4e99-8b5c-f106156f0d36</key>
+      <value>New Mag Text</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="7b417c41-ffe0-4e99-8b5c-f106156f0d36">
         <content-type>/component/magtext</content-type>
         <display-template>/templates/web/components/mag-text.ftl</display-template>
         <no-template-required/>
@@ -184,10 +176,12 @@
         <createdDate>2023-11-15T00:31:32.027Z</createdDate>
         <lastModifiedDate>2023-11-15T04:56:32.545Z</lastModifiedDate>
       </component>
-	</item>	<item inline="true">	<key>fa8e1df6-2a08-4ce1-8224-284f326d3cfd</key>
-	<value>New Mag Event</value>
-	<disableFlattening>false</disableFlattening>
-<component id="fa8e1df6-2a08-4ce1-8224-284f326d3cfd">
+    </item>
+    <item inline="true">
+      <key>fa8e1df6-2a08-4ce1-8224-284f326d3cfd</key>
+      <value>New Mag Event</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="fa8e1df6-2a08-4ce1-8224-284f326d3cfd">
         <content-type>/component/magevent</content-type>
         <display-template>/templates/web/components/mag-event.ftl</display-template>
         <no-template-required/>
@@ -220,10 +214,12 @@
         <createdDate>2023-11-16T08:21:57.988Z</createdDate>
         <lastModifiedDate>2023-11-16T08:35:57.808Z</lastModifiedDate>
       </component>
-	</item>	<item inline="true">	<key>3fbd851f-e701-4270-9299-e0436ddcfe1a</key>
-	<value>New Mag Text</value>
-	<disableFlattening>false</disableFlattening>
-<component id="3fbd851f-e701-4270-9299-e0436ddcfe1a">
+    </item>
+    <item inline="true">
+      <key>3fbd851f-e701-4270-9299-e0436ddcfe1a</key>
+      <value>New Mag Text</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="3fbd851f-e701-4270-9299-e0436ddcfe1a">
         <content-type>/component/magtext</content-type>
         <display-template>/templates/web/components/mag-text.ftl</display-template>
         <no-template-required/>
@@ -241,10 +237,12 @@
         <createdDate>2023-11-15T00:32:10.491Z</createdDate>
         <lastModifiedDate>2023-11-15T04:56:36.115Z</lastModifiedDate>
       </component>
-	</item>	<item inline="true">	<key>6cde0340-3bf9-43e8-a70b-5340bb00d0e6</key>
-	<value>New Mag Quote</value>
-	<disableFlattening>false</disableFlattening>
-<component id="6cde0340-3bf9-43e8-a70b-5340bb00d0e6">
+    </item>
+    <item inline="true">
+      <key>6cde0340-3bf9-43e8-a70b-5340bb00d0e6</key>
+      <value>New Mag Quote</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="6cde0340-3bf9-43e8-a70b-5340bb00d0e6">
         <content-type>/component/magquote</content-type>
         <display-template>/templates/web/components/mag-quote.ftl</display-template>
         <no-template-required/>
@@ -262,10 +260,12 @@
         <createdDate>2023-11-15T05:30:12.217Z</createdDate>
         <lastModifiedDate>2023-11-15T07:10:13.109Z</lastModifiedDate>
       </component>
-	</item>	<item inline="true">	<key>df2f2262-236d-4a50-ae1d-fc70cd524b4b</key>
-	<value>New Mag Quote With Portrait Image</value>
-	<disableFlattening>false</disableFlattening>
-<component id="df2f2262-236d-4a50-ae1d-fc70cd524b4b">
+    </item>
+    <item inline="true">
+      <key>df2f2262-236d-4a50-ae1d-fc70cd524b4b</key>
+      <value>New Mag Quote With Portrait Image</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="df2f2262-236d-4a50-ae1d-fc70cd524b4b">
         <content-type>/component/magquotewithportraitimage</content-type>
         <display-template>/templates/web/components/mag-quote-with-portrait-image.ftl</display-template>
         <no-template-required/>
@@ -285,24 +285,33 @@
         <quotePosition_s>-left</quotePosition_s>
         <sideImage_s><![CDATA[/static-assets/images/the-mag/themag2023/august-2023/fwd-tl-v2.jpg]]></sideImage_s>
       </component>
-	</item></pageSections_o>
-	<segments_o>	<item>	<key>guy</key>
-	<value_smv>Guy</value_smv>
-	</item>	<item>	<key>gal</key>
-	<value_smv>Gal</value_smv>
-	</item></segments_o>
-	<summary_t>By focusing on how best to enhance our lives every day of the week, Taikoo Place is ensuring that every hour here is happy hour!</summary_t>
-	<image_s>/static-assets/images/the-mag/themag2023/november-2023/tpinsider/_q7a1407-t.jpeg</image_s>
-	<createdDate>2023-11-14T01:31:05.921Z</createdDate>
-	<createdDate_dt>2023-11-14T01:31:05.921Z</createdDate_dt>
-	<lastModifiedDate>2023-12-01T00:18:51.768Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-12-01T00:18:51.768Z</lastModifiedDate_dt>
-	<date_dt>2023-11-08T16:00:00.000Z</date_dt>
-	<date_dt_tz>Asia/Hong_Kong</date_dt_tz>
-	<categories_o>	<item>	<key>talking-points</key>
-	<value_smv>Talking Points</value_smv>
-	</item></categories_o>
-	<localeCode_s>en</localeCode_s>
-	<sourceLocaleCode_s>en</sourceLocaleCode_s>
-	<localeSourceId_s>32e96d8d-d9b4-e03e-726f-fe35125652f4</localeSourceId_s>
+    </item>
+  </pageSections_o>
+  <segments_o>
+    <item>
+      <key>guy</key>
+      <value_smv>Guy</value_smv>
+    </item>
+    <item>
+      <key>gal</key>
+      <value_smv>Gal</value_smv>
+    </item>
+  </segments_o>
+  <summary_t>By focusing on how best to enhance our lives every day of the week, Taikoo Place is ensuring that every hour here is happy hour!</summary_t>
+  <image_s>/static-assets/images/the-mag/themag2023/november-2023/tpinsider/_q7a1407-t.jpeg</image_s>
+  <createdDate>2023-11-14T01:31:05.921Z</createdDate>
+  <createdDate_dt>2023-11-14T01:31:05.921Z</createdDate_dt>
+  <lastModifiedDate>2023-12-01T00:18:51.768Z</lastModifiedDate>
+  <lastModifiedDate_dt>2023-12-01T05:26:48.008Z</lastModifiedDate_dt>
+  <date_dt>2023-11-08T16:00:00.000Z</date_dt>
+  <date_dt_tz>Asia/Hong_Kong</date_dt_tz>
+  <categories_o>
+    <item>
+      <key>talking-points</key>
+      <value_smv>Talking Points</value_smv>
+    </item>
+  </categories_o>
+  <localeCode_s>en</localeCode_s>
+  <sourceLocaleCode_s>en</sourceLocaleCode_s>
+  <localeSourceId_s>32e96d8d-d9b4-e03e-726f-fe35125652f4</localeSourceId_s>
 </page>
