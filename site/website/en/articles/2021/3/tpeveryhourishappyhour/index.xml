@@ -149,29 +149,6 @@
     </item>
 
     <item inline="true">
-      <key>6cde0340-3bf9-43e8-a70b-5340bb00d0e6</key>
-      <value>New Mag Quote</value>
-      <disableFlattening>false</disableFlattening>
-      <component id="6cde0340-3bf9-43e8-a70b-5340bb00d0e6">
-        <content-type>/component/magquote</content-type>
-        <display-template>/templates/web/components/mag-quote.ftl</display-template>
-        <no-template-required/>
-        <merge-strategy>inherit-levels</merge-strategy>
-        <internal-name>New Mag Quote</internal-name>
-        <file-name>6cde0340-3bf9-43e8-a70b-5340bb00d0e6.xml</file-name>
-        <createdDate_dt>2023-11-15T05:30:12.217Z</createdDate_dt>
-        <lastModifiedDate_dt>2023-11-15T07:10:13.109Z</lastModifiedDate_dt>
-        <objectId>6cde0340-3bf9-43e8-a70b-5340bb00d0e6</objectId>
-        <sectionId_s/>
-        <quote_t>“‘Sustainable’ is the bare minimum, it has to go beyond that – to realise that there’s so many components that go into getting food onto the plate; externalised costs, be that environmental or social, that need to be considered as part of that equation.”</quote_t>
-        <quoteBy_s>Chef Luke Burgess</quoteBy_s>
-        <quoteStyle_s>-motivational</quoteStyle_s>
-        <folder-name/>
-        <createdDate>2023-11-15T05:30:12.217Z</createdDate>
-        <lastModifiedDate>2023-11-15T07:10:13.109Z</lastModifiedDate>
-      </component>
-    </item>
-    <item inline="true">
       <key>df2f2262-236d-4a50-ae1d-fc70cd524b4b</key>
       <value>New Mag Quote With Portrait Image</value>
       <disableFlattening>false</disableFlattening>
@@ -212,7 +189,7 @@
   <createdDate>2023-11-14T01:31:05.921Z</createdDate>
   <createdDate_dt>2023-11-14T01:31:05.921Z</createdDate_dt>
   <lastModifiedDate>2023-12-01T00:18:51.768Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-12-01T05:27:15.498Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-12-01T05:27:19.199Z</lastModifiedDate_dt>
   <date_dt>2023-11-08T16:00:00.000Z</date_dt>
   <date_dt_tz>Asia/Hong_Kong</date_dt_tz>
   <categories_o>
