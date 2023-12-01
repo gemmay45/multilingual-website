@@ -23,8 +23,8 @@
 	<image_s>/static-assets/images/diets-women-pic.jpg</image_s>
 	<createdDate>2021-03-14T23:41:13.000Z</createdDate>
 	<createdDate_dt>2017-03-14T23:41:13.000Z</createdDate_dt>
-	<lastModifiedDate>2023-11-28T06:04:42.662Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-11-28T06:04:42.662Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-12-01T00:17:57.036Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-01T00:17:57.036Z</lastModifiedDate_dt>
 	<date_dt>2017-03-13T16:00:00.000Z</date_dt>
 	<pageSections_o item-list="true">	<item inline="true">	<key>7f34730d-5318-4799-9014-084694a2c88e</key>
 	<value>New Mag Banner Image</value>
@@ -57,4 +57,7 @@
 	<categories_o>	<item>	<key>health</key>
 	<value_smv>Health</value_smv>
 	</item></categories_o>
+	<localeCode_s>en</localeCode_s>
+	<sourceLocaleCode_s>en</sourceLocaleCode_s>
+	<localeSourceId_s>5096cf5e-cf07-bc63-d8ec-229e9bd58f11</localeSourceId_s>
 </page>
