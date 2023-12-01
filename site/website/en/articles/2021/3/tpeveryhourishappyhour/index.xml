@@ -110,29 +110,6 @@
     </item>
 
     <item inline="true">
-      <key>7b417c41-ffe0-4e99-8b5c-f106156f0d36</key>
-      <value>New Mag Text</value>
-      <disableFlattening>false</disableFlattening>
-      <component id="7b417c41-ffe0-4e99-8b5c-f106156f0d36">
-        <content-type>/component/magtext</content-type>
-        <display-template>/templates/web/components/mag-text.ftl</display-template>
-        <no-template-required/>
-        <merge-strategy>inherit-levels</merge-strategy>
-        <internal-name>New Mag Text</internal-name>
-        <file-name>7b417c41-ffe0-4e99-8b5c-f106156f0d36.xml</file-name>
-        <createdDate_dt>2023-11-15T00:31:32.027Z</createdDate_dt>
-        <lastModifiedDate_dt>2023-11-15T04:56:32.545Z</lastModifiedDate_dt>
-        <objectId>7b417c41-ffe0-4e99-8b5c-f106156f0d36</objectId>
-        <sectionId_s/>
-        <title_s>Title goes here</title_s>
-        <content_html>&lt;p&gt;&lt;strong&gt;Where are your favourite places to eat and drink around Taikoo Place?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Fuel Espresso has always been my hangout spot, while Cloud Nine is a new hotpot place that I&amp;rsquo;ve visited a couple of times!&lt;/p&gt;</content_html>
-        <folder-name/>
-        <createdDate>2023-11-15T00:31:32.027Z</createdDate>
-        <lastModifiedDate>2023-11-15T04:56:32.545Z</lastModifiedDate>
-      </component>
-    </item>
-    <item inline="true">
       <key>fa8e1df6-2a08-4ce1-8224-284f326d3cfd</key>
       <value>New Mag Event</value>
       <disableFlattening>false</disableFlattening>
@@ -257,7 +234,7 @@
   <createdDate>2023-11-14T01:31:05.921Z</createdDate>
   <createdDate_dt>2023-11-14T01:31:05.921Z</createdDate_dt>
   <lastModifiedDate>2023-12-01T00:18:51.768Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-12-01T05:27:03.098Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-12-01T05:27:06.878Z</lastModifiedDate_dt>
   <date_dt>2023-11-08T16:00:00.000Z</date_dt>
   <date_dt_tz>Asia/Hong_Kong</date_dt_tz>
   <categories_o>
