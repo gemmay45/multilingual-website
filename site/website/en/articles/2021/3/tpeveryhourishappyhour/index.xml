@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>56e9</objectGroupId>
+	<objectId>56e989ca-56c9-e5a6-6a0a-8590912f7f77</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tpeveryhourishappyhour</folder-name>
+	<internal-name>tpeveryhourishappyhour</internal-name>
+	<title_t>Every Hour is Happy Hour at Taikoo Place</title_t>
+	<subject_t>Every Hour is Happy Hour at Taikoo Place</subject_t>
+	<author_s>Joe</author_s>
+	<localeCode_s/>
+	<sourceLocaleCode_s/>
+	<disabled>false</disabled>
+	<featured_b>false</featured_b>
+	<categories_o>	<item>	<key>talking-points</key>
+	<value_smv>Talking Points</value_smv>
+	</item></categories_o>
+	<segments_o>	<item>	<key>guy</key>
+	<value_smv>Guy</value_smv>
+	</item>	<item>	<key>gal</key>
+	<value_smv>Gal</value_smv>
+	</item></segments_o>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true"/>
+	<pageSections_o item-list="true"/>
+	<image_s/>
+	<summary_t>By focusing on how best to enhance our lives every day of the week, Taikoo Place is ensuring that every hour here is happy hour!</summary_t>
+	<localeSourceId_s>4ab57a7b-2461-043c-fcf7-434072f31c01</localeSourceId_s>
+	<createdDate>2023-12-01T04:53:26.311Z</createdDate>
+	<createdDate_dt>2023-12-01T04:53:26.311Z</createdDate_dt>
+	<lastModifiedDate>2023-12-01T04:53:26.311Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-01T04:53:26.311Z</lastModifiedDate_dt>
+	<date_dt>2023-11-30T16:00:00.000Z</date_dt>
+	<date_dt_tz>Asia/Hong_Kong</date_dt_tz>
+</page>
