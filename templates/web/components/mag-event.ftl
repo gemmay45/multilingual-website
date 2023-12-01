@@ -47,8 +47,9 @@
             <dl>
                 <#if contentModel.event_o?? && contentModel.event_o.item??>
 					<#list contentModel.event_o.item as item>
-					    <@crafter.tag $tag="dt" $field="event_o"><i class="${item.icon_s}"></i></@crafter.tag>
-						<@crafter.tag $tag="dd" $field="event_o">${item.content_html}</@crafter.tag>
+					    <#assign index = item?index />
+					    <@crafter.tag $tag="dt" $field="event_o" $index=index><i class="${item.icon_s}"></i></@crafter.tag>
+						<@crafter.tag $tag="dd" $field="event_o" $index=index>${item.content_html}</@crafter.tag>
 					</#list>
 				</#if>
             </dl>
