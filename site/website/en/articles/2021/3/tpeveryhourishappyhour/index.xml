@@ -108,29 +108,7 @@
         <lastModifiedDate>2023-11-15T04:54:18.636Z</lastModifiedDate>
       </component>
     </item>
-    <item inline="true">
-      <key>0903b3f1-70f7-49b6-8faa-80ffac48df03</key>
-      <value>New Mag Text</value>
-      <disableFlattening>false</disableFlattening>
-      <component id="0903b3f1-70f7-49b6-8faa-80ffac48df03">
-        <content-type>/component/magtext</content-type>
-        <display-template>/templates/web/components/mag-text.ftl</display-template>
-        <no-template-required/>
-        <merge-strategy>inherit-levels</merge-strategy>
-        <internal-name>New Mag Text</internal-name>
-        <file-name>0903b3f1-70f7-49b6-8faa-80ffac48df03.xml</file-name>
-        <createdDate_dt>2023-11-15T00:29:21.860Z</createdDate_dt>
-        <lastModifiedDate_dt>2023-11-15T04:56:24.292Z</lastModifiedDate_dt>
-        <objectId>0903b3f1-70f7-49b6-8faa-80ffac48df03</objectId>
-        <sectionId_s/>
-        <title_s>Title goes here</title_s>
-        <content_html>&lt;p&gt;&lt;strong&gt;Hashtag B has become something of a social media sensation recently; do you have any tips for entrepreneurs on making a product go viral? &lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Be true to and consistent with your goals. There will be obstacles and distractions along the way, but always stick to what you want to deliver to your customers.&lt;/p&gt;</content_html>
-        <folder-name/>
-        <createdDate>2023-11-15T00:29:21.860Z</createdDate>
-        <lastModifiedDate>2023-11-15T04:56:24.292Z</lastModifiedDate>
-      </component>
-    </item>
+
     <item inline="true">
       <key>a9d5dd40-3c47-41eb-8174-abbdb8199747</key>
       <value>New Mag Text</value>
@@ -302,7 +280,7 @@
   <createdDate>2023-11-14T01:31:05.921Z</createdDate>
   <createdDate_dt>2023-11-14T01:31:05.921Z</createdDate_dt>
   <lastModifiedDate>2023-12-01T00:18:51.768Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-12-01T05:26:48.008Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-12-01T05:26:59.023Z</lastModifiedDate_dt>
   <date_dt>2023-11-08T16:00:00.000Z</date_dt>
   <date_dt_tz>Asia/Hong_Kong</date_dt_tz>
   <categories_o>
