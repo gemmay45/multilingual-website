@@ -1,5 +1,6 @@
 <#import "/templates/system/common/crafter.ftl" as crafter />
 
+xyz
 <#if contentModel>
 yyy
 <section id="${contentModel.sectionId_s}" class="parallax-section">
