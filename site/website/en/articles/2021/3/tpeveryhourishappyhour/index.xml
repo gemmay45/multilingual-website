@@ -147,32 +147,6 @@
         <lastModifiedDate>2023-11-16T08:35:57.808Z</lastModifiedDate>
       </component>
     </item>
-
-    <item inline="true">
-      <key>df2f2262-236d-4a50-ae1d-fc70cd524b4b</key>
-      <value>New Mag Quote With Portrait Image</value>
-      <disableFlattening>false</disableFlattening>
-      <component id="df2f2262-236d-4a50-ae1d-fc70cd524b4b">
-        <content-type>/component/magquotewithportraitimage</content-type>
-        <display-template>/templates/web/components/mag-quote-with-portrait-image.ftl</display-template>
-        <no-template-required/>
-        <merge-strategy>inherit-levels</merge-strategy>
-        <internal-name>New Mag Quote With Portrait Image</internal-name>
-        <file-name>df2f2262-236d-4a50-ae1d-fc70cd524b4b.xml</file-name>
-        <createdDate_dt>2023-11-15T14:19:27.989Z</createdDate_dt>
-        <lastModifiedDate_dt>2023-11-19T04:45:05.192Z</lastModifiedDate_dt>
-        <objectId>df2f2262-236d-4a50-ae1d-fc70cd524b4b</objectId>
-        <sectionId_s/>
-        <quote_t>“These positive vibes make personal growth possible.”</quote_t>
-        <quoteBy_s>Chik Wing Keung, Chief Regional Director, FWD</quoteBy_s>
-        <quoteStyle_s>-motivational</quoteStyle_s>
-        <folder-name/>
-        <createdDate>2023-11-15T14:19:27.989Z</createdDate>
-        <lastModifiedDate>2023-11-16T02:14:53.368Z</lastModifiedDate>
-        <quotePosition_s>-left</quotePosition_s>
-        <sideImage_s><![CDATA[/static-assets/images/the-mag/themag2023/august-2023/fwd-tl-v2.jpg]]></sideImage_s>
-      </component>
-    </item>
   </pageSections_o>
   <segments_o>
     <item>
@@ -189,7 +163,7 @@
   <createdDate>2023-11-14T01:31:05.921Z</createdDate>
   <createdDate_dt>2023-11-14T01:31:05.921Z</createdDate_dt>
   <lastModifiedDate>2023-12-01T00:18:51.768Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-12-01T05:27:19.199Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-12-01T05:27:26.650Z</lastModifiedDate_dt>
   <date_dt>2023-11-08T16:00:00.000Z</date_dt>
   <date_dt_tz>Asia/Hong_Kong</date_dt_tz>
   <categories_o>
