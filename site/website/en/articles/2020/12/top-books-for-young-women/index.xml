@@ -18,8 +18,8 @@
 	<date_dt>2020-12-27T16:00:00.000Z</date_dt>
 	<createdDate>2017-03-2T20:48:57.000Z</createdDate>
 	<createdDate_dt>2017-03-2T20:48:57.000Z</createdDate_dt>
-	<lastModifiedDate>2023-11-28T05:58:40.614Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-11-28T05:58:40.614Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-12-01T00:16:11.392Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-01T00:16:11.392Z</lastModifiedDate_dt>
 	<featured_b>false</featured_b>
 	<summary_t>Curabitur lobortis laoreet vehicula. Integer condimentum non mauris in bibendum. Morbi et facilisis nisl. In suscipit eros sapien, ut venenatis quam interdum gravida. Praesent ultricies interdum dictum.</summary_t>
 	<image_s>/static-assets/images/book-woman-pic.jpg</image_s>
@@ -31,4 +31,7 @@
 	<categories_o>	<item>	<key>entertainment</key>
 	<value_smv>Entertainment</value_smv>
 	</item></categories_o>
+	<localeCode_s>en</localeCode_s>
+	<sourceLocaleCode_s>en</sourceLocaleCode_s>
+	<localeSourceId_s>785b57f6-4643-a305-253a-969ea256c649</localeSourceId_s>
 </page>
