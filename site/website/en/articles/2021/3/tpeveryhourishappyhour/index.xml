@@ -131,15 +131,19 @@
         <event_o item-list="true">
           <item>
             <icon_s/>
-            <content_html>Hashtag B</content_html>
+            <content_html>Tong Chong Street Market Beer Festival 2023</content_html>
+          </item>
+          <item>
+            <icon_s>fas fa-calendar-alt</icon_s>
+            <content_html>12 Oct 6pm-10pm&lt;br&gt;13 Oct 6pm-10pm&lt;br&gt;14 Oct 12nn-4pm; 6pm-10pm</content_html>
           </item>
           <item>
             <icon_s>fas fa-map-marker-alt</icon_s>
-            <content_html>Area A, G/F, Berkshire House, Taikoo Place</content_html>
+            <content_html>Taikoo Garden, Two Taikoo Place</content_html>
           </item>
           <item>
             <icon_s>fas fa-globe</icon_s>
-            <content_html>&lt;span style="text-decoration: underline;"&gt;&lt;a href="http://www.hashtag-b.com/" target="_blank" rel="noopener noreferrer"&gt;hashtag-b.com &lt;/a&gt;&lt;/span&gt;</content_html>
+            <content_html>Stay tuned on &lt;span style="text-decoration: underline;"&gt;&lt;a rel="noopener noreferrer" rel="noopener noreferrer" href="https://www.taikooplace.com/en/whatson" target="_blank"&gt;Taikoo Place website&lt;/a&gt;&lt;/span&gt; and Taikoo Place App.</content_html>
           </item>
         </event_o>
         <folder-name/>
