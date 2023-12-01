@@ -121,7 +121,7 @@
         <internal-name>New Mag Event</internal-name>
         <file-name>fa8e1df6-2a08-4ce1-8224-284f326d3cfd.xml</file-name>
         <createdDate_dt>2023-11-16T08:21:57.988Z</createdDate_dt>
-        <lastModifiedDate_dt>2023-12-01T05:54:40.023Z</lastModifiedDate_dt>
+        <lastModifiedDate_dt>2023-12-01T05:55:11.969Z</lastModifiedDate_dt>
         <objectId>fa8e1df6-2a08-4ce1-8224-284f326d3cfd</objectId>
         <sectionId_s/>
         <title_s no-default="true"/>
@@ -133,15 +133,16 @@
             <icon_s/>
             <content_html>Tong Chong Street Market Beer Festival 2023</content_html>
           </item>
-          <item>
-            <icon_s>fas fa-map-marker-alt</icon_s>
-            <content_html>Taikoo Garden, Two Taikoo Place</content_html>
-          </item>
+
           <item>
             <icon_s>fas fa-calendar-alt</icon_s>
             <content_html>12 Oct 6pm-10pm&lt;br&gt;13 Oct 6pm-10pm&lt;br&gt;14 Oct 12nn-4pm; 6pm-10pm</content_html>
           </item>
 
+          <item>
+            <icon_s>fas fa-map-marker-alt</icon_s>
+            <content_html>Taikoo Garden, Two Taikoo Place</content_html>
+          </item>
           <item>
             <icon_s>fas fa-globe</icon_s>
             <content_html>Stay tuned on &lt;span style="text-decoration: underline;"&gt;&lt;a rel="noopener noreferrer" rel="noopener noreferrer" href="https://www.taikooplace.com/en/whatson" target="_blank"&gt;Taikoo Place website&lt;/a&gt;&lt;/span&gt; and Taikoo Place App.</content_html>
@@ -168,7 +169,7 @@
   <createdDate>2023-11-14T01:31:05.921Z</createdDate>
   <createdDate_dt>2023-11-14T01:31:05.921Z</createdDate_dt>
   <lastModifiedDate>2023-12-01T00:18:51.768Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-12-01T05:54:40.023Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-12-01T05:55:11.969Z</lastModifiedDate_dt>
   <date_dt>2023-11-08T16:00:00.000Z</date_dt>
   <date_dt_tz>Asia/Hong_Kong</date_dt_tz>
   <categories_o>
