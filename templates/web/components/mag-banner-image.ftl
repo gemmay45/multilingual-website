@@ -1,6 +1,7 @@
 <#import "/templates/system/common/crafter.ftl" as crafter />
 
-<section id="${contentModel.sectionId_s??}" class="parallax-section">
+<#if contentModel.sectionId_s>
+<section id="${contentModel.sectionId_s}" class="parallax-section">
     <div class="content-row">
             <div class="content-col hero">
             xxx
@@ -16,3 +17,4 @@
             </div>
     </div>
 </section>
+</#if>
