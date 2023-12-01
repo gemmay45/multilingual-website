@@ -110,29 +110,6 @@
     </item>
 
     <item inline="true">
-      <key>a9d5dd40-3c47-41eb-8174-abbdb8199747</key>
-      <value>New Mag Text</value>
-      <disableFlattening>false</disableFlattening>
-      <component id="a9d5dd40-3c47-41eb-8174-abbdb8199747">
-        <content-type>/component/magtext</content-type>
-        <display-template>/templates/web/components/mag-text.ftl</display-template>
-        <no-template-required/>
-        <merge-strategy>inherit-levels</merge-strategy>
-        <internal-name>New Mag Text</internal-name>
-        <file-name>a9d5dd40-3c47-41eb-8174-abbdb8199747.xml</file-name>
-        <createdDate_dt>2023-11-15T00:30:39.835Z</createdDate_dt>
-        <lastModifiedDate_dt>2023-11-15T04:56:28.214Z</lastModifiedDate_dt>
-        <objectId>a9d5dd40-3c47-41eb-8174-abbdb8199747</objectId>
-        <sectionId_s/>
-        <title_s>Title goes here</title_s>
-        <content_html>&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s something you wish you&amp;rsquo;d known before starting Hashtag B?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The difficulty in finding talent in Hong Kong. We are seeing fewer people who wish to join this line of business and there is a definite gap between the working generations.&lt;/p&gt;</content_html>
-        <folder-name/>
-        <createdDate>2023-11-15T00:30:39.835Z</createdDate>
-        <lastModifiedDate>2023-11-15T04:56:28.214Z</lastModifiedDate>
-      </component>
-    </item>
-    <item inline="true">
       <key>7b417c41-ffe0-4e99-8b5c-f106156f0d36</key>
       <value>New Mag Text</value>
       <disableFlattening>false</disableFlattening>
@@ -280,7 +257,7 @@
   <createdDate>2023-11-14T01:31:05.921Z</createdDate>
   <createdDate_dt>2023-11-14T01:31:05.921Z</createdDate_dt>
   <lastModifiedDate>2023-12-01T00:18:51.768Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-12-01T05:26:59.023Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-12-01T05:27:03.098Z</lastModifiedDate_dt>
   <date_dt>2023-11-08T16:00:00.000Z</date_dt>
   <date_dt_tz>Asia/Hong_Kong</date_dt_tz>
   <categories_o>
