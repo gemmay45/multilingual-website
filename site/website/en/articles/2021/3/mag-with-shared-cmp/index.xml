@@ -31,7 +31,7 @@
 	<date_dt_tz>Asia/Hong_Kong</date_dt_tz>
 	<pageSections_o item-list="true">	<item inline="false">	<key>/site/components/the-mag/mag-with-shared-cmp/b6b0d5a1-e3be-4335-8814-6744a350d5fb.xml</key>
 	<value>New Mag Banner Image</value>
-	<include>/site/components/the-mag/mag-with-shared-cmp/b6b0d5a1-e3be-4335-8814-6744a350d5fb.xml</include>
+	<include>/site/components/en/the-mag/mag-with-shared-cmp/b6b0d5a1-e3be-4335-8814-6744a350d5fb.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item>	<item inline="false">	<key>/site/components/the-mag/mag-with-shared-cmp/f94e4294-e815-4e9c-b584-4bebdbf4348a.xml</key>
 	<value>New Mag Text</value>
