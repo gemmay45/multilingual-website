@@ -9,7 +9,6 @@
 	<internal-name>mag-with-shared-cmp</internal-name>
 	<title_t>Taikoo This Month November 2023</title_t>
 	<subject_t>Taikoo This Month November 2023 Shared Component</subject_t>
-	<author_s>John Doe</author_s>
 	<file-name>index.xml</file-name>
 	<folder-name>mag-with-shared-cmp</folder-name>
 	<segments_o>	<item>	<key>guy</key>
@@ -23,8 +22,8 @@
 	<date_dt>2023-11-08T16:00:00.000Z</date_dt>
 	<createdDate>2023-11-19T01:37:05.003Z</createdDate>
 	<createdDate_dt>2023-11-19T01:37:05.003Z</createdDate_dt>
-	<lastModifiedDate>2023-12-01T00:18:19.772Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-12-01T00:18:19.772Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-12-01T06:11:46.874Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-01T06:11:46.874Z</lastModifiedDate_dt>
 	<disabled>false</disabled>
 	<header_o item-list="true"/>
 	<left_rail_o item-list="true"/>
@@ -53,7 +52,7 @@
 	<categories_o>	<item>	<key>people</key>
 	<value_smv>People</value_smv>
 	</item></categories_o>
-	<localeCode_s>en</localeCode_s>
+	<localeCode_s/>
 	<sourceLocaleCode_s>en</sourceLocaleCode_s>
 	<localeSourceId_s>4dc3c15d-7f77-639a-67e9-f964cbd1d31d</localeSourceId_s>
 </page>
