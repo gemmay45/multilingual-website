@@ -11,15 +11,14 @@
 	<internal-name>10 Tips to Get in Shape</internal-name>
 	<title_t>10 Tips to Get in Shape</title_t>
 	<subject_t>10 Tips to Get in Shape</subject_t>
-	<author_s>John Doe</author_s>
 	<segments_o>	<item>	<key>guy</key>
 	<value_smv>Guy</value_smv>
 	</item></segments_o>
 	<date_dt>2021-02-07T16:00:00.000Z</date_dt>
 	<createdDate>2017-03-2T20:52:30.000Z</createdDate>
 	<createdDate_dt>2017-03-2T20:52:30.000Z</createdDate_dt>
-	<lastModifiedDate>2023-12-01T00:17:28.204Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-12-01T00:17:28.204Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-12-01T06:11:28.043Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-01T06:11:28.043Z</lastModifiedDate_dt>
 	<featured_b>true</featured_b>
 	<summary_t>Ut pellentesque nibh porta lacinia porta. Nam eleifend aliquam tellus sit amet sagittis. Maecenas id eros velit. Donec feugiat iaculis augue eu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</summary_t>
 	<image_s>/static-assets/images/get-in-shape-pic.jpg</image_s>
@@ -45,7 +44,7 @@
 	<categories_o>	<item>	<key>health</key>
 	<value_smv>Health</value_smv>
 	</item></categories_o>
-	<localeCode_s>en</localeCode_s>
+	<localeCode_s/>
 	<sourceLocaleCode_s>en</sourceLocaleCode_s>
 	<localeSourceId_s>9400e361-62d4-9f1e-c31b-4a40c74347c1</localeSourceId_s>
 </page>
