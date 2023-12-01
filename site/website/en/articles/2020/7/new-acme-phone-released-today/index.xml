@@ -19,8 +19,8 @@
 	<date_dt>2020-07-02T16:00:00.000Z</date_dt>
 	<createdDate>2017-03-3T20:48:50.000Z</createdDate>
 	<createdDate_dt>2017-03-3T20:48:50.000Z</createdDate_dt>
-	<lastModifiedDate>2023-12-01T06:40:23.995Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-12-01T06:40:23.995Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-12-01T06:44:26.377Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-01T06:44:26.377Z</lastModifiedDate_dt>
 	<featured_b>false</featured_b>
 	<summary_t>Fusce a augue pulvinar, pellentesque magna ac, feugiat diam. Vestibulum ultricies ornare elit sed congue. Quisque vitae urna lacinia, mollis lorem a, iaculis libero. Praesent dolor libero, ullamcorper sed pharetra placerat, pretium in arcu. </summary_t>
 	<image_s>/static-assets/images/smartphone-pic.jpg</image_s>
@@ -32,7 +32,7 @@
 	<categories_o>	<item>	<key>technology</key>
 	<value_smv>Technology</value_smv>
 	</item></categories_o>
-	<localeCode_s/>
+	<localeCode_s>en</localeCode_s>
 	<sourceLocaleCode_s>en</sourceLocaleCode_s>
 	<localeSourceId_s>ec91291f-b012-c0e8-98b3-dcb39bcf8496</localeSourceId_s>
 </page>
