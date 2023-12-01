@@ -147,29 +147,7 @@
         <lastModifiedDate>2023-11-16T08:35:57.808Z</lastModifiedDate>
       </component>
     </item>
-    <item inline="true">
-      <key>3fbd851f-e701-4270-9299-e0436ddcfe1a</key>
-      <value>New Mag Text</value>
-      <disableFlattening>false</disableFlattening>
-      <component id="3fbd851f-e701-4270-9299-e0436ddcfe1a">
-        <content-type>/component/magtext</content-type>
-        <display-template>/templates/web/components/mag-text.ftl</display-template>
-        <no-template-required/>
-        <merge-strategy>inherit-levels</merge-strategy>
-        <internal-name>New Mag Text</internal-name>
-        <file-name>3fbd851f-e701-4270-9299-e0436ddcfe1a.xml</file-name>
-        <createdDate_dt>2023-11-15T00:32:10.491Z</createdDate_dt>
-        <lastModifiedDate_dt>2023-11-15T04:56:36.115Z</lastModifiedDate_dt>
-        <objectId>3fbd851f-e701-4270-9299-e0436ddcfe1a</objectId>
-        <sectionId_s/>
-        <title_s>Title goes here</title_s>
-        <content_html>&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s your life motto?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Denzel Washington once said, &amp;ldquo;Dreams without goals are just dreams&amp;rdquo;.&lt;/p&gt;</content_html>
-        <folder-name/>
-        <createdDate>2023-11-15T00:32:10.491Z</createdDate>
-        <lastModifiedDate>2023-11-15T04:56:36.115Z</lastModifiedDate>
-      </component>
-    </item>
+
     <item inline="true">
       <key>6cde0340-3bf9-43e8-a70b-5340bb00d0e6</key>
       <value>New Mag Quote</value>
@@ -234,7 +212,7 @@
   <createdDate>2023-11-14T01:31:05.921Z</createdDate>
   <createdDate_dt>2023-11-14T01:31:05.921Z</createdDate_dt>
   <lastModifiedDate>2023-12-01T00:18:51.768Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-12-01T05:27:06.878Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-12-01T05:27:15.498Z</lastModifiedDate_dt>
   <date_dt>2023-11-08T16:00:00.000Z</date_dt>
   <date_dt_tz>Asia/Hong_Kong</date_dt_tz>
   <categories_o>
