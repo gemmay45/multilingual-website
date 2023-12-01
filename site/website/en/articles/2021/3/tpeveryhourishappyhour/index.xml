@@ -4,36 +4,305 @@
 	<display-template>/templates/web/pages/article.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>56e9</objectGroupId>
-	<objectId>56e989ca-56c9-e5a6-6a0a-8590912f7f77</objectId>
+	<objectGroupId>0444</objectGroupId>
+	<objectId>0444E196-5EF6-4B21-A130-1EB13AA6FDBC</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>tpeveryhourishappyhour</folder-name>
 	<internal-name>tpeveryhourishappyhour</internal-name>
 	<title_t>Every Hour is Happy Hour at Taikoo Place</title_t>
 	<subject_t>Every Hour is Happy Hour at Taikoo Place</subject_t>
-	<author_s>Joe</author_s>
-	<localeCode_s/>
-	<sourceLocaleCode_s/>
+	<author_s />
 	<disabled>false</disabled>
 	<featured_b>false</featured_b>
-	<categories_o>	<item>	<key>talking-points</key>
-	<value_smv>Talking Points</value_smv>
-	</item></categories_o>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true"/>
+	<pageSections_o item-list="true">	<item inline="true">	<key>28E66ADD-56CB-47CD-8787-89E65A8C14A3</key>
+	<value>New Mag Banner Image</value>
+	<disableFlattening>false</disableFlattening>
+<component id="28E66ADD-56CB-47CD-8787-89E65A8C14A3">
+        <content-type>/component/magbannerimage</content-type>
+        <display-template>/templates/web/components/mag-banner-image.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Banner Image</internal-name>
+        <file-name>28E66ADD-56CB-47CD-8787-89E65A8C14A3.xml</file-name>
+        <createdDate_dt>2023-11-14T12:48:21.162Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T05:01:23.123Z</lastModifiedDate_dt>
+        <objectId>28E66ADD-56CB-47CD-8787-89E65A8C14A3</objectId>
+        <sectionId_s/>
+        <caption_s/>
+        <imageOnDesktop_s>/static-assets/images/the-mag/themag2023/september-2023/feature/feature hero.jpg</imageOnDesktop_s>
+        <imageOnMobile_s/>
+        <imageBackgroundColor_s/>
+        <renderer_s/>
+        <folder-name/>
+        <createdDate>2023-11-14T12:48:21.162Z</createdDate>
+        <lastModifiedDate>2023-11-15T05:01:23.123Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>C720E53F-19D0-41DA-BED5-2312126D5D37</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="C720E53F-19D0-41DA-BED5-2312126D5D37">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>C720E53F-19D0-41DA-BED5-2312126D5D37.xml</file-name>
+        <createdDate_dt>2023-11-16T08:10:54.914Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-16T08:10:54.914Z</lastModifiedDate_dt>
+        <objectId>C720E53F-19D0-41DA-BED5-2312126D5D37</objectId>
+        <sectionId_s/>
+        <title_s></title_s>
+        <content_html>&lt;p&gt;Achieving the optimal work-life balance is a priority that we can all agree on. Gone are the days of lunch al-desko and our only workout being the MTR crush-hour. Instead, people are increasingly focused on finding an equilibrium that gives equal priority to our work, health and social lives.&lt;/p&gt;&lt;p&gt;Taikoo Place has led this movement for some time, spearheading a range of lifestyle initiatives and activities that add value to our working week while amplifying our leisure time. By focusing on how best to enhance our lives every day of the week, Taikoo Place is ensuring that every hour here is happy hour! And with the cooler months finally bringing a little respite from the heat, here&amp;rsquo;s a sneak peek of what we can look forward to in the next few months at Taikoo Place.&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-16T08:10:54.914Z</createdDate>
+        <lastModifiedDate>2023-11-16T08:10:54.914Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>45BE2C3F-9537-4519-836C-FAA21CD9B2B7</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="45BE2C3F-9537-4519-836C-FAA21CD9B2B7">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>45BE2C3F-9537-4519-836C-FAA21CD9B2B7.xml</file-name>
+        <createdDate_dt>2023-11-15T00:25:53.006Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T04:54:01.540Z</lastModifiedDate_dt>
+        <objectId>45BE2C3F-9537-4519-836C-FAA21CD9B2B7</objectId>
+        <sectionId_s/>
+        <title_s>Tong Chong Street Market Beer Festival 2023</title_s>
+        <content_html>&lt;p&gt;Prost! Sant&amp;eacute;! Cheers! We all know that this time of year is synonymous with beer, but there&amp;rsquo;s no need to book a flight to Germany &amp;mdash; Hong Kong is home to plenty of great local breweries. Returning to Taikoo Place for a three-day stint, 2023&amp;rsquo;s Tong Chong Street Market Beer Festival is being held in a breezy new location &amp;ndash; Taikoo Garden, our recently-opened luscious green space outside Two Taikoo Place.&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-15T00:25:53.006Z</createdDate>
+        <lastModifiedDate>2023-11-15T04:54:01.540Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>8605F069-69A5-47B2-8379-3603A9F7CE7B</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="8605F069-69A5-47B2-8379-3603A9F7CE7B">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>8605F069-69A5-47B2-8379-3603A9F7CE7B.xml</file-name>
+        <createdDate_dt>2023-11-15T00:26:59.923Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T04:54:18.636Z</lastModifiedDate_dt>
+        <objectId>8605F069-69A5-47B2-8379-3603A9F7CE7B</objectId>
+        <sectionId_s/>
+        <title_s></title_s>
+        <content_html>&lt;p&gt;With a focus on sustainability, this year&amp;rsquo;s festival will spotlight environmentally conscious practices, with the event going keg-only to avoid packaging wastage. It also celebrates local brewers, working with the Craft Beer Association of Hong Kong to promote home-grown beer brands. Meanwhile, an exclusive partnership with local upcycling start-up BREER, who collect surplus bread for use in their brews, has resulted in a festival-exclusive, green-hued TCSM x BREER beer that&amp;rsquo;s infused with pandan grown at our very own urban rooftop farm, The Loop at One Island East. With free-flow tickets at just HK$380 (and an exclusive tenant-only price of just $320 via Taikoo Place app), plenty of local foodie favourites such as Lobster Boss and Wingman providing delicious bites on-site, and even a custom-built adult playground, this is an unmissable event for any craft beer connoisseur.&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-15T00:26:59.923Z</createdDate>
+        <lastModifiedDate>2023-11-15T04:54:18.636Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>c0c6db88-fbab-4c19-85d0-035e351b2769</key>
+	<value>New Mag Portrait Image with Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="c0c6db88-fbab-4c19-85d0-035e351b2769">
+	<content-type>/component/magportraitimagewithtext</content-type>
+	<display-template>/templates/web/components/mag-portrait-image-with-text.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<internal-name>New Mag Portrait Image with Text</internal-name>
+	<file-name>c0c6db88-fbab-4c19-85d0-035e351b2769.xml</file-name>
+	<createdDate_dt>2023-11-16T08:17:05.946Z</createdDate_dt>
+	<lastModifiedDate_dt>2023-11-27T01:50:18.109Z</lastModifiedDate_dt>
+	<objectId>c0c6db88-fbab-4c19-85d0-035e351b2769</objectId>
+	<image_s>/static-assets/images/the-mag/themag2023/november-2023/tpinsider/_q7a1475-edit-s.jpg</image_s>
+	<sideContent_html>&lt;p&gt;&lt;strong&gt;Over the past few years, it seems there&amp;rsquo;s been an explosion of new independent bakeries in Hong Kong! Why do you think that is?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hong Kongers love their food and are always searching for new ideas. Covid impacted us in many ways and during this period in particular, I saw many youngsters spending time in cafes. I think enjoying pastries in caf&amp;eacute;s and bakeries became a lifestyle for many people &amp;ndash; and I love seeing so many options now for them to choose from!&lt;/p&gt;</sideContent_html>
+	<imagePosition_s>-right</imagePosition_s>
+	<folder-name/>
+	<createdDate>2023-11-16T08:17:05.946Z</createdDate>
+	<lastModifiedDate>2023-11-27T01:50:18.109Z</lastModifiedDate>
+	<sectionId_s/>
+</component>
+	</item>	<item inline="true">	<key>0903b3f1-70f7-49b6-8faa-80ffac48df03</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="0903b3f1-70f7-49b6-8faa-80ffac48df03">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>0903b3f1-70f7-49b6-8faa-80ffac48df03.xml</file-name>
+        <createdDate_dt>2023-11-15T00:29:21.860Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T04:56:24.292Z</lastModifiedDate_dt>
+        <objectId>0903b3f1-70f7-49b6-8faa-80ffac48df03</objectId>
+        <sectionId_s/>
+        <title_s>Title goes here</title_s>
+        <content_html>&lt;p&gt;&lt;strong&gt;Hashtag B has become something of a social media sensation recently; do you have any tips for entrepreneurs on making a product go viral? &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Be true to and consistent with your goals. There will be obstacles and distractions along the way, but always stick to what you want to deliver to your customers.&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-15T00:29:21.860Z</createdDate>
+        <lastModifiedDate>2023-11-15T04:56:24.292Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>a9d5dd40-3c47-41eb-8174-abbdb8199747</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="a9d5dd40-3c47-41eb-8174-abbdb8199747">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>a9d5dd40-3c47-41eb-8174-abbdb8199747.xml</file-name>
+        <createdDate_dt>2023-11-15T00:30:39.835Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T04:56:28.214Z</lastModifiedDate_dt>
+        <objectId>a9d5dd40-3c47-41eb-8174-abbdb8199747</objectId>
+        <sectionId_s/>
+        <title_s>Title goes here</title_s>
+        <content_html>&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s something you wish you&amp;rsquo;d known before starting Hashtag B?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The difficulty in finding talent in Hong Kong. We are seeing fewer people who wish to join this line of business and there is a definite gap between the working generations.&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-15T00:30:39.835Z</createdDate>
+        <lastModifiedDate>2023-11-15T04:56:28.214Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>7b417c41-ffe0-4e99-8b5c-f106156f0d36</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="7b417c41-ffe0-4e99-8b5c-f106156f0d36">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>7b417c41-ffe0-4e99-8b5c-f106156f0d36.xml</file-name>
+        <createdDate_dt>2023-11-15T00:31:32.027Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T04:56:32.545Z</lastModifiedDate_dt>
+        <objectId>7b417c41-ffe0-4e99-8b5c-f106156f0d36</objectId>
+        <sectionId_s/>
+        <title_s>Title goes here</title_s>
+        <content_html>&lt;p&gt;&lt;strong&gt;Where are your favourite places to eat and drink around Taikoo Place?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fuel Espresso has always been my hangout spot, while Cloud Nine is a new hotpot place that I&amp;rsquo;ve visited a couple of times!&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-15T00:31:32.027Z</createdDate>
+        <lastModifiedDate>2023-11-15T04:56:32.545Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>fa8e1df6-2a08-4ce1-8224-284f326d3cfd</key>
+	<value>New Mag Event</value>
+	<disableFlattening>false</disableFlattening>
+<component id="fa8e1df6-2a08-4ce1-8224-284f326d3cfd">
+        <content-type>/component/magevent</content-type>
+        <display-template>/templates/web/components/mag-event.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Event</internal-name>
+        <file-name>fa8e1df6-2a08-4ce1-8224-284f326d3cfd.xml</file-name>
+        <createdDate_dt>2023-11-16T08:21:57.988Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-16T08:35:57.808Z</lastModifiedDate_dt>
+        <objectId>fa8e1df6-2a08-4ce1-8224-284f326d3cfd</objectId>
+        <sectionId_s/>
+        <title_s no-default="true"/>
+        <summary_html no-default="true"/>
+        <imagePosition_s/>
+        <image_s/>
+        <event_o item-list="true">
+          <item>
+            <icon_s/>
+            <content_html>Hashtag B</content_html>
+          </item>
+          <item>
+            <icon_s>fas fa-map-marker-alt</icon_s>
+            <content_html>Area A, G/F, Berkshire House, Taikoo Place</content_html>
+          </item>
+          <item>
+            <icon_s>fas fa-globe</icon_s>
+            <content_html>&lt;span style="text-decoration: underline;"&gt;&lt;a href="http://www.hashtag-b.com/" target="_blank" rel="noopener noreferrer"&gt;hashtag-b.com &lt;/a&gt;&lt;/span&gt;</content_html>
+          </item>
+        </event_o>
+        <folder-name/>
+        <createdDate>2023-11-16T08:21:57.988Z</createdDate>
+        <lastModifiedDate>2023-11-16T08:35:57.808Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>3fbd851f-e701-4270-9299-e0436ddcfe1a</key>
+	<value>New Mag Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="3fbd851f-e701-4270-9299-e0436ddcfe1a">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>3fbd851f-e701-4270-9299-e0436ddcfe1a.xml</file-name>
+        <createdDate_dt>2023-11-15T00:32:10.491Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T04:56:36.115Z</lastModifiedDate_dt>
+        <objectId>3fbd851f-e701-4270-9299-e0436ddcfe1a</objectId>
+        <sectionId_s/>
+        <title_s>Title goes here</title_s>
+        <content_html>&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s your life motto?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Denzel Washington once said, &amp;ldquo;Dreams without goals are just dreams&amp;rdquo;.&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-15T00:32:10.491Z</createdDate>
+        <lastModifiedDate>2023-11-15T04:56:36.115Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>6cde0340-3bf9-43e8-a70b-5340bb00d0e6</key>
+	<value>New Mag Quote</value>
+	<disableFlattening>false</disableFlattening>
+<component id="6cde0340-3bf9-43e8-a70b-5340bb00d0e6">
+        <content-type>/component/magquote</content-type>
+        <display-template>/templates/web/components/mag-quote.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Quote</internal-name>
+        <file-name>6cde0340-3bf9-43e8-a70b-5340bb00d0e6.xml</file-name>
+        <createdDate_dt>2023-11-15T05:30:12.217Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T07:10:13.109Z</lastModifiedDate_dt>
+        <objectId>6cde0340-3bf9-43e8-a70b-5340bb00d0e6</objectId>
+        <sectionId_s/>
+        <quote_t>“‘Sustainable’ is the bare minimum, it has to go beyond that – to realise that there’s so many components that go into getting food onto the plate; externalised costs, be that environmental or social, that need to be considered as part of that equation.”</quote_t>
+        <quoteBy_s>Chef Luke Burgess</quoteBy_s>
+        <quoteStyle_s>-motivational</quoteStyle_s>
+        <folder-name/>
+        <createdDate>2023-11-15T05:30:12.217Z</createdDate>
+        <lastModifiedDate>2023-11-15T07:10:13.109Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>df2f2262-236d-4a50-ae1d-fc70cd524b4b</key>
+	<value>New Mag Quote With Portrait Image</value>
+	<disableFlattening>false</disableFlattening>
+<component id="df2f2262-236d-4a50-ae1d-fc70cd524b4b">
+        <content-type>/component/magquotewithportraitimage</content-type>
+        <display-template>/templates/web/components/mag-quote-with-portrait-image.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Quote With Portrait Image</internal-name>
+        <file-name>df2f2262-236d-4a50-ae1d-fc70cd524b4b.xml</file-name>
+        <createdDate_dt>2023-11-15T14:19:27.989Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-19T04:45:05.192Z</lastModifiedDate_dt>
+        <objectId>df2f2262-236d-4a50-ae1d-fc70cd524b4b</objectId>
+        <sectionId_s/>
+        <quote_t>“These positive vibes make personal growth possible.”</quote_t>
+        <quoteBy_s>Chik Wing Keung, Chief Regional Director, FWD</quoteBy_s>
+        <quoteStyle_s>-motivational</quoteStyle_s>
+        <folder-name/>
+        <createdDate>2023-11-15T14:19:27.989Z</createdDate>
+        <lastModifiedDate>2023-11-16T02:14:53.368Z</lastModifiedDate>
+        <quotePosition_s>-left</quotePosition_s>
+        <sideImage_s><![CDATA[/static-assets/images/the-mag/themag2023/august-2023/fwd-tl-v2.jpg]]></sideImage_s>
+      </component>
+	</item></pageSections_o>
 	<segments_o>	<item>	<key>guy</key>
 	<value_smv>Guy</value_smv>
 	</item>	<item>	<key>gal</key>
 	<value_smv>Gal</value_smv>
 	</item></segments_o>
-	<header_o item-list="true"/>
-	<left_rail_o item-list="true"/>
-	<pageSections_o item-list="true"/>
-	<image_s/>
 	<summary_t>By focusing on how best to enhance our lives every day of the week, Taikoo Place is ensuring that every hour here is happy hour!</summary_t>
-	<localeSourceId_s>4ab57a7b-2461-043c-fcf7-434072f31c01</localeSourceId_s>
-	<createdDate>2023-12-01T04:53:26.311Z</createdDate>
-	<createdDate_dt>2023-12-01T04:53:26.311Z</createdDate_dt>
-	<lastModifiedDate>2023-12-01T04:53:26.311Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-12-01T04:53:26.311Z</lastModifiedDate_dt>
-	<date_dt>2023-11-30T16:00:00.000Z</date_dt>
+	<image_s>/static-assets/images/the-mag/themag2023/november-2023/tpinsider/_q7a1407-t.jpeg</image_s>
+	<createdDate>2023-11-14T01:31:05.921Z</createdDate>
+	<createdDate_dt>2023-11-14T01:31:05.921Z</createdDate_dt>
+	<lastModifiedDate>2023-12-01T00:18:51.768Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-01T00:18:51.768Z</lastModifiedDate_dt>
+	<date_dt>2023-11-08T16:00:00.000Z</date_dt>
 	<date_dt_tz>Asia/Hong_Kong</date_dt_tz>
+	<categories_o>	<item>	<key>talking-points</key>
+	<value_smv>Talking Points</value_smv>
+	</item></categories_o>
+	<localeCode_s>en</localeCode_s>
+	<sourceLocaleCode_s>en</sourceLocaleCode_s>
+	<localeSourceId_s>32e96d8d-d9b4-e03e-726f-fe35125652f4</localeSourceId_s>
 </page>
