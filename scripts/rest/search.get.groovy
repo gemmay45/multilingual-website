@@ -21,7 +21,7 @@ def categories = params["categories[]"]
 def start = params.start ? params.start as Integer : 0
 def rows = params.rows ? params.rows as Integer : 10
 def siteLocale = request.getRequestURI().substring(1,3)
-def searchHelper = new SearchHelper(elasticsearchClient, urlTransformationService, 'en')
+def searchHelper = new SearchHelper(elasticsearchClient, urlTransformationService, contentModel.localeCode_s)
 def results = searchHelper.search(userTerm, categories, start, rows)
 
 return results;
