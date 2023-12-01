@@ -17,8 +17,8 @@
 	<date_dt>2021-02-07T16:00:00.000Z</date_dt>
 	<createdDate>2017-03-2T20:52:30.000Z</createdDate>
 	<createdDate_dt>2017-03-2T20:52:30.000Z</createdDate_dt>
-	<lastModifiedDate>2023-12-01T06:45:37.433Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-12-01T06:45:37.433Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-12-01T09:04:32.720Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-01T09:04:32.720Z</lastModifiedDate_dt>
 	<featured_b>true</featured_b>
 	<summary_t>Ut pellentesque nibh porta lacinia porta. Nam eleifend aliquam tellus sit amet sagittis. Maecenas id eros velit. Donec feugiat iaculis augue eu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</summary_t>
 	<image_s>/static-assets/images/get-in-shape-pic.jpg</image_s>
@@ -44,7 +44,7 @@
 	<categories_o>	<item>	<key>health</key>
 	<value_smv>Health</value_smv>
 	</item></categories_o>
-	<localeCode_s>en</localeCode_s>
+	<localeCode_s/>
 	<sourceLocaleCode_s>en</sourceLocaleCode_s>
 	<localeSourceId_s>9400e361-62d4-9f1e-c31b-4a40c74347c1</localeSourceId_s>
 </page>
