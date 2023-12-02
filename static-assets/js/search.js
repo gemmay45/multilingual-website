@@ -45,7 +45,7 @@
       params.categories = categories;
     }
     
-    params.lang = "en";
+    params.lang = "es";
 
     $.get('/api/search.json', params).done(function (data) {
       if (data == null) {
