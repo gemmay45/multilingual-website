@@ -45,6 +45,7 @@
       params.categories = categories;
     }
     
+    console.log ("xxx");
     const path = window.location.split("/");
     console.log(window.location);
     params.lang = path[0];
