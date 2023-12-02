@@ -59,15 +59,16 @@ class SearchHelper {
           .stringValue(ARTICLE_CONTENT_TYPE)
         )
       )
-      /*
+    )
+    query.filter(q -> q
       .match(m -> m
           .field("localeCode_s")
           .query(v -> v
             .stringValue(this.locale)
           )
         )
-        */
     )
+
     if (categories) {
       // Filter by categories
       query.filter(getFieldQueryWithMultipleValues("categories_o.item.key", categories))
