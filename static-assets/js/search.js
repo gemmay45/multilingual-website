@@ -47,7 +47,7 @@
     
     const pathList = window.location.pathname.split("/");
 
-    params.lang = pathList[0];
+    params.lang = pathList[1];
     console.log(params.lang);
     
     $.get('/api/search.json', params).done(function (data) {
