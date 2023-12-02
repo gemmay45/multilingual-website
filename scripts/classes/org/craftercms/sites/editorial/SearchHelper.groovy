@@ -71,12 +71,7 @@ class SearchHelper {
 
     if (categories) {
       // Filter by categories
-      /*query.filter(getFieldQueryWithMultipleValues("categories_o.item.key", categories))*/
-      query(q -> q
-        .bool(b -> {
-          b.filter(getFieldQueryWithMultipleValues("categories_o.item.key", categories))
-        })
-      )
+      query.filter(getFieldQueryWithMultipleValues("categories_o.item.key", categories))
     }
 
     if (userTerm) {
