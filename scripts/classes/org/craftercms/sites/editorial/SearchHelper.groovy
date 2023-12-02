@@ -148,7 +148,7 @@ class SearchHelper {
               )
             )
           )
-                    b.filter(f -> f
+          b.filter(f -> f
             .match(m -> m
               .field("localeCode_s")
               .query(v -> v
