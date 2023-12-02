@@ -44,7 +44,8 @@
     if (categories) {
       params.categories = categories;
     }
-console.log (params)
+    
+    params.lang = "en";
 
     $.get('/api/search.json', params).done(function (data) {
       if (data == null) {
