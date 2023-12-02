@@ -46,8 +46,8 @@
     }
     
     console.log ("xxx");
-    const path = window.location.split("/");
-    console.log(window.location);
+    const path = window.location.search.replace(/^\?/, '');
+    console.log(path);
     params.lang = "es";
 
     $.get('/api/search.json', params).done(function (data) {
