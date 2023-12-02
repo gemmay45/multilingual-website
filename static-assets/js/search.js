@@ -48,7 +48,7 @@
     console.log ("xxx");
     const path = window.location.split("/");
     console.log(window.location);
-    params.lang = path[0];
+    params.lang = "es";
 
     $.get('/api/search.json', params).done(function (data) {
       if (data == null) {
