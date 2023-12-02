@@ -46,7 +46,7 @@
     }
     
     console.log ("xxx");
-    const path = window.location.search.replace(/^\?/, '');
+    const path = window.location.search.replace(/\?^/, '');
     console.log(path);
     params.lang = "es";
 
