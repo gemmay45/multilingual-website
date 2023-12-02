@@ -45,11 +45,11 @@
       params.categories = categories;
     }
     
-    console.log ("xxx");
-    const pathList = window.location.search.replace(/^\/\//, '').split('/');
-    console.log(window.location.pathname);
-    params.lang = "es";
+    const pathList = window.location.pathname.split("/");
 
+    params.lang = pathList[0];
+    console.log(params.lang);
+    
     $.get('/api/search.json', params).done(function (data) {
       if (data == null) {
         data = [];
