@@ -45,7 +45,8 @@
       params.categories = categories;
     }
     
-    params.lang = "es";
+    const path = window.location.split("/")
+    params.lang = path[0];
 
     $.get('/api/search.json', params).done(function (data) {
       if (data == null) {
