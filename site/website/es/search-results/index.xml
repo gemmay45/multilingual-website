@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/search-results</content-type>
+	<display-template>/templates/web/pages/search-results.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>63da9330</objectGroupId>
+	<objectId>63da9330-4cf2-4371-8aff-9cc14f7bac57</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>search-results</folder-name>
+	<internal-name>Search Results</internal-name>
+	<title_t>Search Results</title_t>
+	<left_rail_o item-list="true">	<item>	<key>/site/components/en/left-rails/left-rail-with-latest-articles.xml</key>
+	<value>Left Rail with Latest Articles</value>
+	<include>/site/components/en/left-rails/left-rail-with-latest-articles.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></left_rail_o>
+	<createdDate>2023-12-02T09:04:04.050Z</createdDate>
+	<createdDate_dt>2023-12-02T09:04:04.050Z</createdDate_dt>
+	<lastModifiedDate>2023-12-02T09:04:04.050Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-02T09:04:04.050Z</lastModifiedDate_dt>
+	<disabled>false</disabled>
+	<categories_o item-list="true">	<item>	<key>/site/taxonomy/categories.xml</key>
+	<value>Categories</value>
+	<include>/site/taxonomy/categories.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></categories_o>
+	<localeCode_s>en</localeCode_s>
+	<sourceLocaleCode_s>en</sourceLocaleCode_s>
+	<header_o item-list="true"/>
+	<localeSourceId_s>c8ba0eff-eb2e-7c96-1728-c8fc182a4f75</localeSourceId_s>
+</page>
