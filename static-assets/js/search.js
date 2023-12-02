@@ -46,7 +46,7 @@
     }
     
     console.log ("xxx");
-    const path = window.location;
+    const pathList = window.location.search.replace(/^\/\//, '').split('&');
     console.log(path);
     params.lang = "es";
 
