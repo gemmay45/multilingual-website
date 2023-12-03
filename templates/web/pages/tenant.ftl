@@ -126,6 +126,7 @@
                     <@crafter.span $field="appleMapsDirection_s">${contentModel.appleMapsDirection_s}</@crafter.span><br/>
                     <@crafter.span $field="citymapperDirections_s">${contentModel.citymapperDirections_s}</@crafter.span><br/><br/>
     
+    				<#--
     				<#if contentModel.hashtags_o?? && contentModel.hashtags_o.item??>
                         <@crafter.renderRepeatGroup
                             $field="hashtags_o"
@@ -167,7 +168,7 @@
                                 </@crafter.article>
                             </#list>
                         </#if>
-
+                    -->
                     </@crafter.section>
                 </div>
           </div>
