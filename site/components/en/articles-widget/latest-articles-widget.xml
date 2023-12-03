@@ -7,7 +7,7 @@
 	<objectGroupId>bf5ba8f8</objectGroupId>
 	<objectId>bf5ba8f8-941f-4994-8b8e-d91246a5e9fb</objectId>
 	<file-name>latest-articles-widget.xml</file-name>
-	<folder-name>/site/components/en</folder-name>
+	<folder-name/>
 	<internal-name>Latest Articles Widget</internal-name>
 	<title_t>Latest Articles</title_t>
 	<max_articles_i>3</max_articles_i>
@@ -17,9 +17,9 @@
 	</item></scripts_o>
 	<createdDate>2023-11-09T13:56:31.761Z</createdDate>
 	<createdDate_dt>2023-11-09T13:56:31.761Z</createdDate_dt>
-	<lastModifiedDate>2023-11-09T13:56:31.761Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-11-09T13:56:31.761Z</lastModifiedDate_dt>
-	<localeCode_s>en</localeCode_s>
+	<lastModifiedDate>2023-12-03T01:17:06.101Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-03T01:17:06.101Z</lastModifiedDate_dt>
+	<localeCode_s/>
 	<sourceLocaleCode_s>en</sourceLocaleCode_s>
 	<disabled>false</disabled>
 	<localeSourceId_s>2560fa97-f62f-488c-9062-18cfca367ada</localeSourceId_s>
