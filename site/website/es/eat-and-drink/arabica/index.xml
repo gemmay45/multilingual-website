@@ -7,7 +7,7 @@
 	<objectGroupId>6d204442</objectGroupId>
 	<objectId>6d204442-eea4-47f9-9370-cd5146713239</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>eat-and-drink</folder-name>
+	<folder-name>arabica</folder-name>
 	<internal-name>%Arabica</internal-name>
 	<navLabel>Arabica</navLabel>
 	<name_s>%Arabica</name_s>
@@ -19,7 +19,7 @@
 	<appleMapsDirection_s>http://maps.apple.com/?ll=22.28395,114.21255&amp;q=%25%20Arabica</appleMapsDirection_s>
 	<citymapperDirections_s>https://citymapper.com/directions?endcoord=22.28395%2C114.21255&amp;endname=%25%20Arabica&amp;endaddress=Shop%203%2C%20Yick%20Fat%20Building%2C%201048-1056%20King%E2%80%99s%20Rd%2C%20Quarry%20Bay</citymapperDirections_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<quote_t>We’re a secret spot inside this old building, many of our customers end up staying for a whole afternoon.</quote_t>
 	<opinion_t>Brought all the way from Japan, the % Arabica coffee experience is all about understated minimalism. The dark roasts contrast the bright interior, creating a quiet nook in the dense urban jungle. The matcha latte is a must try.</opinion_t>
 	<hashtags_o item-list="true">	<item>	<hashtags_s>#SeeTheWorldThroughCoffee</hashtags_s>
@@ -31,15 +31,11 @@
 	<description_html>&lt;p&gt;Tucked away in the basement of Quarry Bay&amp;rsquo;s most Instagrammable spot lies a truly transformational coffee experience. Perched between the barbershops and Thai eateries is this tiny futuristic coffee shop. Its interior is modelled after the Monster Building with stacks of coffee bags resembling the iconic architecture of the local landmark.&lt;/p&gt;</description_html>
 	<createdDate>2023-11-30T23:05:17.114Z</createdDate>
 	<createdDate_dt>2023-11-30T23:05:17.114Z</createdDate_dt>
-	<lastModifiedDate>2023-11-30T23:05:17.114Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-11-30T23:05:17.114Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-12-03T01:35:35.628Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-03T01:35:35.628Z</lastModifiedDate_dt>
 	<openingHours_html>&lt;p&gt;Mon-Fri 8:30am-7pm&lt;br /&gt;Sat-Sun 9am-7pm&lt;/p&gt;</openingHours_html>
 	<header_o item-list="true"/>
-	<leftRail_o item-list="true">	<item>	<key>/site/components/en/left-rails/left-rail-with-no-articles.xml</key>
-	<value>Left Rail with No Articles</value>
-	<include>/site/components/en/left-rails/left-rail-with-no-articles.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item></leftRail_o>
+	<leftRail_o item-list="true"/>
 	<categories_o>	<item>	<key>drink</key>
 	<value_smv>Drink</value_smv>
 	</item></categories_o>
@@ -58,7 +54,7 @@
 	<disableFlattening>false</disableFlattening>
 	</item></recommended_o>
 	<tagline_s>Artisan coffee in Quarry Bay’s instagram hotspot</tagline_s>
-	<localeCode_s/>
+	<localeCode_s>es</localeCode_s>
 	<sourceLocaleCode_s>en</sourceLocaleCode_s>
 	<localeSourceId_s>6fa3ed14-d4dd-e479-7fa4-8f910ae7b891</localeSourceId_s>
 </page>
