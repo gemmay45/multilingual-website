@@ -7,20 +7,20 @@
 	<objectGroupId>72e648ae</objectGroupId>
 	<objectId>72e648ae-0ef7-4721-9baf-8b91a5c17ab1</objectId>
 	<file-name>crafter-level-descriptor.level.xml</file-name>
-	<folder-name>es</folder-name>
+	<folder-name/>
 	<internal-name>Section Defaults</internal-name>
 	<header_o item-list="true">	<item>	<key>/site/components/headers/header.xml</key>
 	<value>Header</value>
 	<include>/site/components/headers/header.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></header_o>
-	<left_rail_o item-list="true">	<item>	<key>/site/components/en/left-rails/left-rail-with-no-articles.xml</key>
+	<left_rail_o item-list="true">	<item>	<key>/site/components/es/left-rails/left-rail-with-no-articles.xml</key>
 	<value>Left Rail with No Articles</value>
-	<include>/site/components/en/left-rails/left-rail-with-no-articles.xml</include>
+	<include>/site/components/es/left-rails/left-rail-with-no-articles.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></left_rail_o>
 	<createdDate>2023-12-03T01:32:14.677Z</createdDate>
 	<createdDate_dt>2023-12-03T01:32:14.677Z</createdDate_dt>
-	<lastModifiedDate>2023-12-03T01:32:14.677Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-12-03T01:32:14.677Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-12-03T01:32:19.977Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-03T01:32:19.977Z</lastModifiedDate_dt>
 </component>
