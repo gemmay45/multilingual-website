@@ -31,8 +31,8 @@
 	<description_html>&lt;p&gt;Tucked away in the basement of Quarry Bay&amp;rsquo;s most Instagrammable spot lies a truly transformational coffee experience. Perched between the barbershops and Thai eateries is this tiny futuristic coffee shop. Its interior is modelled after the Monster Building with stacks of coffee bags resembling the iconic architecture of the local landmark.&lt;/p&gt;</description_html>
 	<createdDate>2023-11-30T23:05:17.114Z</createdDate>
 	<createdDate_dt>2023-11-30T23:05:17.114Z</createdDate_dt>
-	<lastModifiedDate>2023-12-03T01:40:30.495Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-12-03T01:40:30.495Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-12-03T01:41:13.740Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-03T01:41:13.740Z</lastModifiedDate_dt>
 	<openingHours_html>&lt;p&gt;Mon-Fri 8:30am-7pm&lt;br /&gt;Sat-Sun 9am-7pm&lt;/p&gt;</openingHours_html>
 	<header_o item-list="true"/>
 	<leftRail_o item-list="true"/>
@@ -44,11 +44,7 @@
 	</item>	<item>	<image_s>/static-assets/images/tenants/arabica/e263071651eaf24de31572c012ba0ed8750bdd18-960x640.webp</image_s>
 	</item>	<item>	<image_s>/static-assets/images/tenants/arabica/c63968a78b8619b920a49a0a4eb0e2d946b0bc76-960x640.webp</image_s>
 	</item></images_o>
-	<recommended_o item-list="true">	<item>	<key>/site/website/es/eat-and-drink/coco-espresso/index.xml</key>
-	<value>CoCo Espresso</value>
-	<include>/site/website/es/eat-and-drink/coco-espresso/index.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item></recommended_o>
+	<recommended_o item-list="true"/>
 	<tagline_s>Artisan coffee in Quarry Bay’s instagram hotspot</tagline_s>
 	<localeCode_s>es</localeCode_s>
 	<sourceLocaleCode_s>en</sourceLocaleCode_s>
