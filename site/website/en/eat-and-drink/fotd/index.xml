@@ -22,11 +22,7 @@
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<header_o item-list="true"/>
-	<leftRail_o item-list="true">	<item>	<key>/site/components/left-rails/left-rail-with-no-articles.xml</key>
-	<value>left-rail-with-no-articles.xml</value>
-	<include>/site/components/left-rails/left-rail-with-no-articles.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item></leftRail_o>
+	<leftRail_o item-list="true"/>
 	<relatedMAGArticle_o item-list="true"/>
 	<recommended_o item-list="true"/>
 	<categories_o>	<item>	<key>eat</key>
@@ -46,9 +42,9 @@
 	</item></images_o>
 	<createdDate>2023-11-30T15:17:19.481Z</createdDate>
 	<createdDate_dt>2023-11-30T15:17:19.481Z</createdDate_dt>
-	<lastModifiedDate>2023-11-30T15:23:03.378Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-11-30T15:23:03.378Z</lastModifiedDate_dt>
-	<localeCode_s>en</localeCode_s>
+	<lastModifiedDate>2023-12-03T01:25:28.391Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-03T01:25:28.391Z</lastModifiedDate_dt>
+	<localeCode_s/>
 	<sourceLocaleCode_s>en</sourceLocaleCode_s>
 	<localeSourceId_s>be944e7b-ebda-4cdb-8a17-f89259d6fe54</localeSourceId_s>
 </page>
