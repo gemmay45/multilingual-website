@@ -40,7 +40,8 @@
 		<div class="inner the-mag-detail__content the-mag-detail__main-content">
 		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
 		    
-		    	<#list contentModel.pageSections_o.item as item>
+<div id="owl-testimonial" class="owl-carousel components-container col-md-12 col-sm-12" model-id="${contentModel.objectId}">
+<#list contentModel.pageSections_o.item as item>
 					<#if item.component??>
 						<#assign myContentItem = item.component />
 					<#else>
@@ -69,7 +70,7 @@
 					</div>
 					-->
 				</#list>
-				
+			</div>
             <ul class="the-mag-detail__content__info">
                 <#setting time_zone = siteConfig.getString("timeZone")>
                 <li><i aria-hidden="true" class="fas fa-clock"> </i>
