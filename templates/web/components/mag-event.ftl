@@ -37,7 +37,7 @@
                 <@crafter.tag $tag="dt" $field="event_o" $index=index><i $field="event_o" class="${item.icon_s}"></i></@crafter.tag>
               </#if>
               <#if item.content_html?has_content>
-                <@crafter.tag $tag="dd" $field="event_o" $index=index>${item.content_html}</@crafter.tag>
+                <@crafter.tag $tag="dd" $field="event_o" $index=index style="display:block;margin-inline-start:30px;">${item.content_html}</@crafter.tag>
               </#if>
             </@crafter.renderRepeatGroup>
         </div>
@@ -51,7 +51,7 @@
 					<#list contentModel.event_o.item as item>
 					    <#assign index = item?index />
 					    <@crafter.tag $tag="dt" $field="event_o" $index=index><i class="${item.icon_s}"></i></@crafter.tag>
-						<@crafter.tag $tag="dd" $field="event_o" $index=index style="display:block;margin-inline-start:30px;">${item.content_html}</@crafter.tag>
+						<@crafter.tag $tag="dd" $field="event_o" $index=index>${item.content_html}</@crafter.tag>
 					</#list>
 				</#if>
             </dl>
