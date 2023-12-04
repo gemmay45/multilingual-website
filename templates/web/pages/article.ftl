@@ -50,7 +50,7 @@
 					aaa
 					${item.key}
 					<#attempt>
-					${siteItemService.getSiteItem(item.key)}
+					${siteItemService.getSiteItem(item.key).SiteItem}
 						<#--xxxx
 						<#assign myContentItem =  siteItemService.getSiteItem(item.key) />
 					sss
