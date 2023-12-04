@@ -47,13 +47,13 @@
 						<#assign myContentItem = item.component />
 					<#else>
 					-->
-						<#assign myContentItem =  siteItemService.getSiteItem(item.key) />
+						<#assign myContentItem =  siteItemService.getSiteItem(item.storeUrl) />
 					<#--
 					</#if>
 					-->
 					
 					sss
-					${item.key}
+					${item.storeUrl}
 					yyy
 					
 					<#--
