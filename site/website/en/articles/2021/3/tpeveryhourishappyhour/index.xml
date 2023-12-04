@@ -119,7 +119,7 @@
         <internal-name>New Mag Event</internal-name>
         <file-name>fa8e1df6-2a08-4ce1-8224-284f326d3cfd.xml</file-name>
         <createdDate_dt>2023-11-16T08:21:57.988Z</createdDate_dt>
-        <lastModifiedDate_dt>2023-12-04T08:41:43.310Z</lastModifiedDate_dt>
+        <lastModifiedDate_dt>2023-12-04T08:41:51.018Z</lastModifiedDate_dt>
         <objectId>fa8e1df6-2a08-4ce1-8224-284f326d3cfd</objectId>
         <sectionId_s/>
         <title_s no-default="true"/>
@@ -128,14 +128,14 @@
         <image_s/>
         <event_o item-list="true">
           <item>
-            <icon_s>fas fa-calendar-alt</icon_s>
-            <content_html>12 Oct 6pm-10pm&lt;br&gt;13 Oct 6pm-10pm&lt;br&gt;14 Oct 12nn-4pm; 6pm-10pm</content_html>
-          </item>
-          <item>
             <icon_s/>
             <content_html>Tong Chong Street Market Beer Festival 2023</content_html>
           </item>
 
+          <item>
+            <icon_s>fas fa-calendar-alt</icon_s>
+            <content_html>12 Oct 6pm-10pm&lt;br&gt;13 Oct 6pm-10pm&lt;br&gt;14 Oct 12nn-4pm; 6pm-10pm</content_html>
+          </item>
           <item>
             <icon_s>fas fa-map-marker-alt</icon_s>
             <content_html>Taikoo Garden, Two Taikoo Place</content_html>
@@ -166,7 +166,7 @@
   <createdDate>2023-11-14T01:31:05.921Z</createdDate>
   <createdDate_dt>2023-11-14T01:31:05.921Z</createdDate_dt>
   <lastModifiedDate>2023-12-01T06:46:40.113Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-12-04T08:41:43.311Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-12-04T08:41:51.018Z</lastModifiedDate_dt>
   <date_dt>2023-11-08T16:00:00.000Z</date_dt>
   <date_dt_tz>Asia/Hong_Kong</date_dt_tz>
   <categories_o>
