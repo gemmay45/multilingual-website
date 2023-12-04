@@ -43,7 +43,7 @@
 		    <#if contentModel.pageSections_o??>
                <#list contentModel.pageSections_o.item as section>
                     <#assign sectionItem = siteItemService.getSiteItem(section.key) />
- 
+ xxx
                     ${sectionItem.storeUrl}<br/>
     
                     <#if sectionItem.storeUrl??>
