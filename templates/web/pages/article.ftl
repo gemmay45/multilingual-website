@@ -44,7 +44,7 @@
 		    xxxx
 			    <#assign cmp = siteItemService.getSiteItem(contentModel.pageSections_o.item.key) />
 			    yyyy
-                ${cmp}
+                ${cmp.storeUrl}
                 zzzz
                 <#if cmp??>
                     <@crafter.renderComponent $model=cmp/>
