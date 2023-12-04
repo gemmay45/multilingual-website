@@ -48,7 +48,7 @@
 					<#else>
 					-->
 					aaa
-					${item.storeUrl}
+					${item.key}
 						<#assign myContentItem =  siteItemService.getSiteItem(item.key) />
 					<#--
 					</#if>
