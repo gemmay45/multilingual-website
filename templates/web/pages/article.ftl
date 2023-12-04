@@ -46,7 +46,7 @@
 					<#if item.component??>
 						<#assign myContentItem = item.component />
 					<#else>
-						<#assign myContentItem =  siteItemService.getSiteItem(item.key) />
+						<#assign myContentItem1 =  siteItemService.getSiteItem(item.key) />
 					</#if>
 					
 					sss
