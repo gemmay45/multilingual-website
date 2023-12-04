@@ -42,8 +42,8 @@
 		    
 		    <#if contentModel.pageSections_o??>
 		    xxxx
-                   <#list contentModel.pageSections_o.item.key as section>
-                      <#assign sectionItem = siteItemService.getSiteItem(section.localId) />
+                   <#list contentModel.pageSections_o.item as section>
+                      <#assign sectionItem = siteItemService.getSiteItem(section.key) />
  
 			    yyyy
                 ${sectionItem.localId}
