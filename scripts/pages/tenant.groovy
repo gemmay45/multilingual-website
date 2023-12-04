@@ -17,6 +17,7 @@ recs.each { rec ->
     recTenant.title = dirItem.queryValue('name_s')
     recTenant.tagline = dirItem.queryValue('tagline_s')
     recTenant.images = dirItem.images_o
+    recTenant.disabled = dirItem.disabled
 
     recTenants << recTenant
 }
@@ -31,6 +32,7 @@ rels.each { rel ->
     relatedMag.path = dirItem.localId
     relatedMag.storeUrl = dirItem.storeUrl
     relatedMag.url = urlTransformationService.transform("storeUrlToRenderUrl", relatedMag.storeUrl)
+    relatedMag.disabled = dirItem.disabled
 
     relatedMag.title = dirItem.queryValue('subject_t')
 
