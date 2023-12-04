@@ -38,28 +38,8 @@
 		</div>
 
 		<div class="inner the-mag-detail__content the-mag-detail__main-content">
-		    <#--<@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>-->
+		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
 		    
-		    <#if contentModel.pageSections_o?? && contentModel.pageSections_o.item??>
-               <#list contentModel.pageSections_o.item as item>
-                    <#if item.component??>
-                        <#assign sectionItem = item.component />
-                         xxx
-                    <#else>
-                        <#assign sectionItem =  siteItemService.getSiteItem(item.key) />
-                        yyy
-                    </#if>
-
-                    <#--${sectionItem??}<br/>-->
-    
-                    <#--<#if sectionItem.storeUrl??>
-                    xyz
-                        <@crafter.renderComponent $model=sectionItem/>
-                    </#if>-->
-                    
-                </#list>
-            </#if>
-            
             <ul class="the-mag-detail__content__info">
                 <#setting time_zone = siteConfig.getString("timeZone")>
                 <li><i aria-hidden="true" class="fas fa-clock"> </i>
