@@ -42,7 +42,7 @@
 		    
 		    <#if pageSections_o??>
 			    <#assign cmp = siteItemService.getSiteItem(contentModel.pageSections_o.item.key) />
-                
+                ${cmp}
                 <#if cmp??>
                     <@crafter.renderComponent $model=cmp/>
                 </#if>
