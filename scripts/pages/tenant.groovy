@@ -19,8 +19,7 @@ recs.each { rec ->
         recTenant.tagline = dirItem.queryValue('tagline_s')
         recTenant.images = dirItem.images_o
 
-        if (!dirItem.disabled)
-            recTenants << recTenant
+        recTenants << recTenant
     }
 }
 
