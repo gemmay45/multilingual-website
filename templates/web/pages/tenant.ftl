@@ -140,6 +140,7 @@
                             <h4>Recommended</h4>
                             
                             <#list recTenants as recTenant>
+                            ${recTenant.disabled}
                                 <#if !recTenant.disabled??>
                                     <@crafter.article $model=recTenant>
                                         <@crafter.a $model=recTenant href="${recTenant.url}">
