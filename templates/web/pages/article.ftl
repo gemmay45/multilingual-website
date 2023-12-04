@@ -46,7 +46,7 @@
                       <#assign sectionItem = siteItemService.getSiteItem(section.key) />
  
 			    yyyy
-                ${sectionItem.localId}
+                ${section.key}
                 zzzz
                 <#if sectionItem??>
                     <@crafter.renderComponent $model=sectionItem/>
