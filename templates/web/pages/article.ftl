@@ -49,7 +49,12 @@
 					-->
 					aaa
 					${item.key}
+					<#attempt>
 						<#assign myContentItem =  siteItemService.getSiteItem(item.key) />
+						xxxx
+					<#recover>
+					</#attempt>
+					
 					<#--
 					</#if>
 					-->
