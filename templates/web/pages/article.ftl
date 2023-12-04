@@ -40,6 +40,33 @@
 		<div class="inner the-mag-detail__content the-mag-detail__main-content">
 		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
 		    
+		    	<#list contentModel.pageSections_o.item as item>
+					<#if item.component??>
+						<#assign myContentItem = item.component />
+					<#else>
+						<#assign myContentItem =  siteItemService.getSiteItem(item.key) />
+					</#if>
+					
+					${myContentItem.key}
+					
+					<div class="item col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10 wow fadeInUp" data-wow-delay="0.6s">
+						<#if contentModel.quoteStyle_s == "quote">
+							<i class="fa fa-quote-left"></i>
+						</#if>
+						<@crafter.h3 $model=myContentItem $field="description_t">
+							${myContentItem.description_t}
+						</@crafter.h3>
+						<h4>
+							<@crafter.span $model=myContentItem $field="authorFullName_t">
+								${myContentItem.authorFullName_t}
+							</@crafter.span>
+							( <@crafter.span $model=myContentItem $field="authorProfession_t">
+								${myContentItem.authorProfession_t}
+							</@crafter.span> )
+						</h4>
+					</div>
+				</#list>
+				
             <ul class="the-mag-detail__content__info">
                 <#setting time_zone = siteConfig.getString("timeZone")>
                 <li><i aria-hidden="true" class="fas fa-clock"> </i>
