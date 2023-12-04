@@ -23,7 +23,7 @@
         </#if>
     </div>
     
-    <#--
+
     <div class="box-wrapper">
         <div class="box">
             Using renderRepeatGroup<br/><br/>
@@ -42,7 +42,7 @@
             </@crafter.renderRepeatGroup>
         </div>
     </div>
-    -->
+
     
     <div class="box-wrapper">
         <div class="box">
