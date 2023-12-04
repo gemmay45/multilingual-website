@@ -17,7 +17,7 @@ recs.each { rec ->
     recTenant.title = dirItem.queryValue('name_s')
     recTenant.tagline = dirItem.queryValue('tagline_s')
     recTenant.images = dirItem.images_o
-    recTenant.disabled = booleanValue(dirItem.disabled)
+    recTenant.disabled = dirItem.disabled ? "true" : "false"
 
     recTenants << recTenant
 }
