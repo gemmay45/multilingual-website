@@ -40,9 +40,11 @@
 		<div class="inner the-mag-detail__content the-mag-detail__main-content">
 		    <#--
 		    Note: - renderComponentCollection cannot handle exception when item in node selector no longer available 
-		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
 		    -->
+		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
+
 		    
+		    <#--
 		    <#assign itemIndex = 0 />
 		    
             <#list contentModel.pageSections_o.item as item>
@@ -55,7 +57,7 @@
                     </@crafter.div>
                 </#if>
 			</#list>
-
+            -->
 
             <ul class="the-mag-detail__content__info">
                 <#setting time_zone = siteConfig.getString("timeZone")>
