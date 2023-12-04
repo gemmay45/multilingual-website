@@ -47,19 +47,19 @@
 						<#assign myContentItem = item.component />
 					<#else>
 					-->
-					aaa
-					${item.key}
-					<#attempt>
-					${siteItemService.getSiteItem(item.key)!""}
+                    
+                    <#assign myContentItem = siteItemService.getSiteItem(item.key)!"" />
+                    
+                    <#if myContentItem != "">
+                        ${myContentItem}
+                    </#if>
+                    
 						<#--xxxx
 						<#assign myContentItem =  siteItemService.getSiteItem(item.key) />
 					sss
 					${item.key}
 					${myContentItem.storeUrl}
 					yyy-->
-					<#recover>
-					xyz
-					</#attempt>
 					
 					<#--
 					</#if>
