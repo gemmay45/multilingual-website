@@ -141,7 +141,7 @@
                             
                             <#list recTenants as recTenant>
                             ${recTenant.disabled}
-                                <#if recTenant.disabled != 'true'>
+                                <#if recTenant.disabled??>
                                 xxx
                                 <@crafter.article $model=recTenant>
                                     <@crafter.a $model=recTenant href="${recTenant.url}">
