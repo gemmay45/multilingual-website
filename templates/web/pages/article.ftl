@@ -38,7 +38,9 @@
 		</div>
 
 		<div class="inner the-mag-detail__content the-mag-detail__main-content">
+		    <#--
 		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
+		    -->
 		    
 <#list contentModel.pageSections_o.item as item>
 					<#if item.component??>
@@ -49,6 +51,7 @@
 					
 					sss
 					${item.key}
+					yyy
 					
 					<#--
 					<div class="item col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10 wow fadeInUp" data-wow-delay="0.6s">
