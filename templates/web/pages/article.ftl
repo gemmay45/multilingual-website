@@ -42,13 +42,16 @@
 		    
 		    <#if contentModel.pageSections_o??>
 		    xxxx
-			    <#assign cmp = siteItemService.getSiteItem(contentModel.pageSections_o.item.key) />
+                   <#list contentModel.pageSections_o.item.key as section>
+                      <#assign sectionItem = siteItemService.getSiteItem(section.localId) />
+ 
 			    yyyy
-                ${cmp.localId}
+                ${sectionItem.localId}
                 zzzz
-                <#if cmp??>
-                    <@crafter.renderComponent $model=cmp/>
+                <#if sectionItem??>
+                    <@crafter.renderComponent $model=sectionItem/>
                 </#if>
+                </#list>
             </#if>
             
             <ul class="the-mag-detail__content__info">
