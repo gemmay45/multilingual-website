@@ -38,8 +38,16 @@
 		</div>
 
 		<div class="inner the-mag-detail__content the-mag-detail__main-content">
-		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
-        
+		    <#--<@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>-->
+		    
+		    <#if pageSections_o??>
+			    <#assign cmp = siteItemService.getSiteItem(contentModel.pageSections_o.item.key) />
+                
+                <#if cmp??>
+                    <@crafter.renderComponent $model=cmp/>
+                </#if>
+            </#if>
+            
             <ul class="the-mag-detail__content__info">
                 <#setting time_zone = siteConfig.getString("timeZone")>
                 <li><i aria-hidden="true" class="fas fa-clock"> </i>
