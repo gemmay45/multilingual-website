@@ -46,10 +46,10 @@
  xxx
                     ${sectionItem.storeUrl}<br/>
     
-                    <#if sectionItem.storeUrl??>
+                    <#--<#if sectionItem.storeUrl??>
                     xyz
                         <@crafter.renderComponent $model=sectionItem/>
-                    </#if>
+                    </#if>-->
                 </#list>
             </#if>
             
