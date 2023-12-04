@@ -939,7 +939,7 @@
 					<properties>
 						<property>
 							<name>allowShared</name>
-							<value>false</value>
+							<value>true</value>
 								<type>boolean</type>
 						</property>
 						<property>
@@ -949,7 +949,7 @@
 						</property>
 						<property>
 							<name>enableBrowse</name>
-							<value>false</value>
+							<value>true</value>
 								<type>boolean</type>
 						</property>
 						<property>
