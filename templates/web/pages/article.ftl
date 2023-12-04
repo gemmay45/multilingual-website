@@ -54,6 +54,7 @@
 					
 					sss
 					${item.key}
+					${myContentItem.storeUrl}
 					yyy
 					
 					<#--
