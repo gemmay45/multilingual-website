@@ -46,7 +46,7 @@
                 <#assign myContentItem = siteItemService.getSiteItem(item.key)!"" />
                 
                 <#if myContentItem != "">
-                    <@renderComponent componentPath = item.key />
+                    <@renderComponent componentPath = ${item.key} />
                 </#if>
                 
 			</#list>
