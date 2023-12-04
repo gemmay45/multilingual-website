@@ -140,22 +140,20 @@
                             <h4>Recommended</h4>
                             
                             <#list recTenants as recTenant>
-                            ${recTenant.disabled}
                                 <#if !recTenant.disabled??>
-                                xxx
-                                <@crafter.article $model=recTenant>
-                                    <@crafter.a $model=recTenant href="${recTenant.url}">
-                                        <@crafter.img
-                                          $model=recTenant
-                                          src="${recTenant.images.item[0].image_s}"
-                                          alt=""
-                                          width="112px"
-                                        />
-                                        <br/>
-                                        <@crafter.span $model=recTenant>${recTenant.title}</@crafter.span><br/>
-                                        <@crafter.span $model=recTenant>${recTenant.tagline}</@crafter.span><br/>
-                                    </@crafter.a>
-                                </@crafter.article>
+                                    <@crafter.article $model=recTenant>
+                                        <@crafter.a $model=recTenant href="${recTenant.url}">
+                                            <@crafter.img
+                                              $model=recTenant
+                                              src="${recTenant.images.item[0].image_s}"
+                                              alt=""
+                                              width="112px"
+                                            />
+                                            <br/>
+                                            <@crafter.span $model=recTenant>${recTenant.title}</@crafter.span><br/>
+                                            <@crafter.span $model=recTenant>${recTenant.tagline}</@crafter.span><br/>
+                                        </@crafter.a>
+                                    </@crafter.article>
                                 </#if>
                             </#list>
                         </#if>
