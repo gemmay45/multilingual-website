@@ -43,10 +43,12 @@
 		    -->
 		    
 <#list contentModel.pageSections_o.item as item>
-					<#--<#if item.component??>-->
+					<#--<#if item.component??>
 						<#assign myContentItem = item.component />
-					<#--<#else>
+					<#else>
+					-->
 						<#assign myContentItem =  siteItemService.getSiteItem(item.key) />
+					<#--
 					</#if>
 					-->
 					
