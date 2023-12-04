@@ -40,7 +40,7 @@
 		<div class="inner the-mag-detail__content the-mag-detail__main-content">
 		    <#--<@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>-->
 		    
-		    <#if contentModel.pageSections_o?? && contentModel.pageSections_o.item>
+		    <#if contentModel.pageSections_o?? && contentModel.pageSections_o.item??>
                <#list contentModel.pageSections_o.item as item>
                     <#assign sectionItem = item.component />
  xxx
