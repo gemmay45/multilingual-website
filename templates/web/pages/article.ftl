@@ -41,10 +41,10 @@
 		    <#--<@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>-->
 		    
 		    <#if contentModel.pageSections_o??>
-               <#list contentModel.pageSections_o.item.key as section>
-                    <#assign sectionItem = siteItemService.getSiteItem(section.storeUrl) />
+               <#list contentModel.pageSections_o.item as section>
+                    <#assign sectionItem = siteItemService.getSiteItem(section.key) />
  xxx
-                    ${sectionItem.key}<br/>
+                    ${sectionItem.storeURL}<br/>
     
                     <#--<#if sectionItem.storeUrl??>
                     xyz
