@@ -51,12 +51,13 @@
 					${item.key}
 					<#attempt>
 						<#assign myContentItem =  siteItemService.getSiteItem(item.key) />
-						xxxx
+						<#--xxxx
 					sss
 					${item.key}
 					${myContentItem.storeUrl}
-					yyy
+					yyy-->
 					<#recover>
+					xyz
 					</#attempt>
 					
 					<#--
