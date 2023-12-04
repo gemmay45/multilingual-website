@@ -49,6 +49,7 @@
 					
 					${myContentItem.key}
 					
+					<#--
 					<div class="item col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10 wow fadeInUp" data-wow-delay="0.6s">
 						<#if contentModel.quoteStyle_s == "quote">
 							<i class="fa fa-quote-left"></i>
@@ -65,6 +66,7 @@
 							</@crafter.span> )
 						</h4>
 					</div>
+					-->
 				</#list>
 				
             <ul class="the-mag-detail__content__info">
