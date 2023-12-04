@@ -28,15 +28,17 @@ rels.each { rel ->
     
     def dirItem = siteItemService.getSiteItem(rel.key.text)
     
-    relatedMag.id = dirItem.objectId
-    relatedMag.objectId = dirItem.objectId
-    relatedMag.path = dirItem.localId
-    relatedMag.storeUrl = dirItem.storeUrl
-    relatedMag.url = urlTransformationService.transform("storeUrlToRenderUrl", relatedMag.storeUrl)
-
-    relatedMag.title = dirItem.queryValue('subject_t')
-
-    relatedMags << relatedMag
+    if (dirItem) {
+        relatedMag.id = dirItem.objectId
+        relatedMag.objectId = dirItem.objectId
+        relatedMag.path = dirItem.localId
+        relatedMag.storeUrl = dirItem.storeUrl
+        relatedMag.url = urlTransformationService.transform("storeUrlToRenderUrl", relatedMag.storeUrl)
+    
+        relatedMag.title = dirItem.queryValue('subject_t')
+    
+        relatedMags << relatedMag
+    }
 }
 
 
