@@ -44,7 +44,7 @@
                <#list contentModel.pageSections_o.item as item>
                     <#assign sectionItem = item.component />
  xxx
-                    ${sectionItem??}<br/>
+                    <#--${sectionItem??}<br/>-->
     
                     <#--<#if sectionItem.storeUrl??>
                     xyz
