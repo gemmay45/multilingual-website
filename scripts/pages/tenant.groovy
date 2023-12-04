@@ -31,7 +31,6 @@ rels.each { rel ->
     relatedMag.path = dirItem.localId
     relatedMag.storeUrl = dirItem.storeUrl
     relatedMag.url = urlTransformationService.transform("storeUrlToRenderUrl", relatedMag.storeUrl)
-    relatedMag.disabled = dirItem.disabled
 
     relatedMag.title = dirItem.queryValue('subject_t')
 
