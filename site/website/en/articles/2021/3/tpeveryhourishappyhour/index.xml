@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<content-type>/page/article</content-type>
-	<display-template>/templates/web/pages/article.ftl</display-template>
-	<no-template-required/>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>0444</objectGroupId>
-	<objectId>0444E196-5EF6-4B21-A130-1EB13AA6FDBC</objectId>
-	<file-name>index.xml</file-name>
-	<folder-name>tpeveryhourishappyhour</folder-name>
-	<internal-name>tpeveryhourishappyhour</internal-name>
-	<title_t>Every Hour is Happy Hour at Taikoo Place</title_t>
-	<subject_t>Every Hour is Happy Hour at Taikoo Place</subject_t>
-	<disabled>false</disabled>
-	<featured_b>false</featured_b>
-	<header_o item-list="true"/>
-	<left_rail_o item-list="true"/>
-	<pageSections_o item-list="true">	<item inline="true">	<key>28E66ADD-56CB-47CD-8787-89E65A8C14A3</key>
-	<value>New Mag Banner Image</value>
-	<disableFlattening>false</disableFlattening>
-<component id="28E66ADD-56CB-47CD-8787-89E65A8C14A3">
+  <content-type>/page/article</content-type>
+  <display-template>/templates/web/pages/article.ftl</display-template>
+  <no-template-required/>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <objectGroupId>0444</objectGroupId>
+  <objectId>0444E196-5EF6-4B21-A130-1EB13AA6FDBC</objectId>
+  <file-name>index.xml</file-name>
+  <folder-name>tpeveryhourishappyhour</folder-name>
+  <internal-name>tpeveryhourishappyhour</internal-name>
+  <title_t>Every Hour is Happy Hour at Taikoo Place</title_t>
+  <subject_t>Every Hour is Happy Hour at Taikoo Place</subject_t>
+  <disabled>false</disabled>
+  <featured_b>false</featured_b>
+  <header_o item-list="true"/>
+  <left_rail_o item-list="true"/>
+  <pageSections_o item-list="true">
+    <item inline="true">
+      <key>28E66ADD-56CB-47CD-8787-89E65A8C14A3</key>
+      <value>New Mag Banner Image</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="28E66ADD-56CB-47CD-8787-89E65A8C14A3">
         <content-type>/component/magbannerimage</content-type>
         <display-template>/templates/web/components/mag-banner-image.ftl</display-template>
         <no-template-required/>
@@ -38,10 +40,12 @@
         <createdDate>2023-11-14T12:48:21.162Z</createdDate>
         <lastModifiedDate>2023-11-15T05:01:23.123Z</lastModifiedDate>
       </component>
-	</item>	<item inline="true">	<key>C720E53F-19D0-41DA-BED5-2312126D5D37</key>
-	<value>New Mag Text</value>
-	<disableFlattening>false</disableFlattening>
-<component id="C720E53F-19D0-41DA-BED5-2312126D5D37">
+    </item>
+    <item inline="true">
+      <key>C720E53F-19D0-41DA-BED5-2312126D5D37</key>
+      <value>New Mag Text</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="C720E53F-19D0-41DA-BED5-2312126D5D37">
         <content-type>/component/magtext</content-type>
         <display-template>/templates/web/components/mag-text.ftl</display-template>
         <no-template-required/>
@@ -58,10 +62,12 @@
         <createdDate>2023-11-16T08:10:54.914Z</createdDate>
         <lastModifiedDate>2023-11-16T08:10:54.914Z</lastModifiedDate>
       </component>
-	</item>	<item inline="true">	<key>45BE2C3F-9537-4519-836C-FAA21CD9B2B7</key>
-	<value>New Mag Text</value>
-	<disableFlattening>false</disableFlattening>
-<component id="45BE2C3F-9537-4519-836C-FAA21CD9B2B7">
+    </item>
+    <item inline="true">
+      <key>45BE2C3F-9537-4519-836C-FAA21CD9B2B7</key>
+      <value>New Mag Text</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="45BE2C3F-9537-4519-836C-FAA21CD9B2B7">
         <content-type>/component/magtext</content-type>
         <display-template>/templates/web/components/mag-text.ftl</display-template>
         <no-template-required/>
@@ -78,10 +84,12 @@
         <createdDate>2023-11-15T00:25:53.006Z</createdDate>
         <lastModifiedDate>2023-11-15T04:54:01.540Z</lastModifiedDate>
       </component>
-	</item>	<item inline="true">	<key>8605F069-69A5-47B2-8379-3603A9F7CE7B</key>
-	<value>New Mag Text</value>
-	<disableFlattening>false</disableFlattening>
-<component id="8605F069-69A5-47B2-8379-3603A9F7CE7B">
+    </item>
+    <item inline="true">
+      <key>8605F069-69A5-47B2-8379-3603A9F7CE7B</key>
+      <value>New Mag Text</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="8605F069-69A5-47B2-8379-3603A9F7CE7B">
         <content-type>/component/magtext</content-type>
         <display-template>/templates/web/components/mag-text.ftl</display-template>
         <no-template-required/>
@@ -98,10 +106,12 @@
         <createdDate>2023-11-15T00:26:59.923Z</createdDate>
         <lastModifiedDate>2023-11-15T04:54:18.636Z</lastModifiedDate>
       </component>
-	</item>	<item inline="true">	<key>fa8e1df6-2a08-4ce1-8224-284f326d3cfd</key>
-	<value>New Mag Event</value>
-	<disableFlattening>false</disableFlattening>
-<component id="fa8e1df6-2a08-4ce1-8224-284f326d3cfd">
+    </item>
+    <item inline="true">
+      <key>fa8e1df6-2a08-4ce1-8224-284f326d3cfd</key>
+      <value>New Mag Event</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="fa8e1df6-2a08-4ce1-8224-284f326d3cfd">
         <content-type>/component/magevent</content-type>
         <display-template>/templates/web/components/mag-event.ftl</display-template>
         <no-template-required/>
@@ -109,7 +119,7 @@
         <internal-name>New Mag Event</internal-name>
         <file-name>fa8e1df6-2a08-4ce1-8224-284f326d3cfd.xml</file-name>
         <createdDate_dt>2023-11-16T08:21:57.988Z</createdDate_dt>
-        <lastModifiedDate_dt>2023-12-01T05:55:11.969Z</lastModifiedDate_dt>
+        <lastModifiedDate_dt>2023-12-04T08:41:43.310Z</lastModifiedDate_dt>
         <objectId>fa8e1df6-2a08-4ce1-8224-284f326d3cfd</objectId>
         <sectionId_s/>
         <title_s no-default="true"/>
@@ -118,13 +128,12 @@
         <image_s/>
         <event_o item-list="true">
           <item>
-            <icon_s/>
-            <content_html>Tong Chong Street Market Beer Festival 2023</content_html>
-          </item>
-
-          <item>
             <icon_s>fas fa-calendar-alt</icon_s>
             <content_html>12 Oct 6pm-10pm&lt;br&gt;13 Oct 6pm-10pm&lt;br&gt;14 Oct 12nn-4pm; 6pm-10pm</content_html>
+          </item>
+          <item>
+            <icon_s/>
+            <content_html>Tong Chong Street Market Beer Festival 2023</content_html>
           </item>
 
           <item>
@@ -140,24 +149,33 @@
         <createdDate>2023-11-16T08:21:57.988Z</createdDate>
         <lastModifiedDate>2023-11-16T08:35:57.808Z</lastModifiedDate>
       </component>
-	</item></pageSections_o>
-	<segments_o>	<item>	<key>guy</key>
-	<value_smv>Guy</value_smv>
-	</item>	<item>	<key>gal</key>
-	<value_smv>Gal</value_smv>
-	</item></segments_o>
-	<summary_t>By focusing on how best to enhance our lives every day of the week, Taikoo Place is ensuring that every hour here is happy hour!</summary_t>
-	<image_s>/static-assets/images/the-mag/themag2023/november-2023/tpinsider/_q7a1407-t.jpeg</image_s>
-	<createdDate>2023-11-14T01:31:05.921Z</createdDate>
-	<createdDate_dt>2023-11-14T01:31:05.921Z</createdDate_dt>
-	<lastModifiedDate>2023-12-01T06:46:40.113Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-12-01T06:46:40.113Z</lastModifiedDate_dt>
-	<date_dt>2023-11-08T16:00:00.000Z</date_dt>
-	<date_dt_tz>Asia/Hong_Kong</date_dt_tz>
-	<categories_o>	<item>	<key>talking-points</key>
-	<value_smv>Talking Points</value_smv>
-	</item></categories_o>
-	<localeCode_s>en</localeCode_s>
-	<sourceLocaleCode_s>en</sourceLocaleCode_s>
-	<localeSourceId_s>32e96d8d-d9b4-e03e-726f-fe35125652f4</localeSourceId_s>
+    </item>
+  </pageSections_o>
+  <segments_o>
+    <item>
+      <key>guy</key>
+      <value_smv>Guy</value_smv>
+    </item>
+    <item>
+      <key>gal</key>
+      <value_smv>Gal</value_smv>
+    </item>
+  </segments_o>
+  <summary_t>By focusing on how best to enhance our lives every day of the week, Taikoo Place is ensuring that every hour here is happy hour!</summary_t>
+  <image_s>/static-assets/images/the-mag/themag2023/november-2023/tpinsider/_q7a1407-t.jpeg</image_s>
+  <createdDate>2023-11-14T01:31:05.921Z</createdDate>
+  <createdDate_dt>2023-11-14T01:31:05.921Z</createdDate_dt>
+  <lastModifiedDate>2023-12-01T06:46:40.113Z</lastModifiedDate>
+  <lastModifiedDate_dt>2023-12-04T08:41:43.311Z</lastModifiedDate_dt>
+  <date_dt>2023-11-08T16:00:00.000Z</date_dt>
+  <date_dt_tz>Asia/Hong_Kong</date_dt_tz>
+  <categories_o>
+    <item>
+      <key>talking-points</key>
+      <value_smv>Talking Points</value_smv>
+    </item>
+  </categories_o>
+  <localeCode_s>en</localeCode_s>
+  <sourceLocaleCode_s>en</sourceLocaleCode_s>
+  <localeSourceId_s>32e96d8d-d9b4-e03e-726f-fe35125652f4</localeSourceId_s>
 </page>
