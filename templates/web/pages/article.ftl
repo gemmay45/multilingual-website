@@ -33,7 +33,7 @@
           </@crafter.div>
           
           <@crafter.h1 $field="subject_t">
-            ${contentModel.subject_t?""}
+            ${contentModel.subject_t!""}
           </@crafter.h1>
 		</div>
 
