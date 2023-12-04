@@ -52,6 +52,10 @@
 					<#attempt>
 						<#assign myContentItem =  siteItemService.getSiteItem(item.key) />
 						xxxx
+					sss
+					${item.key}
+					${myContentItem.storeUrl}
+					yyy
 					<#recover>
 					</#attempt>
 					
@@ -59,10 +63,7 @@
 					</#if>
 					-->
 					
-					sss
-					${item.key}
-					${myContentItem.storeUrl}
-					yyy
+
 					
 					<#--
 					<div class="item col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10 wow fadeInUp" data-wow-delay="0.6s">
