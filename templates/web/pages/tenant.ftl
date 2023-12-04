@@ -140,7 +140,8 @@
                             <h4>Recommended</h4>
                             
                             <#list recTenants as recTenant>
-                                <#if recTenant.disabled == false>
+                            ${recTenant.disabled}
+                                <#--<#if recTenant.disabled == false>-->
                                 <@crafter.article $model=recTenant>
                                     <@crafter.a $model=recTenant href="${recTenant.url}">
                                         <@crafter.img
@@ -154,7 +155,7 @@
                                         <@crafter.span $model=recTenant>${recTenant.tagline}</@crafter.span><br/>
                                     </@crafter.a>
                                 </@crafter.article>
-                                </#if>
+                                <#--</#if>-->
                             </#list>
                         </#if>
                         
