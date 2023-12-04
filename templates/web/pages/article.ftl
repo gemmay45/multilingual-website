@@ -44,9 +44,9 @@
                <#list contentModel.pageSections_o.item as section>
                     <#assign sectionItem = siteItemService.getSiteItem(section.key) />
  
-                    ${sectionItem.storeUrl}<br/>
+                    ${sectionItem}<br/>
     
-                    <#if sectionItem.storeUrl??>
+                    <#if sectionItem??>
                     xyz
                         <@crafter.renderComponent $model=sectionItem/>
                     </#if>
