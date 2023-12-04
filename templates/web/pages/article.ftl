@@ -42,7 +42,9 @@
 		    
 		    <#if contentModel.pageSections_o?? && contentModel.pageSections_o.item??>
                <#list contentModel.pageSections_o.item as item>
-xxx
+                    <#assign sectionItem = item.component />
+ xxx
+
                 </#list>
             </#if>
             
