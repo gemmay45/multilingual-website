@@ -42,9 +42,17 @@
 		    
 		    <#if contentModel.pageSections_o?? && contentModel.pageSections_o.item??>
                <#list contentModel.pageSections_o.item as item>
-                    <#assign sectionItem = item.component />
+                    <#if item.component??>
+                        <#assign sectionItem = item.component />
+                    </#if>
  xxx
-
+                    <#--${sectionItem??}<br/>-->
+    
+                    <#--<#if sectionItem.storeUrl??>
+                    xyz
+                        <@crafter.renderComponent $model=sectionItem/>
+                    </#if>-->
+                    
                 </#list>
             </#if>
             
