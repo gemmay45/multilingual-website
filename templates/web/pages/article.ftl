@@ -48,7 +48,7 @@
 					</#if>
 					
 					sss
-					${myContentItem.sectionId_s}
+					${myContentItem.caption_s}
 					
 					<#--
 					<div class="item col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10 wow fadeInUp" data-wow-delay="0.6s">
