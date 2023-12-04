@@ -41,6 +41,7 @@
 		    <#--<@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>-->
 		    
 		    <#if contentModel.pageSections_o??>
+		    xxxx
 			    <#assign cmp = siteItemService.getSiteItem(contentModel.pageSections_o.item.key) />
                 ${cmp}
                 <#if cmp??>
