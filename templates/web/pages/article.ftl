@@ -44,8 +44,12 @@
                <#list contentModel.pageSections_o.item as item>
                     <#if item.component??>
                         <#assign sectionItem = item.component />
+                         xxx
+                    <#else>
+                        <#assign sectionItem =  siteItemService.getSiteItem(item.key) />
+                        yyy
                     </#if>
- xxx
+
                     <#--${sectionItem??}<br/>-->
     
                     <#--<#if sectionItem.storeUrl??>
