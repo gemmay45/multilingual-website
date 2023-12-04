@@ -39,17 +39,21 @@
 
 		<div class="inner the-mag-detail__content the-mag-detail__main-content">
 		    <#--
+		    Note: - renderComponentCollection cannot handle exception when item in node selector no longer available 
 		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
 		    -->
+		    
+		    <#assign itemIndex = 0 />
 		    
             <#list contentModel.pageSections_o.item as item>
                 <#assign myContentItem = siteItemService.getSiteItem(item.key)!"" />
                 
                 <#if myContentItem != "">
-                    <@renderComponent componentPath = myContentItem.storeUrl />
+                    <#assign itemIndex = itemIndex + 1 />
+                    <@renderComponent componentPath = myContentItem.storeUrl $index="${itemIndex}" />
                 </#if>
-                
 			</#list>
+
 
             <ul class="the-mag-detail__content__info">
                 <#setting time_zone = siteConfig.getString("timeZone")>
