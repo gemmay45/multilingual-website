@@ -86,28 +86,6 @@
       </component>
     </item>
     <item inline="true">
-      <key>8605F069-69A5-47B2-8379-3603A9F7CE7B</key>
-      <value>New Mag Text</value>
-      <disableFlattening>false</disableFlattening>
-      <component id="8605F069-69A5-47B2-8379-3603A9F7CE7B">
-        <content-type>/component/magtext</content-type>
-        <display-template>/templates/web/components/mag-text.ftl</display-template>
-        <no-template-required/>
-        <merge-strategy>inherit-levels</merge-strategy>
-        <internal-name>New Mag Text</internal-name>
-        <file-name>8605F069-69A5-47B2-8379-3603A9F7CE7B.xml</file-name>
-        <createdDate_dt>2023-11-15T00:26:59.923Z</createdDate_dt>
-        <lastModifiedDate_dt>2023-11-15T04:54:18.636Z</lastModifiedDate_dt>
-        <objectId>8605F069-69A5-47B2-8379-3603A9F7CE7B</objectId>
-        <sectionId_s/>
-        <title_s/>
-        <content_html>&lt;p&gt;With a focus on sustainability, this year&amp;rsquo;s festival will spotlight environmentally conscious practices, with the event going keg-only to avoid packaging wastage. It also celebrates local brewers, working with the Craft Beer Association of Hong Kong to promote home-grown beer brands. Meanwhile, an exclusive partnership with local upcycling start-up BREER, who collect surplus bread for use in their brews, has resulted in a festival-exclusive, green-hued TCSM x BREER beer that&amp;rsquo;s infused with pandan grown at our very own urban rooftop farm, The Loop at One Island East. With free-flow tickets at just HK$380 (and an exclusive tenant-only price of just $320 via Taikoo Place app), plenty of local foodie favourites such as Lobster Boss and Wingman providing delicious bites on-site, and even a custom-built adult playground, this is an unmissable event for any craft beer connoisseur.&lt;/p&gt;</content_html>
-        <folder-name/>
-        <createdDate>2023-11-15T00:26:59.923Z</createdDate>
-        <lastModifiedDate>2023-11-15T04:54:18.636Z</lastModifiedDate>
-      </component>
-    </item>
-    <item inline="true">
       <key>fa8e1df6-2a08-4ce1-8224-284f326d3cfd</key>
       <value>New Mag Event</value>
       <disableFlattening>false</disableFlattening>
@@ -149,6 +127,28 @@
         <lastModifiedDate>2023-11-16T08:35:57.808Z</lastModifiedDate>
       </component>
     </item>
+    <item inline="true">
+      <key>8605F069-69A5-47B2-8379-3603A9F7CE7B</key>
+      <value>New Mag Text</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="8605F069-69A5-47B2-8379-3603A9F7CE7B">
+        <content-type>/component/magtext</content-type>
+        <display-template>/templates/web/components/mag-text.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Mag Text</internal-name>
+        <file-name>8605F069-69A5-47B2-8379-3603A9F7CE7B.xml</file-name>
+        <createdDate_dt>2023-11-15T00:26:59.923Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-15T04:54:18.636Z</lastModifiedDate_dt>
+        <objectId>8605F069-69A5-47B2-8379-3603A9F7CE7B</objectId>
+        <sectionId_s/>
+        <title_s/>
+        <content_html>&lt;p&gt;With a focus on sustainability, this year&amp;rsquo;s festival will spotlight environmentally conscious practices, with the event going keg-only to avoid packaging wastage. It also celebrates local brewers, working with the Craft Beer Association of Hong Kong to promote home-grown beer brands. Meanwhile, an exclusive partnership with local upcycling start-up BREER, who collect surplus bread for use in their brews, has resulted in a festival-exclusive, green-hued TCSM x BREER beer that&amp;rsquo;s infused with pandan grown at our very own urban rooftop farm, The Loop at One Island East. With free-flow tickets at just HK$380 (and an exclusive tenant-only price of just $320 via Taikoo Place app), plenty of local foodie favourites such as Lobster Boss and Wingman providing delicious bites on-site, and even a custom-built adult playground, this is an unmissable event for any craft beer connoisseur.&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-15T00:26:59.923Z</createdDate>
+        <lastModifiedDate>2023-11-15T04:54:18.636Z</lastModifiedDate>
+      </component>
+    </item>
   </pageSections_o>
   <segments_o>
     <item>
@@ -165,7 +165,7 @@
   <createdDate>2023-11-14T01:31:05.921Z</createdDate>
   <createdDate_dt>2023-11-14T01:31:05.921Z</createdDate_dt>
   <lastModifiedDate>2023-12-01T06:46:40.113Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-12-04T08:42:08.967Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-12-04T08:42:48.329Z</lastModifiedDate_dt>
   <date_dt>2023-11-08T16:00:00.000Z</date_dt>
   <date_dt_tz>Asia/Hong_Kong</date_dt_tz>
   <categories_o>
