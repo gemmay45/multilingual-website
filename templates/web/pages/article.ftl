@@ -51,7 +51,7 @@
                 <#if myContentItem != "">
                     <#assign itemIndex = itemIndex + 1 />
                     <@crafter.div $index=itemIndex>
-                        <@renderComponent componentPath = myContentItem.storeUrl $field="pageSections_o" />
+                        <@renderComponent componentPath = myContentItem.storeUrl />
                     </@crafter.div>
                 </#if>
 			</#list>
