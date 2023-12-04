@@ -52,7 +52,7 @@
                     <#assign itemIndex = itemIndex + 1 />
                     <@crafter.div $index=itemIndex>
                         <@renderComponent componentPath = myContentItem.storeUrl />
-                    </<@crafter.div>
+                    </@crafter.div>
                 </#if>
 			</#list>
 
