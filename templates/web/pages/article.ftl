@@ -45,6 +45,8 @@
 		    
 		    <#--<#assign count2 = getAvailableItems(contentModel.pageSections_o) />-->
 
+<@crafter.renderComponentCollection $field="availableItems" $model=contentModel/>
+
             <#list availableItems as item>
                 xxx<br/>
             </#list>
