@@ -45,7 +45,7 @@
 
             XXX
 		    <#assign aItems = Utils.getAvailableItems(contentModel.pageSections_o.item) />
-		    ${aItems.storeUrl}
+		    ${aItems[0].storeUrl}
 		    
 		    yyyy
 		    
