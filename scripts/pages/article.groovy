@@ -1,8 +1,7 @@
 import org.craftercms.sites.editorial.Utils
 
 def count = 0
-def availableItems
-def item = []
+def availableItems.item = []
 
     def dirs = contentModel.pageSections_o.item
     dirs.each { dir ->
