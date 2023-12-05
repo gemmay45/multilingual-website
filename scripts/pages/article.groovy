@@ -17,8 +17,8 @@ if(siteDir) {*/
                    topNavItems.put(dirName, dirDisplayName)*/
             }
    }
-/*}*/
-templateModel.topNavItems = topNavItems;
+/*}
+templateModel.topNavItems = topNavItems;*/
 templateModel.count = count;
 templateModel.dirName = dirName;
 templateModel.availableItems = availableItems;
