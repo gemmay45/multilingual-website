@@ -2,10 +2,10 @@ package org.craftercms.sites.editorial
 
 class Utils {
 
-    Utils() {
+    private Utils() {
     }
 
-    def getAvailableItems(sourceItems, siteItemService) {
+    static def getAvailableItems(sourceItems, siteItemService) {
         def count = 0
         def availableItems
         def items = []
