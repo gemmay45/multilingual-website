@@ -25,12 +25,12 @@ templateModel.count = count;
 templateModel.availableItems = items;
 */
 
-def getAvailableItems(items) {
+def getAvailableItems(sourceItems) {
         def count = 0
         def availableItems
         def items = []
         
-            def dirs = items
+            def dirs = sourceItems
             dirs.each { dir ->
                 def dirItem
                 
