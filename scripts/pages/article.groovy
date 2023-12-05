@@ -4,7 +4,7 @@ def count = 0
 def dirName = ""
 def topNavItems = [:]
 def availableItems = []
-def siteDir = siteItemService.getSiteTree("/site/components/en/the-mag/mag-with-shared-cmp", 1)
+/*def siteDir = siteItemService.getSiteTree("/site/components/en/the-mag/mag-with-shared-cmp", 1)*/
 if(siteDir) {
     def dirs = siteDir.childItems
     dirs.each { dir ->
