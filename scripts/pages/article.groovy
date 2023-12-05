@@ -3,7 +3,7 @@ import org.craftercms.sites.editorial.Utils
 def count = 0
 def dirName = ""
 def topNavItems = [:]
-def siteDir = siteItemService.getSiteTree("/site/components/en/the-mag", 1)
+def siteDir = siteItemService.getSiteTree("/site/website/en", 1)
 if(siteDir) {
     def dirs = siteDir.childItems
     dirs.each { dir ->
