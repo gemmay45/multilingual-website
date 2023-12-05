@@ -18,4 +18,4 @@ if(siteDir) {
 }
 templateModel.topNavItems = topNavItems;
 templateModel.count = count;
-templateModel.dirName = dirName;
+templateModel.dirName = siteDir;
