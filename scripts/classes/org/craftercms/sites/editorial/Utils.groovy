@@ -25,7 +25,7 @@ static def getAvailableItems(sourceItems) {
                     items << dirItem
                 }
             }
-        return count;
+        return 10;
   }
   
   /*
