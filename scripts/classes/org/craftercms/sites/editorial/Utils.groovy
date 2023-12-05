@@ -10,7 +10,7 @@ class Utils {
  
     items.each { item ->
 
-      def availableItem = siteItemService.getSiteItem(item.key.text)
+      def availableItem = siteItemService.getSiteItem(item.key.text)!""
 
       if (availableItem) {
         availableItems << availableItem
