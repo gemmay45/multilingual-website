@@ -10,7 +10,7 @@ class Utils {
         def availableItems
         def items = []
         
-        def dirs = sourceItems
+        def dirs = sourceItems.item
         dirs.each { dir ->
             def dirItem
             
