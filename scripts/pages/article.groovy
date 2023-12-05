@@ -6,11 +6,11 @@ def topNavItems = [:]
 def availableItems = []
 /*def siteDir = siteItemService.getSiteTree("/site/components/en/the-mag/mag-with-shared-cmp", 1)*/
 if(siteDir) {
-    def dirs = siteDir.childItems
+    def dirs = contentModel.pageSections_o.item
     dirs.each { dir ->
     count=count+1
             dirName = dir.getStoreName()
-            def dirItem = siteItemService.getSiteItem("/site/components/en/the-mag/${dirName}/2f7299fc-d17d-4de7-b99b-e019a228d25f.xml")
+            def dirItem = siteItemService.getSiteItem(dir.key)
             if (dirItem != null) {
                 availableItems << dirItem
                 /*def dirDisplayName = dirItem.queryValue('internal-name')
