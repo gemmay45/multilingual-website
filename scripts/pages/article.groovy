@@ -30,7 +30,8 @@ def getAvailableItems(sourceItems) {
         def availableItems
         def items = []
         
-            def dirs = sourceItems
+        /*
+        def dirs = sourceItems
             dirs.each { dir ->
                 def dirItem
                 
@@ -45,7 +46,7 @@ def getAvailableItems(sourceItems) {
                     items << dirItem
                 }
             }
-        
+        */
         return count;
   }
 
