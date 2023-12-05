@@ -45,7 +45,7 @@
 		    
 		    <#assign count = getAvailableItems(contentModel.pageSections_o.item) />
 
-		    ${count}
+		    ${count!""}
 		    
 		    <#--
 		    		    ${items}
