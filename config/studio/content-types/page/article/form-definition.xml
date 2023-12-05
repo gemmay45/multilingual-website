@@ -964,7 +964,7 @@
 						</property>
 						<property>
 							<name>baseBrowsePath</name>
-							<value>/site/components</value>
+							<value>/site/components/{parentPath[0]}/the-mag</value>
 								<type>string</type>
 						</property>
 						<property>
