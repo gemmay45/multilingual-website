@@ -1,7 +1,7 @@
 import org.craftercms.sites.editorial.Utils
 
 def topNavItems = [:]
-def siteDir = siteItemService.getSiteTree("/site/components/{parentPath[0]}/the-mag", 2)
+def siteDir = siteItemService.getSiteTree("/site/components/the-mag/mag-with-shared-cmp", 1)
 if(siteDir) {
     def dirs = siteDir.childItems
     dirs.each { dir ->
