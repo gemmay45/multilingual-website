@@ -25,6 +25,6 @@ class Utils {
                 items << dirItem
             }
         }
-        return count;
+        return items;
     }
 }
