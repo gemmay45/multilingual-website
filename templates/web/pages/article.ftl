@@ -45,8 +45,12 @@
 		    
 		    <#--<#assign count2 = getAvailableItems(contentModel.pageSections_o) />-->
 
-		    ${items!""}
-		    <#--${count2}-->
+            ${items}
+            
+		    <#--
+		    ${count!""}
+		    
+		    ${count2}-->
 		    
 		    <#--
 		    		    ${items}
