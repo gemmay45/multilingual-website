@@ -44,9 +44,10 @@
 		    -->
 		    
 		    <#assign items = Utils.getAvailableItems(contentModel.pageSections_o.item) />
-		    ${items}
+
 		    
 		    <#--
+		    		    ${items}
 		    <@crafter.renderComponentCollection $field="pageSections_o"  $model=contentModel/>
 		    
 		    ${contentModel.pageSections_o}
