@@ -45,6 +45,7 @@
 		    
 		    <@crafter.renderComponentCollection $field="availableItems"  $model=contentModel/>
 		    
+		    ${contentModel.pageSections_o}
 		    
 		    <#--${availableItems}-->
 		    ${count}
