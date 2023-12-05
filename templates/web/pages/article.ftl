@@ -47,7 +47,7 @@
 
             <#list availableItems as item>
                 xxx<br/>
-                ${item.storeUrl}
+                ${item}
             </#list>
             
 		    <#--
