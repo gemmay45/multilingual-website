@@ -17,7 +17,7 @@ class Utils {
             if (dir.component) {
     			dirItem = dir.component
             } else {
-    			dirItem = siteItemService.getSiteItem(dir.key.text)
+    			/*dirItem = siteItemService.getSiteItem(dir.key.text)*/
             }
         
             if (dirItem != null) {
