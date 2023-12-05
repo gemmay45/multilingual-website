@@ -47,6 +47,8 @@
 		    <#assign aItems = Utils.getAvailableItems(contentModel.pageSections_o.item) />
 		    ${aItems}
 		    
+		    yyyy
+		    
 		    <#--
 		    <#assign itemIndex = 0 />
 		    
