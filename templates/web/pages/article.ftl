@@ -43,7 +43,8 @@
 		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
 		    -->
 		    
-		    ${count}
+		    <#assign items = getAvailableItems(contentModel.pageSections_o)
+		    ${items.size()}
 		    
 		    <#--
 		    <@crafter.renderComponentCollection $field="pageSections_o"  $model=contentModel/>
