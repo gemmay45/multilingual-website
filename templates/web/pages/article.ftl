@@ -43,13 +43,12 @@
 		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
 		    -->
 		    
-		    <@crafter.renderComponentCollection $collection-$templateModel[availableItems] />
-		    
 		    <#--<#assign count2 = getAvailableItems(contentModel.pageSections_o) />-->
 
             <#list availableItems as item>
                 xxx<br/>
                 ${item.storeUrl}
+                <@renderComponent componentPath = item.storeUrl />
             </#list>
             
 		    <#--
