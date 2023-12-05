@@ -11,20 +11,20 @@ class Utils {
         def items = []
         
         def dirs = sourceItems
-            dirs.each { dir ->
-                def dirItem
-                
-                if (dir.component) {
-        			dirItem = dir.component
-                } else {
-        				dirItem = siteItemService.getSiteItem(dir.key.text)
-                }
+        dirs.each { dir ->
+            def dirItem
             
-                if (dirItem != null) {
-                    count=count+1
-                    items << dirItem
-                }
+            if (dir.component) {
+    			dirItem = dir.component
+            } else {
+    				dirItem = siteItemService.getSiteItem(dir.key.text)
             }
+        
+            if (dirItem != null) {
+                count=count+1
+                items << dirItem
+            }
+        }
         return count;
     }
 }
