@@ -6,7 +6,7 @@ class Utils {
   }
 
   static def getAvailableItems(items) {
-    def availableItems = []
+    def availableItems = ["xyz"]
  
     items.each { item ->
 
