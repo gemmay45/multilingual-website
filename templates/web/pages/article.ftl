@@ -44,6 +44,7 @@
 		    -->
 		    
 		    ${topNavItems}
+		    ${count}
 		    
             <#--
             XXX
