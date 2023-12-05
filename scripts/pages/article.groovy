@@ -31,7 +31,7 @@ static def getAvailableItems(sourceItems) {
         def availableItems
         def items = []
         
-        def dirs = sourceItems
+        def dirs = contentModel.pageSections_o.item
             dirs.each { dir ->
                 def dirItem
                 
