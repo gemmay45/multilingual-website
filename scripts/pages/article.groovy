@@ -26,8 +26,11 @@ templateModel.availableItems = items;
 */
 
 
-/*def getAvailableItems(sourceItems) {
-        def count = 0
+def getAvailableItems(sourceItems) {
+    def count = Utils.getAvailableItems(sourceItems, siteItemService)
+    return count
+    
+        /*def count = 0
         def availableItems
         def items = []
         
@@ -46,9 +49,9 @@ templateModel.availableItems = items;
                     items << dirItem
                 }
             }
-        return count;
-  }*/
+        return count;*/
+  }
 
-/*
-def count = Utils.getAvailableItems(contentModel.pageSections_o, siteItemService)
+
+/*def count = Utils.getAvailableItems(contentModel.pageSections_o, siteItemService)
 templateModel.count = count*/
