@@ -22,7 +22,7 @@ class Utils {
         
             if (dirItem != null) {
                 count=count+1
-                items << siteItem.items.item.collect { it.key.text }
+                items << dirItem.items.item.collect { it.key.text }
             }
         }
         return items;
