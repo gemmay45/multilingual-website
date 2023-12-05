@@ -1,6 +1,5 @@
 import org.craftercms.sites.editorial.Utils
 
-
 def topNavItems = [:]
 def siteDir = siteItemService.getSiteTree("/site/website", 2)
 if(siteDir) {
