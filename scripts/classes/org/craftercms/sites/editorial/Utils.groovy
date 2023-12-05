@@ -5,7 +5,7 @@ class Utils {
     private Utils() {
     }
 
-static def getAvailableItems(sourceItems) {
+def getAvailableItems(sourceItems) {
         def count = 0
         def availableItems
         def items = []
@@ -20,11 +20,10 @@ static def getAvailableItems(sourceItems) {
         				dirItem = siteItemService.getSiteItem(dir.key.text)
                 }
             
-                /*
                 if (dirItem != null) {
                     count=count+1
                     items << dirItem
-                }*/
+                }
             }
         return count;
   }
