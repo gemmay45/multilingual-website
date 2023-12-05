@@ -1,6 +1,6 @@
 import org.craftercms.sites.editorial.Utils
 
-/*
+
 def count = 0
 def availableItems
 def items = []
@@ -23,9 +23,10 @@ def items = []
 
 templateModel.count = count;
 templateModel.availableItems = items;
-*/
 
 
+
+/*
 static def getAvailableItems(sourceItems) {
         def count = 0
         def availableItems
@@ -52,3 +53,4 @@ static def getAvailableItems(sourceItems) {
 
 def count = getAvailableItems(contentModel.pageSections_o.item)
 templateModel.count = count
+*/
