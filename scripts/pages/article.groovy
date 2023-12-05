@@ -50,4 +50,5 @@ def getAvailableItems(sourceItems) {
   }
 */
 
-templateModel.count = Utils.getAvailableItems(contentModel.pageSections_o.item)
+def count = Utils.getAvailableItems(contentModel.pageSections_o.item)
+templateModel.count = count
