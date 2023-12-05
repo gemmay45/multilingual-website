@@ -45,7 +45,7 @@
 		    
 		    <#--<#assign count2 = getAvailableItems(contentModel.pageSections_o) />-->
 
-            ${items}
+            ${items[0].storeUrl}
             
 		    <#--
 		    ${count!""}
