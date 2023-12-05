@@ -13,4 +13,4 @@ if(siteDir) {
             }
    }
 }
-model.topNavItems = topNavItems;
+templateModel.topNavItems = topNavItems;
