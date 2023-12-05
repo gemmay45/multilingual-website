@@ -40,12 +40,12 @@
 		<div class="inner the-mag-detail__content the-mag-detail__main-content">
 		    <#--
 		    Note: - renderComponentCollection cannot handle exception when item in node selector no longer available 
-		    -->
 		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
-
+		    -->
+		    
             XXX
 		    <#assign aItems = Utils.getAvailableItems(contentModel.pageSections_o.item) />
-		    ${aItems[0].storeUrl}
+		    ${aItems}
 		    
 		    yyyy
 		    
