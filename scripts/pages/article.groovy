@@ -50,5 +50,5 @@ def getAvailableItems(sourceItems) {
   }
 
 
-def count = getAvailableItems(contentModel.pageSections_o.item)
-templateModel.count = count
+/*def count = getAvailableItems(contentModel.pageSections_o.item)
+templateModel.count = count*/
