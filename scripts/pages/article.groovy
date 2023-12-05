@@ -49,5 +49,6 @@ templateModel.availableItems = items;
         return count;
   }*/
 
+/*
 def count = Utils.getAvailableItems(contentModel.pageSections_o, siteItemService)
-templateModel.count = count
+templateModel.count = count*/
