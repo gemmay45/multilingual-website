@@ -27,8 +27,6 @@ templateModel.availableItems = items;
 
 
 def getAvailableItems(sourceItems) {
-    def count = Utils.getAvailableItems(sourceItems, siteItemService)
-    return count
     
         /*def count = 0
         def availableItems
@@ -53,5 +51,5 @@ def getAvailableItems(sourceItems) {
   }
 
 
-/*def count = Utils.getAvailableItems(contentModel.pageSections_o, siteItemService)
-templateModel.count = count*/
+def count = Utils.getAvailableItems(contentModel.pageSections_o, siteItemService)
+templateModel.count = count
