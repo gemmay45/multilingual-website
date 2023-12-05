@@ -45,7 +45,7 @@
 		    
 		    <#--<#assign count2 = getAvailableItems(contentModel.pageSections_o) />-->
 
-            <#list $field=items as item>
+            <#list availableItems as item>
                 xxx<br/>
             </#list>
             
