@@ -12,7 +12,7 @@ class Utils {
 
       def availableItem = siteItemService.getSiteItem(item.key.text)
 
-      if (availableItem) {
+      if (availableItem != null) {
         availableItems << availableItem
       }
     }
