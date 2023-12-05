@@ -1,10 +1,12 @@
 import org.craftercms.sites.editorial.Utils
 
+dev count = 0
 def topNavItems = [:]
 def siteDir = siteItemService.getSiteTree("/site/components/en/the-mag", 2)
 if(siteDir) {
     def dirs = siteDir.childItems
     dirs.each { dir ->
+    count=count+1
             def dirName = dir.getStoreName()
             def dirItem = siteItemService.getSiteItem("/site/components/en/the-mag/${dirName}/2f7299fc-d17d-4de7-b99b-e019a228d25f.xml")
             if (dirItem != null) {
@@ -14,3 +16,4 @@ if(siteDir) {
    }
 }
 templateModel.topNavItems = topNavItems;
+templateModel.count = count;
