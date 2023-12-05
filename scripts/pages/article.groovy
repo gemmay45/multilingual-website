@@ -21,4 +21,4 @@ if(siteDir) {
 templateModel.topNavItems = topNavItems;
 templateModel.count = count;
 templateModel.dirName = dirName;
-templateModel.availableItems = availableItems
+templateModel.availableItems = availableItems;
