@@ -45,6 +45,7 @@
 		    
 		    <#--<#assign items = Utils.getAvailableItems(contentModel.pageSections_o.item) />-->
 
+		    ${count}
 		    
 		    <#--
 		    		    ${items}
