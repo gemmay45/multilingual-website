@@ -25,8 +25,8 @@ templateModel.count = count;
 templateModel.availableItems = items;
 */
 
-/*
-def getAvailableItems(sourceItems) {
+
+static def getAvailableItems(sourceItems) {
         def count = 0
         def availableItems
         def items = []
@@ -48,7 +48,7 @@ def getAvailableItems(sourceItems) {
             }
         return count;
   }
-*/
 
-def count = Utils.getAvailableItems(contentModel.pageSections_o.item)
+
+def count = getAvailableItems(contentModel.pageSections_o.item)
 templateModel.count = count
