@@ -43,7 +43,9 @@
 		    -->
 		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
 
+            XXX
 		    <#assign aItems = getAvailableItems(contentModel.pageSections_o.item) />
+		    ${aItems}
 		    
 		    <#--
 		    <#assign itemIndex = 0 />
