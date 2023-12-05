@@ -50,5 +50,5 @@ def getAvailableItems(sourceItems) {
   }
 
 
-def items = Utils.getAvailableItems(contentModel.pageSections_o, siteItemService)
-templateModel.items = items
+def availableItems = Utils.getAvailableItems(contentModel.pageSections_o, siteItemService)
+templateModel.availableItems = availableItems
