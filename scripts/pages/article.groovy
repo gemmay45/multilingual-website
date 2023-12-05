@@ -49,3 +49,5 @@ def getAvailableItems(sourceItems) {
         return count;
   }
 */
+
+templateModel.count = Utils.getAvailableItems(contentModel.pageSections_o.item)
