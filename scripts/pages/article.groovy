@@ -8,11 +8,9 @@ def availableItems.item = []
         def dirItem = siteItemService.getSiteItem(dir.key.text)
         if (dirItem != null) {
             count=count+1
-            item << dirItem
+            availableItems.item << dirItem
         }
     }
-
-availableItems.item = item
 
 templateModel.count = count;
 templateModel.availableItems = availableItems;
