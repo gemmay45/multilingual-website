@@ -14,4 +14,4 @@ def items = []
     }
 
 templateModel.count = count;
-templateModel.availableItems = items;
+templateModel.availableItems.items = items;
