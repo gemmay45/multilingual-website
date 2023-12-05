@@ -5,7 +5,7 @@ class Utils {
     private Utils() {
     }
 
-    static def getAvailableItems(sourceItems, siteItemService) {
+    private def getAvailableItems(sourceItems, siteItemService) {
         def count = 0
         def availableItems
         def items = []
