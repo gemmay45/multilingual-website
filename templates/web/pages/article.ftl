@@ -43,12 +43,15 @@
 		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
 		    -->
 		    
+		    <#--
 		    <@crafter.renderComponentCollection $field="pageSections_o"  $model=contentModel/>
 		    
 		    ${contentModel.pageSections_o}
 		    
-		    <#--${availableItems}-->
+
 		    ${count}
+		    ${availableItems}
+		    -->
 		    
             <#--
             XXX
