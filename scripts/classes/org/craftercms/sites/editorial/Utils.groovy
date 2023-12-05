@@ -20,10 +20,11 @@ def getAvailableItems(sourceItems) {
         				dirItem = siteItemService.getSiteItem(dir.key.text)
                 }
             
+                /*
                 if (dirItem != null) {
                     count=count+1
                     items << dirItem
-                }
+                }*/
             }
         return count;
   }
