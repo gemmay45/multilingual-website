@@ -43,7 +43,7 @@
 		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
 		    -->
 		    
-		    ${topNavItems}
+		    ${dirName}
 		    ${count}
 		    
             <#--
