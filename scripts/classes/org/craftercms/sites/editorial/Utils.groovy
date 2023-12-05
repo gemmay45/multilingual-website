@@ -10,7 +10,7 @@ class Utils {
         def availableItems
         def items = []
         
-            def dirs = contentModel.pageSections_o.item
+            def dirs = items
             dirs.each { dir ->
                 def dirItem
                 
