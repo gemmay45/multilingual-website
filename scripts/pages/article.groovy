@@ -26,7 +26,7 @@ templateModel.availableItems = items;
 */
 
 
-def getAvailableItems(sourceItems) {
+static def getAvailableItems(sourceItems) {
     return 10
     
         /*def count = 0
