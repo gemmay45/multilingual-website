@@ -47,7 +47,7 @@
 
             <#list availableItems as item>
                 xxx<br/>
-                ${item?index}
+                ${item[0]}
             </#list>
             
 		    <#--
