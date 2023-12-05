@@ -1,6 +1,6 @@
 import org.craftercms.sites.editorial.Utils
 
-dev count = 0
+def count = 0
 def topNavItems = [:]
 def siteDir = siteItemService.getSiteTree("/site/components/en/the-mag", 2)
 if(siteDir) {
