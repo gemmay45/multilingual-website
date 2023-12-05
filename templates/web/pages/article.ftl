@@ -45,11 +45,13 @@
 		    
 		    <#--<#assign count2 = getAvailableItems(contentModel.pageSections_o) />-->
 
+            <#--
             <#list availableItems as item>
                 xxx<br/>
                 ${item.storeUrl}
                 <@renderComponent componentPath = item.storeUrl $field=pageSections_o $model=contentModel />
             </#list>
+            -->
             
 		    <#--
 		    ${count!""}
@@ -74,7 +76,7 @@
 		    yyyy
 		    -->
 		    
-		    <#--
+		    
 		    <#assign itemIndex = 0 />
 		    
             <#list contentModel.pageSections_o.item as item>
@@ -87,7 +89,7 @@
                     </@crafter.div>
                 </#if>
 			</#list>
-            -->
+            
 
             <ul class="the-mag-detail__content__info">
                 <#setting time_zone = siteConfig.getString("timeZone")>
