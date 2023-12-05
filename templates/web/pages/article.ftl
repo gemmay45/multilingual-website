@@ -48,7 +48,7 @@
             <#list availableItems as item>
                 xxx<br/>
                 ${item.storeUrl}
-                <@renderComponent componentPath = item.storeUrl additionalModel=templateModel />
+                <@renderComponent componentPath = item.storeUrl $field=pageSections_o />
             </#list>
             
 		    <#--
