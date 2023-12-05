@@ -26,7 +26,7 @@ class Utils {
                 }
             }
         
-        return items;
+        return count;
   }
 
 }
