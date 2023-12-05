@@ -44,7 +44,7 @@
 		    -->
 		    
 		    <#assign items = getAvailableItems(contentModel.pageSections_o)
-		    ${items.size()}
+		    ${items}
 		    
 		    <#--
 		    <@crafter.renderComponentCollection $field="pageSections_o"  $model=contentModel/>
