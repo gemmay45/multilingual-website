@@ -2,7 +2,7 @@ package org.craftercms.sites.editorial
 
 class Utils {
 
-    Utils() {
+    private Utils() {
     }
 
     def getAvailableItems(sourceItems) {
