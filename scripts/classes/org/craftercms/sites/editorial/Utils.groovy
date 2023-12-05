@@ -5,17 +5,10 @@ class Utils {
   private Utils() {
   }
 
-  static def getAvailableItems(items) {
-    def availableItems = ["xyz"]
+  def getAvailableItems(items) {
+    def availableItems = []
  
-    items.each { item ->
 
-      def availableItem = siteItemService.getSiteItem(item.key.text)
-
-      if (availableItem != null) {
-        availableItems << availableItem
-      }
-    }
     return availableItems
   }
 
