@@ -78,7 +78,7 @@
 		    -->
 		    
 		    
-		    <#assign itemIndex = 0 />
+		    <#assign itemIndex = -1 />
 		    
             <#list contentModel.pageSections_o.item as item>
                 <#assign myContentItem = siteItemService.getSiteItem(item.key)!"" />
