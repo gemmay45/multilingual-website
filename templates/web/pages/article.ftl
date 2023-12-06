@@ -43,57 +43,26 @@
 		    		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
 		    -->
 
-
-		    <#--<#assign count2 = getAvailableItems(contentModel.pageSections_o) />-->
-
-            <#--
-            <#list availableItems as item>
-                xxx<br/>
-                ${item.storeUrl}
-                <@renderComponent componentPath = item.storeUrl $field=pageSections_o $model=contentModel />
-            </#list>
-            -->
-            
-		    <#--
-		    ${count!""}
-		    
-		    ${count2}-->
+            <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
 		    
 		    <#--
-		    		    ${items}
-		    <@crafter.renderComponentCollection $field="pageSections_o"  $model=contentModel/>
-		    
-		    ${contentModel.pageSections_o}
-		    
-
-		    ${count}
-		    ${availableItems}
-		    -->
-		    
-            <#--
-            XXX
-		    <#assign aItems = Utils.getAvailableItems(contentModel.pageSections_o.item) />
-		    
-		    yyyy
-		    -->
-		    
 		    <#assign itemIndex = -1 />
 		    
-                <#list contentModel.pageSections_o.item as item>
+            <#list contentModel.pageSections_o.item as item>
 
-                    <#assign myContentItem = siteItemService.getSiteItem(item.key)!"" />
-                    
-                    <#if myContentItem != "">
-                        <#assign itemIndex = itemIndex + 1 />
-                    <@crafter.div $field="pageSections_o" $model=contentModel $index=itemIndex>
-                            <#--<@renderComponent component=item additionalModel=({ 'itemIndex': itemIndex }) />-->
-                    <@renderComponent componentPath = myContentItem.storeUrl $field="pageSections_o" additionalModel=({ 'itemIndex': itemIndex }) />
+                <#assign myContentItem = siteItemService.getSiteItem(item.key)!"" />
+                
+                <#if myContentItem != "">
+                    <#assign itemIndex = itemIndex + 1 />
+                <@crafter.div $field="pageSections_o" $model=contentModel $index=itemIndex>
+                        <@renderComponent component=item additionalModel=({ 'itemIndex': itemIndex }) />
+                <@renderComponent componentPath = myContentItem.storeUrl $field="pageSections_o" additionalModel=({ 'itemIndex': itemIndex }) />
 
-                    </@crafter.div>
-                    </#if>
+                </@crafter.div>
+                </#if>
 
-    			</#list>
-
+			</#list>
+            -->
             
             <ul class="the-mag-detail__content__info">
                 <#setting time_zone = siteConfig.getString("timeZone")>
