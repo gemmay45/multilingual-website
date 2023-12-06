@@ -22,8 +22,8 @@
 	<date_dt>2023-11-08T16:00:00.000Z</date_dt>
 	<createdDate>2023-12-06T05:00:46.348Z</createdDate>
 	<createdDate_dt>2023-12-06T05:00:46.348Z</createdDate_dt>
-	<lastModifiedDate>2023-12-06T06:15:48.203Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-12-06T06:15:48.203Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-12-06T06:16:07.898Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-06T06:16:07.898Z</lastModifiedDate_dt>
 	<disabled>false</disabled>
 	<header_o item-list="true"/>
 	<left_rail_o item-list="true"/>
@@ -32,6 +32,10 @@
 	<value>Mag Banner Image</value>
 	<include>/site/components/en/the-mag/mag-with-shared-cmp/b6b0d5a1-e3be-4335-8814-6744a350d5fb.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item inline="false">	<key>/site/components/the-mag/mag-with-shared-cmp/f94e4294-e815-4e9c-b584-4bebdbf4348a.xml</key>
+	<value>New Mag Text</value>
+	<include>/site/components/the-mag/mag-with-shared-cmp/f94e4294-e815-4e9c-b584-4bebdbf4348a.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item>	<item>	<key>/site/components/en/the-mag/mag-with-shared-cmp/2f7299fc-d17d-4de7-b99b-e019a228d25f.xml</key>
 	<value>New Mag Event</value>
 	<include>/site/components/en/the-mag/mag-with-shared-cmp/2f7299fc-d17d-4de7-b99b-e019a228d25f.xml</include>
@@ -39,10 +43,6 @@
 	</item>	<item>	<key>/site/components/en/the-mag/mag-with-shared-cmp/f94e4294-e815-4e9c-b584-4bebdbf4348a.xml</key>
 	<value>New Mag Text</value>
 	<include>/site/components/en/the-mag/mag-with-shared-cmp/f94e4294-e815-4e9c-b584-4bebdbf4348a.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item inline="false">	<key>/site/components/the-mag/mag-with-shared-cmp/f94e4294-e815-4e9c-b584-4bebdbf4348a.xml</key>
-	<value>New Mag Text</value>
-	<include>/site/components/the-mag/mag-with-shared-cmp/f94e4294-e815-4e9c-b584-4bebdbf4348a.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></pageSections_o>
 	<categories_o>	<item>	<key>people</key>
