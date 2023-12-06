@@ -85,7 +85,7 @@
                 
                 <#if myContentItem != "">
                     <#assign itemIndex = itemIndex + 1 />
-                    <@renderComponent component=item additionalModel=({ 'itemIndex': itemIndex } + renderComponentArguments) />
+                    <@renderComponent component=item additionalModel=({ 'itemIndex': itemIndex }) />
                     <#--<@renderComponent componentPath = myContentItem.storeUrl />-->
                 </#if>
 			</#list>
