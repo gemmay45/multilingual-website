@@ -60,6 +60,14 @@ class SearchHelper {
         )
       )
     )
+    query.filter(q -> q
+      .match(m -> m
+          .field("localeCode_s")
+          .query(v -> v
+            .stringValue(this.locale)
+          )
+        )
+    )
 
     if (categories) {
       // Filter by categories
