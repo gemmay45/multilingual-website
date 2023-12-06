@@ -85,7 +85,7 @@
                 
                 <#if myContentItem != "">
                     <#assign itemIndex = itemIndex + 1 />
-                    <@crafter.div $field=pageSections_o>
+                    <@crafter.div $field=item>
                         <@renderComponent component=item additionalModel=({ 'itemIndex': itemIndex }) />
                         <#--<@renderComponent componentPath = myContentItem.storeUrl />-->
                     </@crafter.div>
