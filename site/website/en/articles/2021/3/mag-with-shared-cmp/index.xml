@@ -28,7 +28,7 @@
   <createdDate>2023-12-06T04:49:27.444Z</createdDate>
   <createdDate_dt>2023-12-06T04:49:27.444Z</createdDate_dt>
   <lastModifiedDate>2023-12-06T05:07:27.368Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-12-06T05:34:33.044Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-12-06T06:14:17.952Z</lastModifiedDate_dt>
   <disabled>false</disabled>
   <header_o item-list="true"/>
   <left_rail_o item-list="true"/>
@@ -48,15 +48,15 @@
     </item>
 
     <item>
-      <key>/site/components/en/the-mag/mag-with-shared-cmp/2f7299fc-d17d-4de7-b99b-e019a228d25f.xml</key>
-      <value>New Mag Event</value>
-      <include>/site/components/en/the-mag/mag-with-shared-cmp/2f7299fc-d17d-4de7-b99b-e019a228d25f.xml</include>
-      <disableFlattening>false</disableFlattening>
-    </item>
-    <item>
       <key>/site/components/en/the-mag/mag-with-shared-cmp/f94e4294-e815-4e9c-b584-4bebdbf4348a.xml</key>
       <value>New Mag Text</value>
       <include>/site/components/en/the-mag/mag-with-shared-cmp/f94e4294-e815-4e9c-b584-4bebdbf4348a.xml</include>
+      <disableFlattening>false</disableFlattening>
+    </item>
+    <item>
+      <key>/site/components/en/the-mag/mag-with-shared-cmp/2f7299fc-d17d-4de7-b99b-e019a228d25f.xml</key>
+      <value>New Mag Event</value>
+      <include>/site/components/en/the-mag/mag-with-shared-cmp/2f7299fc-d17d-4de7-b99b-e019a228d25f.xml</include>
       <disableFlattening>false</disableFlattening>
     </item>
   </pageSections_o>
