@@ -83,13 +83,13 @@
 
                     <#assign myContentItem = siteItemService.getSiteItem(item.key)!"" />
                     
+                    <@crafter.div $field="pageSections_o" $model=contentModel $index=item?index>
                     <#if myContentItem != "">
                         <#assign itemIndex = itemIndex + 1 />
-                        <@crafter.div $field="pageSections_o" $model=contentModel $index=itemIndex>
-                            <#--<@renderComponent component=item additionalModel=({ 'itemIndex': itemIndex }) />-->
-                            <@renderComponent componentPath = myContentItem.storeUrl additionalModel=({ 'itemIndex': itemIndex }) />
-                        </@crafter.div>
+                            <#--<@renderComponent component=item additionalModel=({ 'itemIndex': itemIndex }) /> additionalModel=({ 'itemIndex': itemIndex }) -->
+                            <@renderComponent componentPath = myContentItem.storeUrl />
                     </#if>
+                    </@crafter.div>
     			</#list>
 
             
