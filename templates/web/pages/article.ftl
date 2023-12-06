@@ -43,6 +43,9 @@
 		    		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
 		    -->
 
+<@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
+
+
 		    <#--<#assign count2 = getAvailableItems(contentModel.pageSections_o) />-->
 
             <#--
@@ -76,7 +79,7 @@
 		    yyyy
 		    -->
 		    
-		    
+		    <#--
 		    <#assign itemIndex = -1 />
 		    
             <#list contentModel.pageSections_o.item as item>
@@ -90,7 +93,7 @@
                     </@crafter.div>
                 </#if>
 			</#list>
-            
+            -->
 
             <ul class="the-mag-detail__content__info">
                 <#setting time_zone = siteConfig.getString("timeZone")>
