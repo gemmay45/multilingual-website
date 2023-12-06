@@ -26,7 +26,7 @@
 			<section>
         <div class="the-mag-detail__header">
 
-          <@crafter.div class="the-mag-cat" $field="categories_s">
+          <@crafter.div class="the-mag-cat" $field="categories_o">
             <#list contentModel.categories_o.item as category>
                 <@crafter.span $field="categories_o">${category.value_smv}</@crafter.span>
             </#list>
