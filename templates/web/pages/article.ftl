@@ -88,6 +88,8 @@
                         <#assign itemIndex = itemIndex + 1 />
                             <#--<@renderComponent component=item additionalModel=({ 'itemIndex': itemIndex }) /> additionalModel=({ 'itemIndex': itemIndex }) -->
                             <@renderComponent componentPath = myContentItem.storeUrl />
+                    <#else>
+                    xxx
                     </#if>
                     </@crafter.div>
     			</#list>
