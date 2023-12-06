@@ -20,6 +20,7 @@ import org.opensearch.client.opensearch._types.SortOrder
 import org.opensearch.client.opensearch._types.query_dsl.BoolQuery
 import org.opensearch.client.opensearch._types.query_dsl.Query
 import org.opensearch.client.opensearch._types.query_dsl.TextQueryType
+import org.opensearch.client.opensearch._types.analysis.Analyzer
 import org.opensearch.client.opensearch.core.SearchRequest
 import org.opensearch.client.opensearch.core.search.Highlight
 import org.apache.commons.lang3.StringUtils
@@ -36,14 +37,15 @@ class SearchHelper {
   static final String[] HIGHLIGHT_FIELDS = ["subject_t", "sections_o.item.section_html"]
   static final int DEFAULT_START = 0
   static final int DEFAULT_ROWS = 10
+  static final String MULTIPLE_VALUES_SEARCH_ANALYZER = Analyzer.Kind.Whitespace.jsonValue()
   
   def locale = "en"
 
-  OpenSearchClientWrapper elasticsearchClient
+  OpenSearchClientWrapper searchClient
   UrlTransformationService urlTransformationService
 
-  SearchHelper(OpenSearchClientWrapper elasticsearchClient, UrlTransformationService urlTransformationService, locale) {
-    this.elasticsearchClient = elasticsearchClient
+  SearchHelper(OpenSearchClientWrapper searchClient, UrlTransformationService urlTransformationService, locale) {
+    this.searchClient = searchClient
     this.urlTransformationService = urlTransformationService
     this.locale = locale
   }
@@ -127,7 +129,7 @@ class SearchHelper {
       .highlight(highlighter.build())
     )
 
-    def result = elasticsearchClient.search(request, Map)
+    def result = searchClient.search(request, Map)
 
     if (result) {
       return processUserSearchResults(result)
@@ -192,7 +194,7 @@ class SearchHelper {
       )
     )
 
-    def result = elasticsearchClient.search(request, Map)
+    def result = searchClient.search(request, Map)
 
     if (result) {
       return processArticleListingResults(result)
@@ -276,6 +278,7 @@ class SearchHelper {
         .query(v -> v
           .stringValue(values)
         )
+        .analyzer(MULTIPLE_VALUES_SEARCH_ANALYZER)
       )
     );
   }
