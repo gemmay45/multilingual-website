@@ -14,18 +14,16 @@
 	<orderDefault_f>2000.0</orderDefault_f>
 	<createdDate>2023-11-30T15:17:19.176Z</createdDate>
 	<createdDate_dt>2023-11-30T15:17:19.176Z</createdDate_dt>
-	<lastModifiedDate>2023-12-03T02:59:39.932Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-12-03T02:59:39.932Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-12-06T08:19:10.686Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-06T08:19:10.686Z</lastModifiedDate_dt>
 	<leftRail_o item-list="true"/>
 	<header_o item-list="true"/>
 	<tenantsTitle_s>Eat &amp; Drink</tenantsTitle_s>
 	<maxTenants_i>10</maxTenants_i>
 	<categories_o>	<item>	<key>drink</key>
 	<value_smv>Drink</value_smv>
-	</item>	<item>	<key>eat</key>
-	<value_smv>Eat</value_smv>
 	</item></categories_o>
-	<localeCode_s>en</localeCode_s>
+	<localeCode_s/>
 	<sourceLocaleCode_s>en</sourceLocaleCode_s>
 	<localeSourceId_s>05d9dabc-a961-4f27-d090-2726e4031f63</localeSourceId_s>
 </page>
