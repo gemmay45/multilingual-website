@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/tenant-listing</content-type>
+	<display-template>/templates/web/pages/tenant-listing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2a87</objectGroupId>
+	<objectId>2a877a15-0656-6c6f-a011-87d0b063dbaf</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>xxx</folder-name>
+	<internal-name>xxx</internal-name>
+	<navLabel>xxx</navLabel>
+	<tenantsTitle_s>xxx</tenantsTitle_s>
+	<localeCode_s/>
+	<sourceLocaleCode_s/>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o/>
+	<header_o item-list="true"/>
+	<leftRail_o item-list="true"/>
+	<maxTenants_i>10</maxTenants_i>
+	<localeSourceId_s>a32c9c3a-260a-e9eb-bebc-2fd13bb8dd8c</localeSourceId_s>
+	<createdDate>2023-12-06T02:22:10.253Z</createdDate>
+	<createdDate_dt>2023-12-06T02:22:10.253Z</createdDate_dt>
+	<lastModifiedDate>2023-12-06T02:22:10.253Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-06T02:22:10.253Z</lastModifiedDate_dt>
+</page>
