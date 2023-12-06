@@ -40,8 +40,8 @@
 		<div class="inner the-mag-detail__content the-mag-detail__main-content">
 		    <#--
 		    Note: - renderComponentCollection cannot handle exception when item in node selector no longer available 
+		    		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
 		    -->
-		    <@crafter.renderComponentCollection $field="pageSections_o" $model=contentModel/>
 
 		    
 		    <#--<#assign count2 = getAvailableItems(contentModel.pageSections_o) />-->
@@ -77,7 +77,7 @@
 		    yyyy
 		    -->
 		    
-		    <#--
+		    
 		    <#assign itemIndex = 0 />
 		    
             <#list contentModel.pageSections_o.item as item>
@@ -85,12 +85,11 @@
                 
                 <#if myContentItem != "">
                     <#assign itemIndex = itemIndex + 1 />
-                    <@crafter.div $index=itemIndex>
-                        <@renderComponent componentPath = myContentItem.storeUrl />
-                    </@crafter.div>
+                    <@renderComponent component=item additionalModel=({ 'itemIndex': itemIndex } + renderComponentArguments) />
+                    <#--<@renderComponent componentPath = myContentItem.storeUrl />-->
                 </#if>
 			</#list>
-            -->
+            
 
             <ul class="the-mag-detail__content__info">
                 <#setting time_zone = siteConfig.getString("timeZone")>
