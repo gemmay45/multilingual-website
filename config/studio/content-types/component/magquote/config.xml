@@ -12,7 +12,7 @@
 	<image-thumbnail>mag-quote.png</image-thumbnail>
 	<paths>
 		<includes>
-			<pattern>^/site/components/the-mag/.*</pattern>
+			<pattern>^/site/components/+(en|es)/the-mag/.*</pattern>
 		</includes>
 	</paths>
 </content-type>
