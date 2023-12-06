@@ -79,18 +79,20 @@
 		    
 		    <#assign itemIndex = -1 />
 		    
-            <#list contentModel.pageSections_o.item as item>
-                <#assign myContentItem = siteItemService.getSiteItem(item.key)!"" />
-                
-                <#if myContentItem != "">
-                    <#assign itemIndex = itemIndex + 1 />
-                    <@crafter.div>
-                        <#--<@renderComponent component=item additionalModel=({ 'itemIndex': itemIndex }) />-->
-                        <@renderComponent componentPath = myContentItem.storeUrl additionalModel=({ 'itemIndex': itemIndex }) />
-                    </@crafter.div>
-                </#if>
-			</#list>
+                <#list contentModel.pageSections_o.item as item>
 
+                    <#assign myContentItem = siteItemService.getSiteItem(item.key)!"" />
+                    
+                    <#if myContentItem != "">
+                        <#assign itemIndex = itemIndex + 1 />
+                        <@crafter.div $field="pageSections_o" $model=contentModel $index=item?index>
+                            <#--<@renderComponent component=item additionalModel=({ 'itemIndex': itemIndex }) />-->
+                            <@renderComponent componentPath = myContentItem.storeUrl additionalModel=({ 'itemIndex': itemIndex }) />
+                        </@crafter.div>
+                    </#if>
+    			</#list>
+
+            
             <ul class="the-mag-detail__content__info">
                 <#setting time_zone = siteConfig.getString("timeZone")>
                 <li><i aria-hidden="true" class="fas fa-clock"> </i>
