@@ -170,7 +170,7 @@
        * List of valid custom locale codes for Pokemon
        */
       _getLocaleList: function _getLocaleList() {
-        return ['us', 'uk', 'de', 'es', 'fr', 'it', 'dk', 'fi', 'nl', 'no', 'ru', 'se', 'br', 'el', 'jp'];
+        return ['us', 'uk', 'en', 'zh-hk', 'zh-cn', 'de', 'es', 'fr', 'it', 'dk', 'fi', 'nl', 'no', 'ru', 'se', 'br', 'el', 'jp'];
       },
 
       /**
