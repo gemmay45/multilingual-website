@@ -22,7 +22,7 @@
 	<value>Taikoo This Month</value>
 	</item></items>
 	<file-name>categories.xml</file-name>
-	<folder-name>/site/taxonomy</folder-name>
+	<folder-name>/site/taxonomy/en</folder-name>
 	<internal-name>Categories</internal-name>
 	<createdDate>2017-05-12T4:56:54.000Z</createdDate>
 	<createdDate_dt>2017-05-12T4:56:54.000Z</createdDate_dt>
