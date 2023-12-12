@@ -870,7 +870,7 @@
 						</property>
 						<property>
 							<name>componentPath</name>
-							<value>/site/taxonomy/en/categories.xml</value>
+							<value>/site/taxonomy/categories.xml</value>
 								<type>undefined</type>
 						</property>
 					</properties>
